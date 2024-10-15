@@ -41,6 +41,20 @@ public:
      */
     std::vector<double> findSmallestN(const std::vector<double>& data,
                                      const int n) const;
+
+    /**
+     * @brief Finds the lowest temperature in the two summers.
+     * @param data Vector of temperature readings.
+     * @return The lowest temperature in the two summers.
+     */
+    double calculateLowestSummerTemperature(const std::vector<double>& data) const;
+
+    /**
+     * @brief Finds the highest temperature in the two winters.
+     * @param data Vector of temperature readings.
+     * @return The highest temperature in the two winters.
+     */
+    double calculateLowestWinterTemperature(const std::vector<double>& data) const;
 };
 
 /**
@@ -49,38 +63,21 @@ public:
  */
 class Temperature {
 private:
-    std::vector<double> temperatures;
-    Statistics stats;
+    std::vector<double> temperatures; /**< The temperatures collected. */
+    Statistics stats; /**< The statistics for the temperatures. */
 
 public:
     /**
      * @brief Adds a new temperature reading.
-     * @param record The TemperatureRecord to add.
+     * @param temperature The temperature to add.
      */
-    void addTemperature(const TemperatureRecord& record);
+    void addTemperature(const Measurement& temperature);
 
     /**
-     * @brief Calculates various temperature statistics.
+     * @brief Retrieves the temperature data.
+     * @return The temperature data.
      */
-    void calculateStatistics() const;
-
-    /**
-     * @brief Gets the mean temperature.
-     * @return The mean temperature.
-     */
-    double getMeanTemperature() const;
-
-    /**
-     * @brief Gets the median temperature.
-     * @return The median temperature.
-     */
-    double getMedianTemperature() const;
-
-    /**
-     * @brief Gets the complete temperature data.
-     * @return A TemperatureData object containing mean and median temperatures.
-     */
-    TemperatureData getTemperatureData() const;
+    double getTemperatureData() const;
 
     /**
      * @brief Resets all temperature data.

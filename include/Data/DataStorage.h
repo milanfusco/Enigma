@@ -1,3 +1,11 @@
+/**
+ * @file DataStorage.h
+ * @brief Declaration of the DataStorage class.
+ *
+ * The DataStorage class manages the storage and retrieval of SOL (Sol or Solar
+ * day) data.
+ */
+
 #ifndef DATASTORAGE_H
 #define DATASTORAGE_H
 
@@ -14,7 +22,6 @@
 class DataStorage {
  private:
   std::vector<SOLData> masterSOLData;
-
  public:
   /**
    * @brief Stores a new SOL data entry.
@@ -36,5 +43,13 @@ class DataStorage {
    */
   SOLData getSOLData(int solNumber) const;
 };
+
+/**
+ * @brief Creates a master temperature data vector from SOL data to be used for
+ * temperature analysis and statistics.
+ * @param solData The SOL data to create the master temperature data from.
+ * @return A vector of pairs containing SOL number and temperature.
+ */
+std::vector<double> createMasterTemperatureData(const std::vector<SOLData>& solData);
 
 #endif  // DATASTORAGE_H

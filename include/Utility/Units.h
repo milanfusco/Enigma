@@ -5,15 +5,18 @@
 #include <unordered_map>
 #include <memory>
 
+
 /**
  * @enum UnitType
  * @brief Enumeration of different types of units.
  * i.e. Distance, Temperature, Time
+ * None is used to represent no unit type
  */
 enum class UnitType {
     Distance,
     Temperature,
-    Time
+    Time,
+    None
 };
 
 /**
@@ -22,6 +25,13 @@ enum class UnitType {
  * i.e. Meter, Centimeter, Kilometer
  */
 enum class DistanceUnit { Meter, Centimeter, Kilometer };
+
+/**
+ * @enum Direction
+ * @brief Enumeration of different directions.
+ * i.e. North, South, East, West
+ */
+enum class Direction { Forward, Backward, Left, Right };
 
 /**
  * @enum TemperatureUnit
@@ -93,6 +103,8 @@ public:
 
     // Delete copy constructor and assignment operator
     UnitConverter(const UnitConverter&) = delete;
+    
+    // Delete assignment operator
     UnitConverter& operator=(const UnitConverter&) = delete;
 };
 

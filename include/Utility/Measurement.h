@@ -1,3 +1,11 @@
+/**
+ * @file Measurement.h
+ * @brief Declaration of the Measurement class.
+ *
+ * The Measurement class represents a measurement with a value, unit type, and
+ * specific unit.
+ */
+
 #ifndef MEASUREMENT_H
 #define MEASUREMENT_H
 
@@ -18,6 +26,8 @@ class Measurement {
   int unitEnum;
 
  public:
+  Measurement() : value(0), unitType(UnitType::None), unitEnum(0) {}
+
   /**
    * @brief Constructs a new Measurement object.
    * @param val The numerical value of the measurement.

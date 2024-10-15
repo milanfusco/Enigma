@@ -6,6 +6,11 @@
 #include "SOLData.h"
 
 /**
+ * @brief The initial SOL number.
+ */
+const int INITIAL_SOL = 1;
+
+/**
  * @class SOLObserver
  * @brief Abstract base class for objects that observe SOL finalization.
  */
@@ -16,6 +21,10 @@ class SOLObserver {
    * @param solData The finalized SOL data.
    */
   virtual void onSOLFinalized(const SOLData& solData) = 0;
+
+  /**
+   * @brief Destructor for SOLObserver.
+   */
   virtual ~SOLObserver() = default;
 };
 
@@ -27,11 +36,17 @@ using SOLObserverPtr = std::shared_ptr<SOLObserver>;
  */
 class SOLManager {
  private:
-  int currentSOL;
-  int totalSOLs;
-  std::vector<SOLObserverPtr> observers;
+  int currentSOL; /**< The current SOL number. */
+  int totalSOLs; /**< The total number of SOLs. */
+  std::vector<SOLObserverPtr> observers; /**< The observers of the SOL. */
 
  public:
+  /**
+   * @brief Constructor for SOLManager.
+   * @param totalSOLs The total number of SOLs.
+   */
+  SOLManager(int totalSOLs=0);
+
   /**
    * @brief Advances to the next SOL.
    */

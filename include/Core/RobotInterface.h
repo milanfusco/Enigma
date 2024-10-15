@@ -1,3 +1,14 @@
+/**
+ * @file RobotInterface.h
+ * @brief Declaration of the RobotInterface class.
+ *
+ * The RobotInterface class defines the core functionality that any robot
+ * implementation must provide. It serves as a facade for the concrete robot
+ * class, hiding the complexity of the subsystems behind a single interface.
+ * It uses the Facade design pattern, along with the PIMPL idiom to hide the
+ * implementation details of the concrete robot class.
+ */
+
 #ifndef ROBOTINTERFACE_H
 #define ROBOTINTERFACE_H
 
@@ -9,8 +20,9 @@
  * @class RobotInterface
  * @brief Abstract interface for robot operations.
  *
- * This interface defines the core functionality that any robot
- * implementation must provide.
+ * The RobotInterface class defines the core functionality that any robot
+ * implementation must provide. It serves as a facade for the concrete robot
+ * class, hiding the complexity of the subsystems behind a single interface.
  */
 class RobotInterface {
 public:
@@ -32,9 +44,13 @@ public:
      */
     virtual void reset() = 0;
 
+    /**
+     * @brief Destructor for the RobotInterface.
+     */
     virtual ~RobotInterface() = default;
 };
 
+/** @brief A pointer to a RobotInterface. */
 using RobotInterfacePtr = std::unique_ptr<RobotInterface>;
 
-#endif  // RobotInterface_h
+#endif  // ROBOTINTERFACE_H

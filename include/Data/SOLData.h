@@ -5,25 +5,18 @@
 #include "Records.h"
 #include "SampleAnalysis.h"
 #include "Temperature.h"
+#include "DataStorage.h"
 
 #include <optional>
 
-/**
- * @struct TemperatureData
- * @brief Contains temperature statistics for a Sol.
- */
-struct TemperatureData {
-  double meanTemperature;
-  double medianTemperature;
-};
 
 /**
  * @struct NavigationData
  * @brief Contains navigation data for a Sol.
  */
 struct NavigationData {
-  double finalDistance;
-  Direction finalDirection;
+  double finalDistance; /**< The final distance. */
+  Direction finalDirection; /**< The final direction. */
 };
 
 /**
@@ -32,10 +25,10 @@ struct NavigationData {
  */
 class SOLData {
  private:
-  int solNumber;
-  TemperatureData temperatureData;
-  std::optional<NavigationData> navigationData;
-  std::optional<SampleClassification> sampleData;
+  int solNumber; /**< The Sol number. */
+  double SOLTemperature; /**< The temperature of the Sol. */
+  std::optional<NavigationData> navigationData; /**< The navigation data. */
+  std::optional<SampleClassification> sampleData; /**< The sample data. */
 
  public:
   /**
@@ -48,13 +41,13 @@ class SOLData {
    * @brief Stores temperature data for the Sol.
    * @param data The TemperatureData to store.
    */
-  void storeTemperatureData(TemperatureData& data);
+  void storeTemperatureData(const double& data);
 
   /**
    * @brief Stores navigation data for the Sol.
    * @param data The NavigationData to store.
    */
-  void storeNavigationData(NavigationData& data);
+  void storeNavigationData(const NavigationData& data);
 
   /**
    * @brief Stores sample analysis data for the Sol.
@@ -72,7 +65,7 @@ class SOLData {
    * @brief Gets the temperature data.
    * @return Constant reference to the TemperatureData.
    */
-  const TemperatureData& getTemperatureData() const;
+  const double& getTemperatureData() const;
 
   /**
    * @brief Gets the navigation data.

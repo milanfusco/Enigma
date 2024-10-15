@@ -1,3 +1,11 @@
+/**
+ * @file MissionControl.h
+ * @brief Declaration of the MissionControl class.
+ *
+ * The MissionControl class coordinates the robot's activities, manages SOL
+ * data, and handles record processing and storage.
+ */
+
 #ifndef MISSIONCONTROL_H
 #define MISSIONCONTROL_H
 
