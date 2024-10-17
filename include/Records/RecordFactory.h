@@ -13,8 +13,8 @@
 
 #include <string>
 #include <vector>
-#include "RecordProcessingStrategies.h"
-#include "Records.h"
+#include "Records/RecordProcessingStrategies.h"
+#include "Records/Records.h"
 
 /**
  * @class RecordFactory

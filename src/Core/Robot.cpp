@@ -1,10 +1,9 @@
-#include "Robot.h"
-#include "RobotInterface.h"
+#include "Core/Robot.h"
 
 #include <memory>
 
 // Factory function to create a Robot instance
-RobotInterfacePtr createRobot() {
+std::unique_ptr<Robot> Robot::createRobot() {
   return std::make_unique<Robot>(std::make_unique<Navigation>(),
                                  std::make_unique<Temperature>(),
                                  std::make_unique<SampleAnalysis>());

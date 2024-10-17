@@ -1,15 +1,24 @@
 #ifndef RECORDS_h
 #define RECORDS_h
 
+#include "Utility/Measurement.h"
 #include <memory>
 #include <string>
 #include <vector>
-#include "Measurement.h"
-#include "Navigation.h"
-#include "SampleAnalysis.h"
-#include "Temperature.h"
+
+
+
+// Forward declarations
+class Navigation;
+class Temperature;
+class SampleAnalysis;
 
 enum class RecordType { Navigation, Temperature, SampleAnalysis };
+
+struct NavigationRecord {
+  Measurement finalDistance;
+  Direction finalDirection;
+};
 
 /**
  * @class RecordProcessingStrategy
@@ -23,9 +32,9 @@ class RecordProcessingStrategy {
    * @param temperature The temperature subsystem.
    * @param sampleAnalysis The sample analysis subsystem.
    */
-  virtual void process(Navigation& navigation,
-                       Temperature& temperature,
-                       SampleAnalysis& sampleAnalysis) const = 0;
+  virtual void process( Navigation& navigation,
+                        Temperature& temperature,
+                        SampleAnalysis& sampleAnalysis) const = 0;
   /**
    * @brief Destructor for the RecordProcessingStrategy.
    */

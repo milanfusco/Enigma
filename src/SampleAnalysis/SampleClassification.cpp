@@ -61,7 +61,9 @@ void SampleClassification::classify(double wavelength, double intensity) {
              wavelength <= element.lowIntensityRange.second)) {
           classification = element.name;
           break;
-        };
+        } else {
+          classification = "Unknown";
+        }
       }
     }
   }

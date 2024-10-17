@@ -1,23 +1,14 @@
-#ifndef SOLDATA_h
-#define SOLDATA_h
+#ifndef SOLDATA_H
+#define SOLDATA_H
 
-#include "Navigation.h"
-#include "Records.h"
-#include "SampleAnalysis.h"
-#include "Temperature.h"
-#include "DataStorage.h"
+#include "Records/Records.h"
+#include "Subsystems/Navigation.h"
+#include "Subsystems/SampleAnalysis.h"
+#include "Subsystems/Temperature.h"
 
 #include <optional>
 
 
-/**
- * @struct NavigationData
- * @brief Contains navigation data for a Sol.
- */
-struct NavigationData {
-  double finalDistance; /**< The final distance. */
-  Direction finalDirection; /**< The final direction. */
-};
 
 /**
  * @class SOLData
@@ -25,10 +16,10 @@ struct NavigationData {
  */
 class SOLData {
  private:
-  int solNumber; /**< The Sol number. */
+  int solNumber;         /**< The Sol number. */
   double SOLTemperature; /**< The temperature of the Sol. */
-  std::optional<NavigationData> navigationData; /**< The navigation data. */
-  std::optional<SampleClassification> sampleData; /**< The sample data. */
+  NavigationRecord navigationData;   /**< The navigation data. */
+  SampleClassification sampleData; /**< The sample data. */
 
  public:
   /**
@@ -47,7 +38,7 @@ class SOLData {
    * @brief Stores navigation data for the Sol.
    * @param data The NavigationData to store.
    */
-  void storeNavigationData(const NavigationData& data);
+  void storeNavigationData(const NavigationRecord& data);
 
   /**
    * @brief Stores sample analysis data for the Sol.
@@ -62,22 +53,22 @@ class SOLData {
   int getSolNumber() const;
 
   /**
-   * @brief Gets the temperature data.
+   * @brief Gets the temperature data to store.
    * @return Constant reference to the TemperatureData.
    */
   const double& getTemperatureData() const;
 
   /**
-   * @brief Gets the navigation data.
-   * @return Constant reference to the optional NavigationData.
+   * @brief Gets the final navigation Record to store.
+   * @return Constant reference to the optional NavigationRecord.
    */
-  const std::optional<NavigationData>& getNavigationData() const;
+  const NavigationRecord& getNavigationData() const;
 
   /**
-   * @brief Gets the sample analysis data.
+   * @brief Gets the sample analysis classification to store.
    * @return Constant reference to the optional SampleClassification.
    */
-  const std::optional<SampleClassification>& getSampleData() const;
+  const SampleClassification& getSampleData() const;
 };
 
-#endif  // SOLDATA_h
+#endif  // SOLDATA_H

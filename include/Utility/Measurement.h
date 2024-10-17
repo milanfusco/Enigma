@@ -10,7 +10,7 @@
 #define MEASUREMENT_H
 
 #include <memory>
-#include "Units.h"
+#include "Utility/Units.h"
 
 /**
  * @class Measurement
@@ -47,6 +47,12 @@ class Measurement {
    * @return A string representation of the unit name.
    */
   std::string getUnitName() const;
+
+  /**
+   * @brief Gets the value of the measurement.
+   * @return The value of the measurement.
+   */
+  double getValue() const;
 };
 
 #endif  // MEASUREMENT_H

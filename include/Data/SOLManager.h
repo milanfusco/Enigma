@@ -1,9 +1,9 @@
 #ifndef SOLMANAGER_H
 #define SOLMANAGER_H
 
+#include "Data/SOLData.h"
 #include <memory>
 #include <vector>
-#include "SOLData.h"
 
 /**
  * @brief The initial SOL number.

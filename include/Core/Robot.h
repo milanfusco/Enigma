@@ -64,7 +64,7 @@ private:
   void collectSample();
   void transmitData();
 
-  static RobotInterfacePtr createRobot();
+  static std::unique_ptr<Robot> createRobot();
 };
 
 #endif  // ROBOT_H

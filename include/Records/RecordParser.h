@@ -10,8 +10,8 @@
 
 #include <string>
 #include <vector>
-#include "Records.h"
-#include "Measurement.h"
+#include "Records/Records.h"
+#include "Utility/Measurement.h"
 
 /**
  * @class RecordParser

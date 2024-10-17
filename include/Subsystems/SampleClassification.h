@@ -2,7 +2,7 @@
 #define SAMPLECLASSIFICATION_H
 
 #include <string>
-
+#include <vector>
 /**
  * @class SampleClassification
  * @brief Classifies the sample based on the intensity and wavelength.

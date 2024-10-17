@@ -6,7 +6,7 @@ void SOLData::storeTemperatureData(const double& data) {
   SOLTemperature = data;
 }
 
-void SOLData::storeNavigationData(const NavigationData& data) {
+void SOLData::storeNavigationData(const NavigationRecord& data) {
   navigationData = data;
 }
 
@@ -22,10 +22,10 @@ const double& SOLData::getTemperatureData() const {
   return SOLTemperature;
 }
 
-const std::optional<NavigationData>& SOLData::getNavigationData() const {
+const NavigationRecord& SOLData::getNavigationData() const {
   return navigationData;
 }
 
-const std::optional<SampleClassification>& SOLData::getSampleData() const {
+const SampleClassification& SOLData::getSampleData() const {
   return sampleData;
 }

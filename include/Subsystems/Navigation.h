@@ -10,10 +10,10 @@
 #ifndef NAVIGATION_H
 #define NAVIGATION_H
 
-#include "Records.h"
-#include "SOLData.h"
-#include "Units.h"
-
+#include "Data/SOLData.h"
+#include "Utility/Units.h"
+#include "Utility/Measurement.h"
+#include "Records/Records.h"
 /**
  * @class Position
  * @brief Represents the robot's position in a 2D coordinate system.
@@ -91,8 +91,7 @@ class Navigation {
    * @param direction The direction of the movement.
    * @param distance The distance of the movement.
    */
-  void addRecord(Direction direction, const Measurement& distance);
-
+  void addRecord(const std::vector<std::pair<Measurement, Direction>>& measurements);
   /**
    * @brief Calculates the final position of the robot.
    * @return The distance from the starting point.
@@ -109,7 +108,7 @@ class Navigation {
    * @brief Gets the complete navigation data.
    * @return A NavigationData object containing final position and direction.
    */
-  NavigationData getNavigationData() const;
+  NavigationRecord getNavigationData() const;
 
   /**
    * @brief Resets the navigation data to initial state.

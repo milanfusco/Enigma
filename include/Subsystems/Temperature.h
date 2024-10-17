@@ -1,8 +1,8 @@
 #ifndef TEMPERATURE_H
 #define TEMPERATURE_H
 
-#include "Records.h"
-#include "SOLData.h"
+#include "Records/Records.h"
+#include "Data/SOLData.h"
 
 /**
  * @class Statistics
@@ -15,14 +15,14 @@ public:
      * @param data Vector of temperature readings.
      * @return The mean temperature.
      */
-    double calculateMean(const std::vector<double>& data) const;
+    static double calculateMean(const std::vector<double>& data);
 
     /**
      * @brief Calculates the median of a dataset.
      * @param data Vector of temperature readings.
      * @return The median temperature.
      */
-    double calculateMedian(const std::vector<double>& data) const;
+    static double calculateMedian(const std::vector<double>& data);
 
     /**
      * @brief Finds the N largest values in a dataset.
@@ -30,8 +30,8 @@ public:
      * @param n Number of largest values to find.
      * @return Vector of the N largest values.
      */
-    std::vector<double> findLargestN(const std::vector<double>& data,
-                                     const int n) const;
+    static std::vector<double> findLargestN(const std::vector<double>& data,
+                                     const int n);
 
     /**
      * @brief Finds the N smallest values in a dataset.
@@ -39,22 +39,22 @@ public:
      * @param n Number of smallest values to find.
      * @return Vector of the N smallest values.
      */
-    std::vector<double> findSmallestN(const std::vector<double>& data,
-                                     const int n) const;
+    static std::vector<double> findSmallestN(const std::vector<double>& data,
+                                     const int n);
 
     /**
      * @brief Finds the lowest temperature in the two summers.
      * @param data Vector of temperature readings.
      * @return The lowest temperature in the two summers.
      */
-    double calculateLowestSummerTemperature(const std::vector<double>& data) const;
+    static double calculateLowestSummerTemperature(const std::vector<double>& data);
 
     /**
      * @brief Finds the highest temperature in the two winters.
      * @param data Vector of temperature readings.
      * @return The highest temperature in the two winters.
      */
-    double calculateLowestWinterTemperature(const std::vector<double>& data) const;
+    static double calculateLowestWinterTemperature(const std::vector<double>& data);
 };
 
 /**
@@ -63,9 +63,7 @@ public:
  */
 class Temperature {
 private:
-    std::vector<double> temperatures; /**< The temperatures collected. */
-    Statistics stats; /**< The statistics for the temperatures. */
-
+    double SOLTemperature; /**< The temperatures collected. */
 public:
     /**
      * @brief Adds a new temperature reading.

@@ -13,3 +13,7 @@ std::string Measurement::getUnitName() const {
   auto converter = UnitConverter::getInstance();
   return converter->getUnitName(unitType, unitEnum);
 }
+
+double Measurement::getValue() const {
+  return value;
+}

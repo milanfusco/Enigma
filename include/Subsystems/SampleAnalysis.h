@@ -1,9 +1,8 @@
 #ifndef SAMPLEANALYSIS_H
 #define SAMPLEANALYSIS_H
 
-#include "Records.h"
-#include "SampleClassification.h"
-
+#include "Subsystems/SampleClassification.h"
+#include "Utility/Measurement.h"
 /**
  * @class SampleAnalysis
  * @brief Manages sample analysis records and classifications.

@@ -9,8 +9,8 @@
 #ifndef DATASTORAGE_H
 #define DATASTORAGE_H
 
+#include "Data/SOLData.h"
 #include <vector>
-#include "SOLData.h"
 
 /**
  * @class DataStorage

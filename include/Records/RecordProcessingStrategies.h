@@ -11,9 +11,12 @@
 #ifndef RECORDPROCESSINGSTRATEGIES_H
 #define RECORDPROCESSINGSTRATEGIES_H
 
-#include "Measurement.h"
-#include "Records.h"
-#include "Units.h"
+#include "Records/Records.h"
+#include "Subsystems/Navigation.h"
+#include "Subsystems/SampleAnalysis.h"
+#include "Subsystems/Temperature.h"
+#include "Utility/Measurement.h"
+#include "Utility/Units.h"
 
 /**
  * @class NavigationRecordStrategy
@@ -22,12 +25,14 @@
 class NavigationRecordStrategy : public RecordProcessingStrategy {
  private:
   std::vector<std::pair<Measurement, Direction>> measurements;
+
  public:
   /**
    * @brief Constructor for NavigationRecordStrategy.
    * @param measurements The vector of measurements and directions.
    */
-  NavigationRecordStrategy(const std::vector<std::pair<Measurement, Direction>>& measurements)
+  NavigationRecordStrategy(
+      const std::vector<std::pair<Measurement, Direction>>& measurements)
       : measurements(measurements) {}
 
   /**
@@ -39,9 +44,7 @@ class NavigationRecordStrategy : public RecordProcessingStrategy {
   void process(Navigation& navigation,
                Temperature& temperature,
                SampleAnalysis& sampleAnalysis) const override {
-    for (const auto& measurement : measurements) {
-      navigation.addRecord(measurement.second, measurement.first);
-    }
+    navigation.addRecord(measurements);
   }
 };
 
