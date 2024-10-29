@@ -1,3 +1,11 @@
+/**
+ * @file Temperature.h
+ * @brief Declaration of the Temperature class.
+ *
+ * The Temperature class manages the temperature data collected during the
+ * mission. It provides methods to add temperature readings, calculate statistics,
+ * and retrieve temperature data.
+ */
 #ifndef TEMPERATURE_H
 #define TEMPERATURE_H
 

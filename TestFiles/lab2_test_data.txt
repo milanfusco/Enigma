@@ -1,0 +1,2336 @@
+t,14.5141,celsius
+w,17.9061, centimeters, 17.9061
+d,0.147142,centimeters,forward,145.471,seconds,25.9941,centimeters,forward,246.541,seconds,2.73014,centimeters,forward,300.121,seconds,24.4981,centimeters,forward,203.931,seconds
+t,16.1961,celsius
+t,10.0211,celsius
+d,3.33814,micrometers,left,249.791,sols,16.8721,micrometers,left,158.861,sols,10.1641,micrometers,left,204.281,sols,17.3651,micrometers,left,113.741,sols
+t,6.79514,kelvin
+t,-30.0641,kelvin
+d,18.8281,nanometers,right,100.151,minutes,27.1941,nanometers,right,316.051,minutes,10.7761,nanometers,right,99.8814,minutes,6.94714,nanometers,right,66.4814,minutes
+t,2.85514,celsius
+w,15.2091, nanometers, 7.60457
+t,14.1601,celsius
+d,28.3761,centimeters,forward,204.151,seconds,12.0761,centimeters,forward,70.8714,seconds,13.9661,centimeters,forward,259.951,seconds,9.08114,centimeters,forward,144.761,seconds
+t,17.8531,celsius
+t,7.20714,celsius
+d,13.3701,micrometers,left,21.3114,sols,18.7131,micrometers,left,220.481,sols,31.2101,micrometers,left,216.721,sols,25.4701,micrometers,left,37.4514,sols
+t,-23.1681,celsius
+t,-25.6741,celsius
+w,24.9051, centimeters, 24.9051
+d,20.4351,micrometers,left,86.9014,sols,15.5831,micrometers,left,61.7314,sols,32.6041,micrometers,left,309.131,sols,29.8751,micrometers,left,172.221,sols
+t,-24.2581,kelvin
+t,-31.9451,celsius
+d,3.13714,micrometers,left,139.731,sols,6.13214,micrometers,left,166.811,sols,1.08714,micrometers,left,88.9614,sols,5.65814,micrometers,left,306.301,sols
+t,-32.3311,celsius
+t,16.9491,celsius
+d,22.6941,kilometers,left,171.781,sols,13.1791,kilometers,left,208.021,sols,24.2511,kilometers,left,312.451,sols,11.5001,kilometers,left,141.201,sols
+t,4.31314,celsius
+w,13.4191, micrometers, 3.35479
+t,-23.2271,celsius
+d,12.7081,kilometers,left,102.221,sols,19.9011,kilometers,left,294.261,sols,30.8191,kilometers,left,26.9814,sols,26.7961,kilometers,left,16.8814,sols
+t,7.00014,celsius
+t,-26.4371,celsius
+d,4.34614,centimeters,forward,284.521,seconds,4.03914,centimeters,forward,52.2114,seconds,17.5321,centimeters,forward,309.391,seconds,3.23714,centimeters,forward,101.111,seconds
+t,11.4431,celsius
+t,14.6591,celsius
+w,1.75314, nanometers, 0.876571
+d,10.7761,centimeters,forward,125.061,seconds,2.90114,centimeters,forward,301.161,seconds,6.23414,centimeters,forward,319.491,seconds,0.732142,centimeters,forward,128.661,seconds
+t,-25.9721,celsius
+t,-29.1901,celsius
+d,15.2101,nanometers,right,33.1114,minutes,23.7831,nanometers,right,171.631,minutes,7.88814,nanometers,right,239.641,minutes,9.38314,nanometers,right,120.521,minutes
+t,11.8621,celsius
+t,12.3251,kelvin
+d,6.82114,micrometers,left,282.741,sols,23.0501,micrometers,left,212.141,sols,6.88114,micrometers,left,54.9414,sols,14.4481,micrometers,left,88.5814,sols
+t,-21.1431,kelvin
+w,32.2151, nanometers, 16.1076
+t,1.09314,celsius
+d,14.3291,centimeters,forward,146.161,seconds,7.44314,centimeters,forward,82.6314,seconds,23.9731,centimeters,forward,64.6214,seconds,7.58714,centimeters,forward,87.1514,seconds
+t,9.09714,kelvin
+t,-27.2541,kelvin
+d,8.11514,nanometers,right,159.341,minutes,5.63914,nanometers,right,2.24142,minutes,16.6521,nanometers,right,72.2014,minutes,29.1171,nanometers,right,264.971,minutes
+t,-21.7911,kelvin
+t,19.1001,celsius
+w,20.6411, micrometers, 5.16029
+d,13.9791,centimeters,forward,53.2114,seconds,30.3131,centimeters,forward,73.1914,seconds,6.64814,centimeters,forward,104.391,seconds,16.3231,centimeters,forward,298.621,seconds
+t,12.4321,kelvin
+t,1.41514,celsius
+d,18.9851,nanometers,right,105.471,minutes,24.8381,nanometers,right,300.681,minutes,31.4431,nanometers,right,103.111,minutes,12.8961,nanometers,right,226.981,minutes
+t,15.0501,kelvin
+t,-29.0871,celsius
+d,26.7191,kilometers,left,219.491,sols,32.3921,kilometers,left,145.951,sols,18.8391,kilometers,left,134.351,sols,13.4371,kilometers,left,270.011,sols
+t,16.6051,celsius
+w,11.7101, nanometers, 5.85507
+t,-21.3941,kelvin
+d,24.8481,centimeters,forward,159.811,seconds,14.9891,centimeters,forward,44.1914,seconds,18.2251,centimeters,forward,146.191,seconds,10.3211,centimeters,forward,269.791,seconds
+t,18.1631,kelvin
+t,3.87014,kelvin
+d,13.1471,kilometers,left,57.9914,sols,0.695142,kilometers,left,24.0714,sols,28.2461,kilometers,left,36.1014,sols,9.67214,kilometers,left,26.8814,sols
+t,-27.3461,kelvin
+t,13.3841,celsius
+w,29.5441, kilometers, 9.84805
+d,32.0281,nanometers,right,175.881,minutes,21.8321,nanometers,right,98.0714,minutes,27.1321,nanometers,right,56.9614,minutes,27.2601,nanometers,right,253.721,minutes
+t,19.8151,celsius
+t,-22.3801,celsius
+d,27.1191,micrometers,left,33.8814,sols,22.9781,micrometers,left,256.101,sols,20.0741,micrometers,left,317.691,sols,6.33914,micrometers,left,5.20142,sols
+t,5.13914,celsius
+t,-23.9701,celsius
+d,1.66714,nanometers,right,325.751,minutes,28.1451,nanometers,right,171.061,minutes,9.07914,nanometers,right,316.561,minutes,24.0761,nanometers,right,142.591,minutes
+t,0.779142,kelvin
+w,26.2341, kilometers, 8.74471
+t,-27.9631,kelvin
+d,12.8891,kilometers,left,272.781,sols,2.53414,kilometers,left,121.971,sols,11.4981,kilometers,left,240.581,sols,29.6281,kilometers,left,192.421,sols
+t,18.9761,kelvin
+t,7.68214,celsius
+d,1.79514,nanometers,right,235.771,minutes,32.1991,nanometers,right,206.501,minutes,32.5031,nanometers,right,183.051,minutes,4.51814,nanometers,right,50.1214,minutes
+t,2.56914,celsius
+t,2.95814,celsius
+w,1.16614, nanometers, 0.583071
+d,23.4821,kilometers,left,126.281,sols,6.38614,kilometers,left,3.11142,sols,22.5371,kilometers,left,100.271,sols,26.0031,kilometers,left,203.721,sols
+t,3.17114,kelvin
+t,5.32714,celsius
+d,21.2231,centimeters,forward,190.941,seconds,13.7961,centimeters,forward,98.1414,seconds,13.6521,centimeters,forward,169.701,seconds,2.13214,centimeters,forward,98.8514,seconds
+t,11.2791,celsius
+t,12.6971,kelvin
+d,11.7161,nanometers,right,285.071,minutes,17.1241,nanometers,right,217.521,minutes,25.1201,nanometers,right,28.5414,minutes,29.2311,nanometers,right,205.121,minutes
+t,-27.7161,kelvin
+w,4.44214, nanometers, 2.22107
+t,16.4621,celsius
+d,19.8451,kilometers,left,279.311,sols,23.0831,kilometers,left,208.741,sols,32.1411,kilometers,left,257.711,sols,31.9501,kilometers,left,230.381,sols
+t,-28.4681,celsius
+t,-25.1421,celsius
+d,29.4701,nanometers,right,30.6414,minutes,4.51214,nanometers,right,238.641,minutes,11.8651,nanometers,right,23.6914,minutes,5.68214,nanometers,right,141.561,minutes
+t,19.9801,celsius
+t,1.42214,celsius
+w,27.1861, micrometers, 6.79654
+d,4.72414,nanometers,right,224.241,minutes,8.75614,nanometers,right,206.021,minutes,13.0241,nanometers,right,235.291,minutes,16.8001,nanometers,right,171.801,minutes
+t,14.9331,celsius
+t,19.5481,celsius
+d,32.0241,nanometers,right,63.0314,minutes,2.20114,nanometers,right,281.101,minutes,10.2911,nanometers,right,149.951,minutes,25.5031,nanometers,right,91.4114,minutes
+t,15.0421,kelvin
+t,16.9241,celsius
+d,8.38314,nanometers,right,48.5814,minutes,31.2161,nanometers,right,19.7414,minutes,6.81914,nanometers,right,124.231,minutes,4.01114,nanometers,right,6.31142,minutes
+t,4.14114,celsius
+w,4.27314, centimeters, 4.27314
+t,-32.2831,celsius
+d,7.64814,centimeters,forward,26.4714,seconds,4.96914,centimeters,forward,118.051,seconds,21.5771,centimeters,forward,223.441,seconds,17.3511,centimeters,forward,108.161,seconds
+t,0.0151416,kelvin
+t,-32.2481,celsius
+d,2.66714,kilometers,left,62.4514,sols,1.54214,kilometers,left,137.161,sols,20.6681,kilometers,left,95.3214,sols,16.5931,kilometers,left,289.701,sols
+t,-22.4081,celsius
+t,14.9141,celsius
+w,29.2601, nanometers, 14.6301
+d,10.1921,micrometers,left,257.061,sols,2.11714,micrometers,left,274.141,sols,7.79914,micrometers,left,1.53142,sols,8.10014,micrometers,left,272.761,sols
+t,-26.0831,celsius
+t,2.11314,celsius
+d,31.4351,centimeters,forward,27.5814,seconds,5.05214,centimeters,forward,262.621,seconds,28.0881,centimeters,forward,258.111,seconds,31.1321,centimeters,forward,296.201,seconds
+t,10.2491,celsius
+t,15.9421,kelvin
+d,11.8231,nanometers,right,81.7514,minutes,3.73714,nanometers,right,230.311,minutes,32.2361,nanometers,right,323.711,minutes,27.2651,nanometers,right,40.1514,minutes
+t,15.4931,kelvin
+w,28.6731, nanometers, 14.3366
+t,-23.6481,celsius
+d,26.7391,kilometers,left,286.901,sols,19.1071,kilometers,left,264.521,sols,32.2591,kilometers,left,289.301,sols,12.9151,kilometers,left,26.9414,sols
+t,3.36414,kelvin
+t,2.79714,celsius
+d,28.0151,centimeters,forward,41.5114,seconds,8.61414,centimeters,forward,49.7314,seconds,29.6231,centimeters,forward,326.631,seconds,10.7761,centimeters,forward,17.6414,seconds
+t,-31.0141,celsius
+t,-26.3561,celsius
+w,11.0421, centimeters, 11.0421
+d,5.36814,nanometers,right,200.721,minutes,23.4381,nanometers,right,213.121,minutes,13.7611,nanometers,right,145.361,minutes,10.0511,nanometers,right,126.591,minutes
+t,0.733142,kelvin
+t,15.1681,kelvin
+d,4.07014,centimeters,forward,110.331,seconds,9.80914,centimeters,forward,285.141,seconds,5.64714,centimeters,forward,195.741,seconds,7.42814,centimeters,forward,49.6714,seconds
+t,15.2251,kelvin
+t,12.0391,kelvin
+d,28.8591,nanometers,right,304.421,minutes,18.3541,nanometers,right,249.031,minutes,7.39914,nanometers,right,267.041,minutes,22.6481,nanometers,right,274.741,minutes
+t,12.3341,kelvin
+w,0.473142, centimeters, 0.473142
+t,12.4421,kelvin
+d,31.2321,centimeters,forward,102.331,seconds,3.98514,centimeters,forward,235.521,seconds,5.10814,centimeters,forward,148.541,seconds,6.41914,centimeters,forward,139.621,seconds
+t,14.8531,celsius
+t,-23.0621,celsius
+d,10.0251,micrometers,left,300.391,sols,18.7371,micrometers,left,324.331,sols,25.7011,micrometers,left,148.621,sols,31.7291,micrometers,left,37.7714,sols
+t,5.36214,celsius
+t,-20.9801,celsius
+w,20.2991, micrometers, 5.07479
+d,25.6811,nanometers,right,102.341,minutes,23.2761,nanometers,right,293.711,minutes,19.3381,nanometers,right,272.511,minutes,9.12714,nanometers,right,313.421,minutes
+t,4.80614,celsius
+t,15.0071,kelvin
+d,17.1191,micrometers,left,120.191,sols,29.4471,micrometers,left,216.601,sols,32.1201,micrometers,left,250.721,sols,12.4971,micrometers,left,225.251,sols
+t,7.49614,celsius
+t,15.2661,kelvin
+d,25.1711,nanometers,right,226.381,minutes,3.13614,nanometers,right,272.461,minutes,7.93014,nanometers,right,250.611,minutes,23.6551,nanometers,right,245.171,minutes
+t,9.74614,kelvin
+w,9.62614, kilometers, 3.20871
+t,7.16314,celsius
+d,2.01214,kilometers,left,158.701,sols,5.96014,kilometers,left,271.941,sols,9.99314,kilometers,left,303.731,sols,28.5661,kilometers,left,95.1714,sols
+t,16.2451,celsius
+t,-29.8281,celsius
+d,4.95814,nanometers,right,76.4014,minutes,13.9961,nanometers,right,312.461,minutes,14.8811,nanometers,right,251.251,minutes,23.6551,nanometers,right,130.631,minutes
+t,18.3851,kelvin
+t,8.74014,celsius
+w,22.8111, kilometers, 7.60371
+d,27.7341,centimeters,forward,255.891,seconds,3.67914,centimeters,forward,16.8314,seconds,18.6551,centimeters,forward,156.221,seconds,25.2181,centimeters,forward,76.2114,seconds
+t,10.6951,celsius
+t,5.20314,celsius
+d,26.2321,kilometers,left,265.131,sols,25.4171,kilometers,left,278.351,sols,0.492142,kilometers,left,303.481,sols,28.4161,kilometers,left,26.0814,sols
+t,-22.2521,celsius
+t,-26.1661,celsius
+d,8.18614,nanometers,right,240.461,minutes,7.93714,nanometers,right,10.2414,minutes,19.4681,nanometers,right,242.091,minutes,26.3111,nanometers,right,157.531,minutes
+t,8.72514,celsius
+w,19.5241, kilometers, 6.50805
+t,2.64414,celsius
+d,27.7001,centimeters,forward,67.7714,seconds,0.164142,centimeters,forward,166.211,seconds,1.82714,centimeters,forward,230.111,seconds,32.4111,centimeters,forward,135.051,seconds
+t,2.95314,celsius
+t,3.20314,kelvin
+d,5.81614,kilometers,left,22.4514,sols,29.0231,kilometers,left,95.1214,sols,2.16614,kilometers,left,50.7414,sols,1.02314,kilometers,left,49.4914,sols
+t,-25.8811,celsius
+t,-20.3611,celsius
+w,3.37114, micrometers, 0.842785
+d,16.6991,kilometers,left,186.011,sols,30.9861,kilometers,left,236.431,sols,25.5651,kilometers,left,160.461,sols,23.4411,kilometers,left,192.091,sols
+t,8.43614,celsius
+t,0.148142,kelvin
+d,12.3801,kilometers,left,260.741,sols,28.1831,kilometers,left,80.5014,sols,14.4071,kilometers,left,246.651,sols,7.50614,kilometers,left,170.631,sols
+t,-20.4501,celsius
+t,-22.2751,celsius
+d,13.1721,kilometers,left,45.9514,sols,9.55014,kilometers,left,194.861,sols,4.13514,kilometers,left,208.591,sols,13.5351,kilometers,left,228.041,sols
+t,-20.4671,celsius
+w,29.1831, nanometers, 14.5916
+t,-25.3471,celsius
+d,9.27214,kilometers,left,230.851,sols,17.2111,kilometers,left,20.6914,sols,2.85814,kilometers,left,87.4214,sols,25.4261,kilometers,left,280.861,sols
+t,19.2191,celsius
+t,4.05814,celsius
+d,17.0291,micrometers,left,241.791,sols,13.9691,micrometers,left,14.1414,sols,2.22514,micrometers,left,319.421,sols,2.63314,micrometers,left,320.981,sols
+t,11.0071,celsius
+t,-30.4681,kelvin
+w,29.0201, nanometers, 14.5101
+d,2.72714,kilometers,left,186.941,sols,17.6541,kilometers,left,176.301,sols,26.8331,kilometers,left,149.091,sols,9.10114,kilometers,left,20.5914,sols
+t,-31.3631,celsius
+t,-26.5601,celsius
+d,1.88314,nanometers,right,308.691,minutes,20.1711,nanometers,right,304.901,minutes,12.3651,nanometers,right,143.391,minutes,17.5621,nanometers,right,137.091,minutes
+t,10.9261,celsius
+t,-23.2371,celsius
+d,4.91114,nanometers,right,97.2914,minutes,5.87514,nanometers,right,10.8514,minutes,25.9821,nanometers,right,286.581,minutes,15.4941,nanometers,right,83.5214,minutes
+t,8.11914,celsius
+w,21.2301, centimeters, 21.2301
+t,10.6471,celsius
+d,20.0411,kilometers,left,192.831,sols,22.3021,kilometers,left,127.731,sols,21.1451,kilometers,left,121.731,sols,31.5341,kilometers,left,26.6614,sols
+t,-23.6651,celsius
+t,11.8681,celsius
+d,18.9051,nanometers,right,53.4314,minutes,5.35614,nanometers,right,138.301,minutes,21.3011,nanometers,right,147.281,minutes,24.8531,nanometers,right,290.441,minutes
+t,12.6721,kelvin
+t,0.484142,kelvin
+w,9.60514, kilometers, 3.20171
+d,20.3591,micrometers,left,248.941,sols,7.66014,micrometers,left,235.201,sols,16.4071,micrometers,left,188.081,sols,27.7541,micrometers,left,162.191,sols
+t,-23.1451,celsius
+t,-26.9341,celsius
+d,31.9591,centimeters,forward,97.0714,seconds,20.0771,centimeters,forward,193.381,seconds,27.5221,centimeters,forward,306.761,seconds,0.474142,centimeters,forward,181.801,seconds
+t,-22.5511,celsius
+t,-24.6721,kelvin
+d,30.0451,kilometers,left,47.6214,sols,20.2681,kilometers,left,209.031,sols,2.65514,kilometers,left,247.891,sols,6.47214,kilometers,left,294.811,sols
+t,4.39914,celsius
+w,21.6571, nanometers, 10.8286
+t,7.36914,celsius
+d,18.4551,nanometers,right,218.581,minutes,15.2761,nanometers,right,255.871,minutes,14.0531,nanometers,right,282.191,minutes,6.16014,nanometers,right,70.7314,minutes
+t,-25.2091,celsius
+t,7.38114,celsius
+d,25.4511,nanometers,right,49.5614,minutes,2.10614,nanometers,right,157.051,minutes,4.74414,nanometers,right,214.991,minutes,32.3581,nanometers,right,131.941,minutes
+t,4.08014,celsius
+t,-27.3701,kelvin
+w,23.7221, micrometers, 5.93054
+d,12.4831,kilometers,left,215.271,sols,5.47514,kilometers,left,272.411,sols,28.1831,kilometers,left,111.311,sols,1.37214,kilometers,left,46.6414,sols
+t,-28.0201,celsius
+t,-28.0411,celsius
+d,3.99814,centimeters,forward,299.201,seconds,23.3631,centimeters,forward,202.751,seconds,16.8091,centimeters,forward,294.901,seconds,23.8751,centimeters,forward,224.721,seconds
+t,8.75614,celsius
+t,-29.6231,celsius
+d,16.9191,micrometers,left,218.861,sols,9.19214,micrometers,left,79.6814,sols,17.2401,micrometers,left,101.651,sols,10.3601,micrometers,left,29.3814,sols
+t,16.2611,celsius
+w,8.68714, nanometers, 4.34357
+t,-21.7601,kelvin
+d,26.7161,kilometers,left,87.4414,sols,9.55414,kilometers,left,179.521,sols,31.4671,kilometers,left,193.641,sols,23.3741,kilometers,left,112.491,sols
+t,5.90714,celsius
+t,-21.2671,kelvin
+d,17.2381,centimeters,forward,260.181,seconds,22.7561,centimeters,forward,283.711,seconds,26.0261,centimeters,forward,276.551,seconds,18.2021,centimeters,forward,146.121,seconds
+t,16.9741,celsius
+t,9.46714,kelvin
+w,14.7031, centimeters, 14.7031
+d,9.31314,kilometers,left,122.221,sols,4.18914,kilometers,left,104.121,sols,12.1201,kilometers,left,196.151,sols,8.17014,kilometers,left,239.571,sols
+t,6.87814,kelvin
+t,1.60914,celsius
+d,4.92714,nanometers,right,146.351,minutes,5.32314,nanometers,right,151.691,minutes,13.9311,nanometers,right,59.7714,minutes,27.0881,nanometers,right,105.741,minutes
+t,18.1021,kelvin
+t,-24.4041,kelvin
+d,4.36714,centimeters,forward,297.401,seconds,22.2811,centimeters,forward,153.051,seconds,22.1641,centimeters,forward,266.491,seconds,7.28214,centimeters,forward,138.031,seconds
+t,10.2221,celsius
+w,32.4291, nanometers, 16.2146
+t,10.3601,celsius
+d,5.51314,kilometers,left,44.6114,sols,13.7901,kilometers,left,219.651,sols,10.3231,kilometers,left,32.1714,sols,11.7181,kilometers,left,248.701,sols
+t,18.3731,kelvin
+t,11.4251,celsius
+d,12.7151,kilometers,left,176.551,sols,21.0761,kilometers,left,116.721,sols,23.8631,kilometers,left,300.801,sols,22.5061,kilometers,left,173.231,sols
+t,9.74314,kelvin
+t,-29.8421,celsius
+w,32.3001, nanometers, 16.1501
+d,15.7011,nanometers,right,176.331,minutes,6.30814,nanometers,right,282.891,minutes,14.7071,nanometers,right,115.251,minutes,17.4461,nanometers,right,19.5014,minutes
+t,-22.5111,celsius
+t,7.97714,celsius
+d,5.54414,kilometers,left,29.7014,sols,28.4651,kilometers,left,299.671,sols,28.2781,kilometers,left,66.8314,sols,30.9911,kilometers,left,292.131,sols
+t,-26.5261,celsius
+t,13.4061,celsius
+d,25.0961,nanometers,right,215.401,minutes,5.68414,nanometers,right,13.3514,minutes,7.23014,nanometers,right,12.7814,minutes,31.7761,nanometers,right,54.4314,minutes
+t,18.9521,kelvin
+w,4.01514, centimeters, 4.01514
+t,-25.0311,celsius
+d,6.82214,micrometers,left,13.3814,sols,10.4531,micrometers,left,201.301,sols,26.2401,micrometers,left,272.541,sols,27.8651,micrometers,left,310.921,sols
+t,17.2091,celsius
+t,-24.1841,kelvin
+d,22.1451,nanometers,right,99.9714,minutes,32.0381,nanometers,right,248.061,minutes,3.68514,nanometers,right,111.261,minutes,16.4191,nanometers,right,72.0514,minutes
+t,9.98714,kelvin
+t,7.08514,celsius
+w,18.6221, nanometers, 9.31107
+d,6.42314,kilometers,left,103.271,sols,9.66214,kilometers,left,258.821,sols,17.0121,kilometers,left,237.291,sols,1.21814,kilometers,left,109.771,sols
+t,-23.3351,celsius
+t,16.4571,celsius
+d,3.46414,centimeters,forward,68.7514,seconds,20.4921,centimeters,forward,161.671,seconds,12.0531,centimeters,forward,63.8914,seconds,6.49614,centimeters,forward,120.761,seconds
+t,4.92614,celsius
+t,-26.5941,celsius
+d,21.5601,centimeters,forward,206.071,seconds,16.4951,centimeters,forward,57.3214,seconds,8.30314,centimeters,forward,47.5914,seconds,29.3011,centimeters,forward,253.121,seconds
+t,3.67914,kelvin
+w,28.7871, nanometers, 14.3936
+t,-20.0451,celsius
+d,1.34214,nanometers,right,70.3614,minutes,15.5971,nanometers,right,325.011,minutes,23.6911,nanometers,right,44.4514,minutes,32.7701,nanometers,right,212.191,minutes
+t,7.56214,celsius
+t,-20.6361,celsius
+d,4.56414,nanometers,right,196.571,minutes,24.0221,nanometers,right,43.7214,minutes,4.31814,nanometers,right,40.0014,minutes,4.42714,nanometers,right,220.131,minutes
+t,6.01514,kelvin
+t,14.5441,celsius
+w,25.6201, nanometers, 12.8101
+d,23.2141,kilometers,left,244.771,sols,16.0281,kilometers,left,313.151,sols,27.3811,kilometers,left,20.1114,sols,23.6971,kilometers,left,322.701,sols
+t,11.2661,celsius
+t,18.1691,kelvin
+d,11.9771,nanometers,right,318.431,minutes,14.0481,nanometers,right,188.661,minutes,20.9961,nanometers,right,88.7914,minutes,4.52014,nanometers,right,237.081,minutes
+t,-22.5811,celsius
+t,-28.2851,celsius
+d,14.1491,centimeters,forward,91.7714,seconds,32.1561,centimeters,forward,27.7814,seconds,5.61314,centimeters,forward,316.991,seconds,12.9261,centimeters,forward,184.461,seconds
+t,18.2211,kelvin
+w,6.87514, micrometers, 1.71879
+t,1.24214,celsius
+d,31.4831,centimeters,forward,88.5714,seconds,19.8661,centimeters,forward,93.5614,seconds,20.3111,centimeters,forward,72.7314,seconds,4.20214,centimeters,forward,77.7514,seconds
+t,16.8541,celsius
+t,18.8351,kelvin
+d,3.45414,centimeters,forward,102.571,seconds,13.8921,centimeters,forward,121.531,seconds,20.4831,centimeters,forward,136.891,seconds,16.5321,centimeters,forward,312.051,seconds
+t,-25.5811,celsius
+t,-23.6331,celsius
+w,1.28914, nanometers, 0.644571
+d,23.5061,kilometers,left,271.331,sols,25.5531,kilometers,left,76.2414,sols,13.2831,kilometers,left,317.141,sols,22.9711,kilometers,left,232.681,sols
+t,5.72214,celsius
+t,-31.2701,celsius
+d,10.0201,micrometers,left,27.7314,sols,22.1991,micrometers,left,127.961,sols,2.07714,micrometers,left,100.941,sols,19.5341,micrometers,left,307.081,sols
+t,14.2771,celsius
+t,13.0461,celsius
+d,6.50614,micrometers,left,142.341,sols,2.71114,micrometers,left,218.281,sols,28.1041,micrometers,left,49.1014,sols,14.1471,micrometers,left,67.0714,sols
+t,4.44214,celsius
+w,5.35614, nanometers, 2.67807
+t,12.6821,kelvin
+d,17.2601,centimeters,forward,125.911,seconds,29.5191,centimeters,forward,264.491,seconds,5.82914,centimeters,forward,137.511,seconds,31.6531,centimeters,forward,93.0114,seconds
+t,-31.3361,celsius
+t,10.7651,celsius
+d,6.41514,kilometers,left,36.6214,sols,24.6481,kilometers,left,103.251,sols,22.0381,kilometers,left,254.161,sols,10.9511,kilometers,left,79.3014,sols
+t,2.16414,celsius
+t,19.4611,celsius
+w,32.2581, nanometers, 16.1291
+d,8.02614,nanometers,right,256.081,minutes,13.0001,nanometers,right,86.0414,minutes,30.6791,nanometers,right,53.7514,minutes,1.96214,nanometers,right,298.901,minutes
+t,19.4451,celsius
+t,10.5791,celsius
+d,27.5381,centimeters,forward,79.5014,seconds,10.9641,centimeters,forward,98.5114,seconds,22.5391,centimeters,forward,181.331,seconds,21.5031,centimeters,forward,286.251,seconds
+t,16.5631,celsius
+t,-25.1361,celsius
+d,8.47214,nanometers,right,74.7014,minutes,9.60214,nanometers,right,251.731,minutes,32.4041,nanometers,right,301.791,minutes,31.6131,nanometers,right,228.451,minutes
+t,18.2421,kelvin
+w,14.6191, centimeters, 14.6191
+t,-25.2601,celsius
+d,10.7631,centimeters,forward,302.341,seconds,3.80514,centimeters,forward,251.391,seconds,10.3801,centimeters,forward,141.341,seconds,17.5331,centimeters,forward,183.641,seconds
+t,7.54614,celsius
+t,-27.1911,kelvin
+d,15.1731,nanometers,right,159.451,minutes,31.0201,nanometers,right,154.841,minutes,3.95014,nanometers,right,287.151,minutes,2.31414,nanometers,right,12.7014,minutes
+t,6.23314,kelvin
+t,-25.6141,celsius
+w,1.13814, nanometers, 0.569071
+d,17.6711,centimeters,forward,309.341,seconds,21.8491,centimeters,forward,257.511,seconds,8.30714,centimeters,forward,58.0914,seconds,6.01614,centimeters,forward,58.9014,seconds
+t,-27.8281,kelvin
+t,2.25314,celsius
+d,22.5811,nanometers,right,314.181,minutes,14.1571,nanometers,right,257.221,minutes,11.0381,nanometers,right,229.551,minutes,22.4061,nanometers,right,247.501,minutes
+t,7.83314,celsius
+t,16.0471,celsius
+d,15.6241,nanometers,right,214.041,minutes,28.7971,nanometers,right,134.711,minutes,28.3741,nanometers,right,88.1414,minutes,7.16314,nanometers,right,162.461,minutes
+t,3.26914,kelvin
+w,28.7851, nanometers, 14.3926
+t,-29.4811,celsius
+d,20.0841,kilometers,left,175.181,sols,19.4841,kilometers,left,59.6214,sols,17.7281,kilometers,left,175.741,sols,10.3521,kilometers,left,279.121,sols
+t,4.95614,celsius
+t,-20.1201,celsius
+d,10.8831,centimeters,forward,293.261,seconds,12.7421,centimeters,forward,290.021,seconds,25.9991,centimeters,forward,258.211,seconds,15.5351,centimeters,forward,241.461,seconds
+t,-28.9951,celsius
+t,11.3471,celsius
+w,32.0411, nanometers, 16.0206
+d,30.0671,kilometers,left,92.5414,sols,17.8411,kilometers,left,84.5114,sols,13.0711,kilometers,left,318.621,sols,18.3231,kilometers,left,53.7214,sols
+t,13.7121,celsius
+t,11.1281,celsius
+d,24.2931,centimeters,forward,325.571,seconds,32.5171,centimeters,forward,36.6314,seconds,8.45114,centimeters,forward,215.451,seconds,20.1601,centimeters,forward,92.5314,seconds
+t,-25.9261,celsius
+t,-28.5511,celsius
+d,13.4691,micrometers,left,296.061,sols,7.64714,micrometers,left,173.541,sols,16.6091,micrometers,left,222.791,sols,24.6161,micrometers,left,275.561,sols
+t,11.1961,celsius
+w,2.68914, kilometers, 0.896381
+t,-29.1301,celsius
+d,25.7111,nanometers,right,163.951,minutes,22.9771,nanometers,right,232.831,minutes,15.2561,nanometers,right,9.87142,minutes,3.66914,nanometers,right,177.361,minutes
+t,9.09414,kelvin
+t,4.43914,celsius
+d,32.1021,nanometers,right,159.821,minutes,7.30514,nanometers,right,225.701,minutes,28.1341,nanometers,right,301.591,minutes,31.2241,nanometers,right,225.771,minutes
+t,4.48914,celsius
+t,17.6461,celsius
+w,22.5641, nanometers, 11.2821
+d,9.64314,kilometers,left,251.741,sols,25.9551,kilometers,left,193.101,sols,1.21914,kilometers,left,179.941,sols,11.5791,kilometers,left,249.321,sols
+t,10.3001,celsius
+t,17.0031,celsius
+d,3.46014,centimeters,forward,145.421,seconds,29.5421,centimeters,forward,237.651,seconds,31.7141,centimeters,forward,101.941,seconds,0.371142,centimeters,forward,143.001,seconds
+t,17.8321,celsius
+t,-31.3271,celsius
+d,4.86414,nanometers,right,241.551,minutes,30.6421,nanometers,right,85.3814,minutes,6.95114,nanometers,right,108.741,minutes,3.84314,nanometers,right,87.4214,minutes
+t,-29.1121,celsius
+w,13.8351, centimeters, 13.8351
+t,-31.0561,celsius
+d,15.1711,nanometers,right,46.0214,minutes,16.3971,nanometers,right,252.181,minutes,10.2121,nanometers,right,17.8714,minutes,10.8161,nanometers,right,272.771,minutes
+t,4.31214,celsius
+t,13.6811,celsius
+d,20.0881,kilometers,left,313.411,sols,12.9951,kilometers,left,132.461,sols,11.6411,kilometers,left,81.4214,sols,30.0551,kilometers,left,160.261,sols
+t,10.0401,celsius
+t,-26.7691,celsius
+w,16.9431, micrometers, 4.23579
+d,23.7361,micrometers,left,160.711,sols,3.87114,micrometers,left,179.851,sols,7.32514,micrometers,left,51.3014,sols,30.9751,micrometers,left,308.261,sols
+t,2.33814,celsius
+t,7.21814,celsius
+d,0.972142,centimeters,forward,203.051,seconds,28.3661,centimeters,forward,236.691,seconds,28.9821,centimeters,forward,39.7214,seconds,2.44414,centimeters,forward,192.021,seconds
+t,6.48314,kelvin
+t,15.8611,kelvin
+d,31.3271,centimeters,forward,14.6314,seconds,1.26914,centimeters,forward,99.4014,seconds,26.3301,centimeters,forward,188.241,seconds,29.5991,centimeters,forward,162.361,seconds
+t,-29.6301,celsius
+w,9.66414, kilometers, 3.22138
+t,1.07414,celsius
+d,4.96414,nanometers,right,247.441,minutes,21.9441,nanometers,right,260.491,minutes,0.347142,nanometers,right,238.861,minutes,25.7571,nanometers,right,269.491,minutes
+t,14.8791,celsius
+t,5.14314,celsius
+d,12.6831,kilometers,left,157.531,sols,29.6711,kilometers,left,182.691,sols,4.80414,kilometers,left,136.381,sols,15.6351,kilometers,left,36.4114,sols
+t,-32.3611,celsius
+t,8.88114,celsius
+w,19.0981, nanometers, 9.54907
+d,0.553142,centimeters,forward,120.741,seconds,21.8571,centimeters,forward,170.911,seconds,13.1691,centimeters,forward,319.141,seconds,17.3781,centimeters,forward,224.581,seconds
+t,1.82914,celsius
+t,10.6081,celsius
+d,12.5921,kilometers,left,319.021,sols,22.9121,kilometers,left,117.781,sols,14.4251,kilometers,left,77.2614,sols,9.49314,kilometers,left,176.601,sols
+t,15.2641,kelvin
+t,16.9741,celsius
+d,20.7951,centimeters,forward,196.601,seconds,25.0761,centimeters,forward,115.341,seconds,20.3021,centimeters,forward,175.881,seconds,13.0131,centimeters,forward,117.631,seconds
+t,-31.3281,celsius
+w,22.4051, nanometers, 11.2026
+t,3.97614,kelvin
+d,17.2731,centimeters,forward,78.7714,seconds,16.9651,centimeters,forward,223.451,seconds,7.33514,centimeters,forward,168.621,seconds,15.8971,centimeters,forward,294.871,seconds
+t,-25.2351,celsius
+t,8.53114,celsius
+d,10.0451,micrometers,left,316.851,sols,25.9981,micrometers,left,57.7414,sols,12.4521,micrometers,left,125.211,sols,18.2161,micrometers,left,25.0314,sols
+t,10.2821,celsius
+t,10.2371,celsius
+w,31.9571, centimeters, 31.9571
+d,23.3891,kilometers,left,168.431,sols,15.6351,kilometers,left,261.181,sols,2.98514,kilometers,left,250.461,sols,7.51814,kilometers,left,64.8014,sols
+t,12.3501,kelvin
+t,0.569142,kelvin
+d,5.64214,kilometers,left,143.501,sols,6.56314,kilometers,left,54.3914,sols,32.4061,kilometers,left,287.361,sols,30.9481,kilometers,left,178.491,sols
+t,-27.3871,kelvin
+t,-32.1081,celsius
+d,8.86814,nanometers,right,155.001,minutes,1.47214,nanometers,right,291.641,minutes,16.2411,nanometers,right,220.541,minutes,17.6121,nanometers,right,296.251,minutes
+t,-20.5701,celsius
+w,28.9621, nanometers, 14.4811
+t,2.91614,celsius
+d,24.9161,centimeters,forward,195.321,seconds,13.9901,centimeters,forward,200.981,seconds,31.4511,centimeters,forward,132.981,seconds,32.7201,centimeters,forward,151.231,seconds
+t,9.95614,kelvin
+t,5.02714,celsius
+d,8.89514,kilometers,left,38.1514,sols,18.5851,kilometers,left,134.741,sols,26.8731,kilometers,left,233.591,sols,26.7351,kilometers,left,122.391,sols
+t,14.3361,celsius
+t,12.8981,kelvin
+w,18.8541, nanometers, 9.42707
+d,28.1811,centimeters,forward,181.331,seconds,8.70014,centimeters,forward,81.5114,seconds,14.3491,centimeters,forward,323.881,seconds,7.24714,centimeters,forward,229.771,seconds
+t,-28.6601,celsius
+t,-30.5491,kelvin
+d,30.7581,micrometers,left,146.941,sols,4.49714,micrometers,left,273.231,sols,10.5701,micrometers,left,291.431,sols,29.6481,micrometers,left,265.691,sols
+t,-23.2531,celsius
+t,12.0981,kelvin
+d,8.91714,kilometers,left,215.411,sols,21.8881,kilometers,left,209.421,sols,24.4141,kilometers,left,279.261,sols,14.2281,kilometers,left,99.1714,sols
+t,12.1951,kelvin
+w,25.6661, nanometers, 12.8331
+t,-21.4211,kelvin
+d,0.332142,centimeters,forward,122.901,seconds,30.9311,centimeters,forward,17.4114,seconds,13.7451,centimeters,forward,72.1014,seconds,30.4361,centimeters,forward,34.2814,seconds
+t,9.75814,kelvin
+t,15.1501,kelvin
+d,10.1861,micrometers,left,238.621,sols,32.6621,micrometers,left,126.991,sols,0.870142,micrometers,left,275.011,sols,18.8281,micrometers,left,262.051,sols
+t,-31.9511,celsius
+t,1.71514,celsius
+w,24.9231, centimeters, 24.9231
+d,12.7051,kilometers,left,143.731,sols,17.2661,kilometers,left,9.23142,sols,1.86914,kilometers,left,16.6314,sols,20.9521,kilometers,left,205.801,sols
+t,10.3071,celsius
+t,5.20614,celsius
+d,12.6581,kilometers,left,181.121,sols,25.7331,kilometers,left,154.701,sols,12.6241,kilometers,left,141.361,sols,0.743142,kilometers,left,241.001,sols
+t,9.82214,kelvin
+t,9.54014,kelvin
+d,17.5451,centimeters,forward,326.561,seconds,16.1771,centimeters,forward,172.921,seconds,31.4461,centimeters,forward,30.2814,seconds,1.23714,centimeters,forward,158.821,seconds
+t,1.17214,celsius
+w,15.4151, nanometers, 7.70757
+t,-27.4451,kelvin
+d,5.65814,kilometers,left,31.7614,sols,31.9401,kilometers,left,5.42142,sols,3.52914,kilometers,left,106.991,sols,13.4021,kilometers,left,206.051,sols
+t,14.9431,celsius
+t,6.08014,kelvin
+d,29.2961,nanometers,right,130.051,minutes,21.5941,nanometers,right,245.871,minutes,5.20914,nanometers,right,307.691,minutes,32.6131,nanometers,right,33.0314,minutes
+t,-21.1601,kelvin
+t,4.26714,celsius
+w,16.4291, kilometers, 5.47638
+d,31.9021,centimeters,forward,105.241,seconds,27.3021,centimeters,forward,201.641,seconds,23.2521,centimeters,forward,201.981,seconds,23.5701,centimeters,forward,224.031,seconds
+t,-29.5411,celsius
+t,2.84614,celsius
+d,10.3251,centimeters,forward,230.931,seconds,12.3861,centimeters,forward,307.831,seconds,6.09214,centimeters,forward,233.111,seconds,27.1411,centimeters,forward,213.171,seconds
+t,-26.0861,celsius
+t,-32.1911,celsius
+d,22.5401,nanometers,right,114.601,minutes,20.5141,nanometers,right,24.7014,minutes,21.0191,nanometers,right,39.3714,minutes,27.4941,nanometers,right,134.061,minutes
+t,9.35214,kelvin
+w,19.1511, nanometers, 9.57557
+t,9.12314,kelvin
+d,32.0421,nanometers,right,46.0314,minutes,31.9871,nanometers,right,66.7614,minutes,32.0631,nanometers,right,323.771,minutes,15.8641,nanometers,right,245.811,minutes
+t,-29.7541,celsius
+t,-20.8991,celsius
+d,28.7101,nanometers,right,257.841,minutes,30.3171,nanometers,right,206.091,minutes,2.62414,nanometers,right,319.721,minutes,4.80714,nanometers,right,44.5514,minutes
+t,17.8721,celsius
+t,-31.4561,celsius
+w,6.04914, kilometers, 2.01638
+d,9.24914,kilometers,left,265.281,sols,24.7061,kilometers,left,36.5514,sols,25.1381,kilometers,left,49.3014,sols,9.97914,kilometers,left,11.4314,sols
+t,13.4741,celsius
+t,16.2011,celsius
+d,19.4501,kilometers,left,0.161416,sols,5.17314,kilometers,left,218.431,sols,11.0371,kilometers,left,96.1714,sols,2.23614,kilometers,left,94.8214,sols
+t,13.4731,celsius
+t,-21.7271,kelvin
+d,31.6931,centimeters,forward,326.831,seconds,2.07414,centimeters,forward,146.131,seconds,20.8741,centimeters,forward,151.721,seconds,5.71314,centimeters,forward,152.041,seconds
+t,-21.8031,kelvin
+w,3.66114, centimeters, 3.66114
+t,-28.5191,celsius
+d,16.1301,kilometers,left,3.08142,sols,17.9901,kilometers,left,187.711,sols,10.4411,kilometers,left,152.171,sols,14.9711,kilometers,left,250.431,sols
+t,5.18114,celsius
+t,-20.5151,celsius
+d,0.310142,centimeters,forward,107.351,seconds,8.63014,centimeters,forward,86.4714,seconds,8.85814,centimeters,forward,58.9714,seconds,30.0111,centimeters,forward,216.311,seconds
+t,-27.6461,kelvin
+t,0.744142,kelvin
+w,25.5221, nanometers, 12.7611
+d,31.1721,centimeters,forward,84.8314,seconds,12.2741,centimeters,forward,297.511,seconds,14.6221,centimeters,forward,288.271,seconds,23.8131,centimeters,forward,192.971,seconds
+t,16.3981,celsius
+t,-32.6701,celsius
+d,19.3571,kilometers,left,194.061,sols,26.0121,kilometers,left,176.261,sols,15.2191,kilometers,left,228.941,sols,19.0431,kilometers,left,103.591,sols
+t,-27.1671,kelvin
+t,4.36614,celsius
+d,26.3611,kilometers,left,140.291,sols,14.6091,kilometers,left,322.271,sols,14.5701,kilometers,left,209.851,sols,5.50514,kilometers,left,169.381,sols
+t,2.90114,celsius
+w,20.7921, centimeters, 20.7921
+t,-32.7181,celsius
+d,28.9611,nanometers,right,168.051,minutes,10.0081,nanometers,right,265.381,minutes,2.88814,nanometers,right,168.941,minutes,23.3861,nanometers,right,284.781,minutes
+t,10.4761,celsius
+t,-28.9771,celsius
+d,29.5751,kilometers,left,278.941,sols,19.5981,kilometers,left,230.441,sols,24.1271,kilometers,left,91.3314,sols,3.25414,kilometers,left,187.261,sols
+t,18.3321,kelvin
+t,14.0061,celsius
+w,18.4451, nanometers, 9.22257
+d,28.9101,nanometers,right,169.961,minutes,10.7741,nanometers,right,226.421,minutes,27.8691,nanometers,right,40.1914,minutes,19.7641,nanometers,right,286.331,minutes
+t,-31.9671,celsius
+t,-23.9151,celsius
+d,24.2071,centimeters,forward,230.931,seconds,5.16314,centimeters,forward,288.531,seconds,10.5881,centimeters,forward,223.311,seconds,10.4451,centimeters,forward,313.031,seconds
+t,6.83314,kelvin
+t,14.8621,celsius
+d,31.0851,centimeters,forward,241.381,seconds,17.3841,centimeters,forward,223.851,seconds,2.61614,centimeters,forward,25.9914,seconds,31.0341,centimeters,forward,161.741,seconds
+t,3.09614,kelvin
+w,23.9711, micrometers, 5.99279
+t,14.3291,celsius
+d,26.2571,kilometers,left,225.681,sols,5.82014,kilometers,left,98.0214,sols,13.1661,kilometers,left,106.931,sols,2.03114,kilometers,left,278.361,sols
+t,-29.7571,celsius
+t,4.22714,celsius
+d,23.3771,kilometers,left,249.931,sols,30.2461,kilometers,left,49.7914,sols,15.3861,kilometers,left,144.981,sols,5.50714,kilometers,left,325.541,sols
+t,-27.0321,kelvin
+t,-30.4611,kelvin
+w,14.7461, centimeters, 14.7461
+d,24.6541,centimeters,forward,221.001,seconds,31.9071,centimeters,forward,7.66142,seconds,9.87614,centimeters,forward,85.2714,seconds,21.4121,centimeters,forward,91.6914,seconds
+t,-27.5851,kelvin
+t,-28.0291,celsius
+d,0.908142,centimeters,forward,307.971,seconds,6.30214,centimeters,forward,97.6814,seconds,5.45014,centimeters,forward,178.531,seconds,13.3071,centimeters,forward,299.411,seconds
+t,2.97314,celsius
+t,-22.0151,celsius
+d,12.5451,kilometers,left,257.501,sols,9.59714,kilometers,left,210.141,sols,22.6681,kilometers,left,170.351,sols,28.6741,kilometers,left,302.631,sols
+t,2.16514,celsius
+w,22.5561, nanometers, 11.2781
+t,5.69514,celsius
+d,26.1111,kilometers,left,197.011,sols,10.9221,kilometers,left,322.821,sols,20.7051,kilometers,left,169.181,sols,2.50014,kilometers,left,231.081,sols
+t,-31.3091,celsius
+t,18.7321,kelvin
+d,19.5141,kilometers,left,54.6514,sols,8.67014,kilometers,left,41.7514,sols,31.5241,kilometers,left,195.481,sols,2.45714,kilometers,left,236.891,sols
+t,2.30214,celsius
+t,15.1341,kelvin
+w,27.1841, micrometers, 6.79604
+d,17.2481,centimeters,forward,205.351,seconds,6.02414,centimeters,forward,114.041,seconds,21.1911,centimeters,forward,131.191,seconds,18.9421,centimeters,forward,80.5814,seconds
+t,-23.1241,celsius
+t,1.04314,celsius
+d,20.6471,micrometers,left,89.5514,sols,7.75014,micrometers,left,277.651,sols,5.60014,micrometers,left,13.3414,sols,11.7061,micrometers,left,88.7214,sols
+t,7.11014,celsius
+t,8.49814,celsius
+d,23.2841,kilometers,left,297.291,sols,15.3801,kilometers,left,310.961,sols,29.2521,kilometers,left,251.371,sols,18.3411,kilometers,left,173.711,sols
+t,-21.4591,kelvin
+w,9.05314, kilometers, 3.01771
+t,12.3511,kelvin
+d,24.5861,centimeters,forward,274.321,seconds,14.3931,centimeters,forward,104.761,seconds,3.59114,centimeters,forward,62.4514,seconds,8.01514,centimeters,forward,311.771,seconds
+t,19.4321,celsius
+t,-23.4081,celsius
+d,27.8921,centimeters,forward,114.681,seconds,10.7501,centimeters,forward,297.421,seconds,22.6271,centimeters,forward,266.171,seconds,30.2711,centimeters,forward,246.871,seconds
+t,7.28814,celsius
+t,-21.9921,kelvin
+w,22.5691, nanometers, 11.2846
+d,16.5061,kilometers,left,243.231,sols,19.8461,kilometers,left,23.6914,sols,19.2341,kilometers,left,293.011,sols,24.6021,kilometers,left,84.2414,sols
+t,14.0031,celsius
+t,7.41814,celsius
+d,29.1281,nanometers,right,62.8614,minutes,2.06914,nanometers,right,253.681,minutes,27.5241,nanometers,right,219.231,minutes,10.0051,nanometers,right,228.161,minutes
+t,7.98814,celsius
+t,2.41514,celsius
+d,16.6491,kilometers,left,37.8014,sols,9.18914,kilometers,left,201.821,sols,5.77514,kilometers,left,185.481,sols,21.6341,kilometers,left,175.011,sols
+t,-26.4001,celsius
+w,15.4871, nanometers, 7.74357
+t,-27.3111,kelvin
+d,3.64114,centimeters,forward,322.411,seconds,1.42314,centimeters,forward,223.021,seconds,15.7121,centimeters,forward,93.7314,seconds,23.1431,centimeters,forward,35.2914,seconds
+t,-29.2181,celsius
+t,4.46514,celsius
+d,24.9041,centimeters,forward,166.141,seconds,19.4441,centimeters,forward,76.4414,seconds,6.97914,centimeters,forward,106.901,seconds,7.32814,centimeters,forward,49.6014,seconds
+t,-22.6371,celsius
+t,3.88914,kelvin
+w,14.6321, centimeters, 14.6321
+d,15.0171,nanometers,right,49.9614,minutes,15.4661,nanometers,right,91.3114,minutes,30.2551,nanometers,right,57.5014,minutes,10.7161,nanometers,right,40.4914,minutes
+t,-22.9681,celsius
+t,2.74514,celsius
+d,31.3841,centimeters,forward,55.0814,seconds,14.1451,centimeters,forward,186.751,seconds,23.1771,centimeters,forward,132.051,seconds,24.0721,centimeters,forward,39.9114,seconds
+t,17.3181,celsius
+t,4.89814,celsius
+d,23.6951,micrometers,left,152.791,sols,12.8861,micrometers,left,266.441,sols,7.45614,micrometers,left,327.351,sols,14.1321,micrometers,left,249.061,sols
+t,-28.2481,celsius
+w,0.0541416, centimeters, 0.0541416
+t,-25.7771,celsius
+d,27.3091,micrometers,left,318.741,sols,6.70914,micrometers,left,199.541,sols,9.50014,micrometers,left,53.4514,sols,31.0301,micrometers,left,227.291,sols
+t,1.28614,celsius
+t,4.06614,celsius
+d,0.580142,centimeters,forward,321.591,seconds,4.61514,centimeters,forward,70.2314,seconds,14.9601,centimeters,forward,233.251,seconds,22.4731,centimeters,forward,293.971,seconds
+t,-32.0681,celsius
+t,-32.0221,celsius
+w,10.0631, micrometers, 2.51579
+d,2.93014,kilometers,left,145.461,sols,19.4571,kilometers,left,147.351,sols,12.7191,kilometers,left,255.771,sols,24.0911,kilometers,left,270.311,sols
+t,11.3581,celsius
+t,11.1211,celsius
+d,26.9551,kilometers,left,325.891,sols,16.4571,kilometers,left,116.981,sols,23.0261,kilometers,left,299.541,sols,3.26914,kilometers,left,230.901,sols
+t,13.8401,celsius
+t,9.86414,kelvin
+d,30.3161,kilometers,left,56.8114,sols,8.74514,kilometers,left,287.441,sols,24.4491,kilometers,left,2.25142,sols,28.5181,kilometers,left,248.281,sols
+t,5.04914,celsius
+w,27.7451, centimeters, 27.7451
+t,-20.2691,celsius
+d,0.652142,centimeters,forward,93.5014,seconds,1.89914,centimeters,forward,101.341,seconds,8.51514,centimeters,forward,279.051,seconds,27.7601,centimeters,forward,79.8414,seconds
+t,7.72814,celsius
+t,-25.8201,celsius
+d,16.8531,micrometers,left,306.651,sols,31.2561,micrometers,left,90.0914,sols,25.8991,micrometers,left,71.1514,sols,31.2711,micrometers,left,254.231,sols
+t,19.4941,celsius
+t,-20.5801,celsius
+w,29.1231, nanometers, 14.5616
+d,22.3131,nanometers,right,118.051,minutes,10.2351,nanometers,right,86.9414,minutes,24.2391,nanometers,right,245.861,minutes,25.3521,nanometers,right,29.4114,minutes
+t,13.4111,celsius
+t,12.2531,kelvin
+d,21.1621,centimeters,forward,91.6914,seconds,13.2881,centimeters,forward,143.831,seconds,19.3491,centimeters,forward,39.0814,seconds,8.34814,centimeters,forward,154.831,seconds
+t,-23.7271,celsius
+t,9.42314,kelvin
+d,14.8201,nanometers,right,90.9414,minutes,8.09514,nanometers,right,0.351416,minutes,32.3541,nanometers,right,94.6414,minutes,21.3191,nanometers,right,278.841,minutes
+t,3.05214,kelvin
+w,26.1031, kilometers, 8.70105
+t,19.3311,celsius
+d,12.4771,kilometers,left,9.21142,sols,21.0431,kilometers,left,155.491,sols,23.7341,kilometers,left,314.031,sols,27.4271,kilometers,left,265.911,sols
+t,12.4921,kelvin
+t,3.47314,kelvin
+d,22.3021,nanometers,right,215.141,minutes,24.2991,nanometers,right,37.3514,minutes,14.5091,nanometers,right,217.371,minutes,5.74914,nanometers,right,129.851,minutes
+t,-30.0021,kelvin
+t,-29.3021,celsius
+w,9.50914, kilometers, 3.16971
+d,30.5941,micrometers,left,191.571,sols,12.1351,micrometers,left,296.001,sols,15.2461,micrometers,left,256.841,sols,1.90914,micrometers,left,237.321,sols
+t,17.9581,celsius
+t,-26.7791,celsius
+d,23.6331,kilometers,left,169.091,sols,31.8001,kilometers,left,42.4914,sols,11.0591,kilometers,left,64.3114,sols,5.43614,kilometers,left,92.0914,sols
+t,-32.5411,celsius
+t,0.203142,kelvin
+d,20.6541,centimeters,forward,306.121,seconds,16.9951,centimeters,forward,72.6314,seconds,31.2021,centimeters,forward,268.061,seconds,3.57714,centimeters,forward,60.1614,seconds
+t,-32.7581,celsius
+w,0.531142, centimeters, 0.531142
+t,8.59814,celsius
+d,17.5091,centimeters,forward,48.9214,seconds,29.8641,centimeters,forward,0.581416,seconds,29.3911,centimeters,forward,118.001,seconds,15.4361,centimeters,forward,175.361,seconds
+t,2.89214,celsius
+t,17.5251,celsius
+d,23.1121,kilometers,left,326.861,sols,10.5091,kilometers,left,146.731,sols,20.2341,kilometers,left,309.871,sols,25.5371,kilometers,left,96.0414,sols
+t,4.34614,celsius
+t,3.97414,kelvin
+w,15.9761, kilometers, 5.32538
+d,25.2201,nanometers,right,188.811,minutes,7.51614,nanometers,right,73.6514,minutes,3.72814,nanometers,right,126.941,minutes,23.7851,nanometers,right,122.041,minutes
+t,17.7431,celsius
+t,-32.6771,celsius
+d,6.38214,kilometers,left,143.361,sols,15.1191,kilometers,left,191.201,sols,15.5401,kilometers,left,326.491,sols,10.7301,kilometers,left,178.841,sols
+t,5.52214,celsius
+t,-23.7211,celsius
+d,20.8961,centimeters,forward,195.271,seconds,21.4441,centimeters,forward,25.9114,seconds,12.9501,centimeters,forward,130.121,seconds,25.5901,centimeters,forward,101.551,seconds
+t,17.8231,celsius
+w,31.1471, centimeters, 31.1471
+t,-21.4971,kelvin
+d,26.1841,kilometers,left,323.501,sols,8.73714,kilometers,left,306.991,sols,22.3701,kilometers,left,265.751,sols,12.3211,kilometers,left,146.771,sols
+t,5.07814,celsius
+t,-25.6081,celsius
+d,15.0031,nanometers,right,53.5414,minutes,5.71614,nanometers,right,33.9714,minutes,5.31214,nanometers,right,152.161,minutes,4.59514,nanometers,right,71.4214,minutes
+t,-26.5651,celsius
+t,10.0621,celsius
+w,29.2371, nanometers, 14.6186
+d,28.9381,nanometers,right,218.781,minutes,22.8021,nanometers,right,206.921,minutes,11.4421,nanometers,right,233.791,minutes,15.7161,nanometers,right,250.241,minutes
+t,-29.6291,celsius
+t,-28.5691,celsius
+d,15.1221,nanometers,right,255.301,minutes,17.7651,nanometers,right,51.9914,minutes,28.3331,nanometers,right,290.601,minutes,0.223142,nanometers,right,159.681,minutes
+t,8.74414,celsius
+t,19.9191,celsius
+d,20.4621,micrometers,left,135.351,sols,12.9181,micrometers,left,12.5114,sols,31.1991,micrometers,left,307.671,sols,23.3551,micrometers,left,185.971,sols
+t,-21.6971,kelvin
+w,31.3001, centimeters, 31.3001
+t,0.456142,kelvin
+d,10.7531,centimeters,forward,86.8214,seconds,2.35614,centimeters,forward,130.701,seconds,22.6481,centimeters,forward,283.371,seconds,3.75614,centimeters,forward,74.4914,seconds
+t,-24.3731,kelvin
+t,14.1891,celsius
+d,26.4131,kilometers,left,160.831,sols,27.2791,kilometers,left,74.0514,sols,23.5021,kilometers,left,38.6314,sols,25.5911,kilometers,left,166.811,sols
+t,7.14414,celsius
+t,11.8831,celsius
+w,29.8781, kilometers, 9.95938
+d,9.84514,kilometers,left,21.3914,sols,6.27114,kilometers,left,37.1714,sols,21.2141,kilometers,left,225.591,sols,20.5501,kilometers,left,149.101,sols
+t,15.8371,kelvin
+t,-24.6491,kelvin
+d,5.58114,kilometers,left,290.101,sols,30.7821,kilometers,left,241.011,sols,5.34214,kilometers,left,121.071,sols,9.70914,kilometers,left,77.5414,sols
+t,-23.2631,celsius
+t,-20.9281,celsius
+d,24.5291,centimeters,forward,303.191,seconds,27.1301,centimeters,forward,101.111,seconds,2.77114,centimeters,forward,123.831,seconds,13.7591,centimeters,forward,75.5714,seconds
+t,-32.6571,celsius
+w,8.84814, nanometers, 4.42407
+t,-20.6001,celsius
+d,2.98214,kilometers,left,316.181,sols,10.3711,kilometers,left,216.701,sols,23.7961,kilometers,left,139.271,sols,30.5041,kilometers,left,113.101,sols
+t,17.1121,celsius
+t,-24.6961,kelvin
+d,2.64514,kilometers,left,158.771,sols,2.51614,kilometers,left,103.481,sols,26.3781,kilometers,left,59.4814,sols,11.8941,kilometers,left,76.5114,sols
+t,-28.9861,celsius
+t,-24.0171,kelvin
+w,10.6211, centimeters, 10.6211
+d,19.5091,kilometers,left,297.191,sols,32.5581,kilometers,left,308.461,sols,17.5731,kilometers,left,85.3414,sols,3.24114,kilometers,left,157.141,sols
+t,11.5921,celsius
+t,16.3031,celsius
+d,14.1271,centimeters,forward,258.701,seconds,26.2211,centimeters,forward,82.5214,seconds,32.5751,centimeters,forward,68.2114,seconds,10.2661,centimeters,forward,314.101,seconds
+t,-30.9141,kelvin
+t,8.90214,celsius
+d,7.70814,centimeters,forward,144.391,seconds,23.1391,centimeters,forward,310.281,seconds,18.8801,centimeters,forward,51.9214,seconds,8.05514,centimeters,forward,52.4214,seconds
+t,5.60114,celsius
+w,22.7501, kilometers, 7.58338
+t,-29.8461,celsius
+d,6.22814,kilometers,left,197.221,sols,24.3331,kilometers,left,126.971,sols,7.42714,kilometers,left,53.5714,sols,15.1751,kilometers,left,161.691,sols
+t,9.50614,kelvin
+t,15.3081,kelvin
+d,18.9061,nanometers,right,158.371,minutes,17.5621,nanometers,right,303.011,minutes,5.64414,nanometers,right,280.521,minutes,24.0131,nanometers,right,324.081,minutes
+t,4.71414,celsius
+t,12.9001,kelvin
+w,2.28114, kilometers, 0.760381
+d,1.63214,nanometers,right,0.161416,minutes,21.4761,nanometers,right,154.531,minutes,25.1461,nanometers,right,11.1614,minutes,29.7561,nanometers,right,14.4914,minutes
+t,7.77314,celsius
+t,-26.6711,celsius
+d,16.2241,kilometers,left,84.3614,sols,29.4851,kilometers,left,127.481,sols,29.9241,kilometers,left,46.2914,sols,4.82214,kilometers,left,12.7514,sols
+t,10.3091,celsius
+t,-26.7951,celsius
+d,25.3371,nanometers,right,91.7314,minutes,17.9261,nanometers,right,311.961,minutes,12.0481,nanometers,right,327.321,minutes,13.8221,nanometers,right,69.0714,minutes
+t,14.0691,celsius
+w,31.1811, centimeters, 31.1811
+t,3.93214,kelvin
+d,6.07814,kilometers,left,208.451,sols,7.76014,kilometers,left,196.431,sols,25.8671,kilometers,left,119.801,sols,6.97714,kilometers,left,193.261,sols
+t,17.4271,celsius
+t,3.66014,kelvin
+d,2.40814,kilometers,left,109.321,sols,28.5471,kilometers,left,143.731,sols,25.0671,kilometers,left,284.701,sols,21.3981,kilometers,left,69.2314,sols
+t,3.52014,kelvin
+t,1.38814,celsius
+w,18.4811, nanometers, 9.24057
+d,11.1111,centimeters,forward,52.4114,seconds,31.3181,centimeters,forward,163.551,seconds,6.19914,centimeters,forward,23.7814,seconds,16.4731,centimeters,forward,117.021,seconds
+t,-29.5021,celsius
+t,-22.7361,celsius
+d,8.17314,nanometers,right,242.431,minutes,1.11914,nanometers,right,234.051,minutes,28.3401,nanometers,right,138.931,minutes,22.0021,nanometers,right,73.2614,minutes
+t,18.6631,kelvin
+t,10.6921,celsius
+d,29.9351,kilometers,left,55.7414,sols,30.0471,kilometers,left,112.111,sols,31.5171,kilometers,left,311.981,sols,22.1671,kilometers,left,297.351,sols
+t,7.00014,celsius
+w,20.6281, micrometers, 5.15704
+t,10.1071,celsius
+d,11.9461,nanometers,right,167.161,minutes,31.8691,nanometers,right,224.851,minutes,29.0371,nanometers,right,277.231,minutes,23.3941,nanometers,right,158.361,minutes
+t,8.47414,celsius
+t,-31.7191,celsius
+d,8.91514,kilometers,left,236.621,sols,11.3761,kilometers,left,292.661,sols,27.8091,kilometers,left,204.961,sols,13.3201,kilometers,left,305.441,sols
+t,-32.1441,celsius
+t,16.2451,celsius
+w,23.2961, kilometers, 7.76538
+d,20.3931,micrometers,left,17.8314,sols,17.1541,micrometers,left,126.901,sols,24.1791,micrometers,left,37.6614,sols,11.2481,micrometers,left,221.721,sols
+t,13.9001,celsius
+t,-25.0451,celsius
+d,22.9141,kilometers,left,26.8214,sols,16.3711,kilometers,left,175.581,sols,17.6081,kilometers,left,104.571,sols,16.5161,kilometers,left,87.5914,sols
+t,-21.9111,kelvin
+t,-21.0331,kelvin
+d,32.7351,nanometers,right,125.271,minutes,3.63314,nanometers,right,265.791,minutes,27.4441,nanometers,right,185.381,minutes,6.17714,nanometers,right,235.981,minutes
+t,-32.7271,celsius
+w,3.81314, centimeters, 3.81314
+t,13.9641,celsius
+d,3.59514,centimeters,forward,138.061,seconds,18.0711,centimeters,forward,326.231,seconds,2.39314,centimeters,forward,262.531,seconds,26.9891,centimeters,forward,21.6914,seconds
+t,-27.0171,kelvin
+t,-32.3851,celsius
+d,22.3271,nanometers,right,239.071,minutes,0.106142,nanometers,right,174.771,minutes,28.8731,nanometers,right,136.681,minutes,3.31814,nanometers,right,180.141,minutes
+t,7.53114,celsius
+t,8.67614,celsius
+w,10.5641, centimeters, 10.5641
+d,20.0881,kilometers,left,20.1514,sols,2.52914,kilometers,left,230.401,sols,8.18314,kilometers,left,245.661,sols,6.00614,kilometers,left,210.641,sols
+t,-24.5961,kelvin
+t,8.15714,celsius
+d,19.2361,kilometers,left,23.4914,sols,29.3841,kilometers,left,43.8014,sols,2.55114,kilometers,left,34.7814,sols,18.7801,kilometers,left,7.62142,sols
+t,-25.9551,celsius
+t,4.79914,celsius
+d,29.8441,kilometers,left,195.841,sols,27.0461,kilometers,left,121.651,sols,21.7161,kilometers,left,16.8214,sols,12.6001,kilometers,left,182.881,sols
+t,1.16314,celsius
+w,16.6951, kilometers, 5.56505
+t,18.7021,kelvin
+d,18.4471,nanometers,right,275.951,minutes,3.62114,nanometers,right,225.011,minutes,8.33014,nanometers,right,67.8914,minutes,8.20814,nanometers,right,72.5514,minutes
+t,15.8791,kelvin
+t,-31.8911,celsius
+d,21.9971,nanometers,right,31.8614,minutes,24.9211,nanometers,right,80.0714,minutes,21.7871,nanometers,right,149.961,minutes,3.12114,nanometers,right,221.861,minutes
+t,7.11914,celsius
+t,12.3581,kelvin
+w,16.8001, micrometers, 4.20004
+d,21.7031,nanometers,right,211.571,minutes,13.7021,nanometers,right,52.9114,minutes,3.28314,nanometers,right,28.2914,minutes,10.5001,nanometers,right,244.191,minutes
+t,12.3781,kelvin
+t,8.56214,celsius
+d,25.7671,nanometers,right,113.061,minutes,31.7411,nanometers,right,248.391,minutes,15.3091,nanometers,right,26.7814,minutes,10.4231,nanometers,right,280.201,minutes
+t,9.10214,kelvin
+t,12.1691,kelvin
+d,30.7561,micrometers,left,270.961,sols,22.0131,micrometers,left,91.3414,sols,31.4721,micrometers,left,223.431,sols,30.6161,micrometers,left,229.781,sols
+t,13.9811,celsius
+w,13.5511, micrometers, 3.38779
+t,13.7741,celsius
+d,17.5051,centimeters,forward,109.271,seconds,29.6741,centimeters,forward,299.691,seconds,25.5041,centimeters,forward,0.331416,seconds,6.21114,centimeters,forward,90.3714,seconds
+t,-22.5131,celsius
+t,-27.0591,kelvin
+d,2.54714,kilometers,left,4.41142,sols,16.5461,kilometers,left,132.311,sols,30.4151,kilometers,left,144.211,sols,12.4531,kilometers,left,297.221,sols
+t,-30.9501,kelvin
+t,4.38614,celsius
+w,22.6931, kilometers, 7.56438
+d,16.0341,kilometers,left,45.9314,sols,8.95314,kilometers,left,69.2714,sols,12.1301,kilometers,left,13.1814,sols,28.9921,kilometers,left,91.8214,sols
+t,12.1861,kelvin
+t,3.75714,kelvin
+d,16.1171,kilometers,left,221.331,sols,5.77614,kilometers,left,237.951,sols,27.1441,kilometers,left,84.8314,sols,29.0081,kilometers,left,215.751,sols
+t,-22.5121,celsius
+t,1.11014,celsius
+d,24.3591,centimeters,forward,287.761,seconds,29.4531,centimeters,forward,124.481,seconds,20.9231,centimeters,forward,8.81142,seconds,21.6281,centimeters,forward,66.4514,seconds
+t,2.34014,celsius
+w,8.39614, nanometers, 4.19807
+t,10.8081,celsius
+d,30.3201,kilometers,left,246.411,sols,4.28414,kilometers,left,149.851,sols,6.25314,kilometers,left,59.1714,sols,21.5611,kilometers,left,249.301,sols
+t,-27.2721,kelvin
+t,14.3631,celsius
+d,23.6051,kilometers,left,103.021,sols,11.0491,kilometers,left,173.401,sols,22.4851,kilometers,left,74.1414,sols,29.0171,kilometers,left,243.951,sols
+t,-26.0061,celsius
+t,-32.4701,celsius
+w,30.3901, kilometers, 10.13
+d,10.0081,micrometers,left,121.441,sols,5.95114,micrometers,left,149.321,sols,22.8421,micrometers,left,123.521,sols,14.0261,micrometers,left,74.3814,sols
+t,-28.2111,celsius
+t,4.18714,celsius
+d,28.5221,centimeters,forward,48.6214,seconds,19.3931,centimeters,forward,314.551,seconds,14.1571,centimeters,forward,296.881,seconds,5.12314,centimeters,forward,167.041,seconds
+t,3.15214,kelvin
+t,0.201142,kelvin
+d,1.94614,nanometers,right,243.371,minutes,28.0581,nanometers,right,224.651,minutes,26.7001,nanometers,right,319.591,minutes,10.8941,nanometers,right,224.091,minutes
+t,10.5751,celsius
+w,19.5861, kilometers, 6.52871
+t,-25.5631,celsius
+d,23.6641,micrometers,left,292.951,sols,18.2951,micrometers,left,310.541,sols,7.03514,micrometers,left,162.201,sols,21.8511,micrometers,left,221.921,sols
+t,-28.2641,celsius
+t,0.246142,kelvin
+d,12.5081,kilometers,left,70.6314,sols,21.8201,kilometers,left,221.191,sols,12.6621,kilometers,left,198.041,sols,12.1011,kilometers,left,125.521,sols
+t,2.79414,celsius
+t,17.3531,celsius
+w,16.9691, micrometers, 4.24229
+d,2.87514,kilometers,left,64.9814,sols,7.79214,kilometers,left,50.6414,sols,18.6531,kilometers,left,6.49142,sols,1.09714,kilometers,left,327.611,sols
+t,-24.6111,kelvin
+t,-29.6431,celsius
+d,4.15914,centimeters,forward,3.58142,seconds,27.5281,centimeters,forward,89.7614,seconds,17.8411,centimeters,forward,190.541,seconds,14.2361,centimeters,forward,294.321,seconds
+t,-31.0071,celsius
+t,4.17714,celsius
+d,27.8751,centimeters,forward,234.881,seconds,29.7851,centimeters,forward,116.491,seconds,1.04514,centimeters,forward,218.441,seconds,27.8111,centimeters,forward,92.7914,seconds
+t,19.3841,celsius
+w,9.05414, kilometers, 3.01805
+t,7.20814,celsius
+d,23.4221,kilometers,left,107.781,sols,28.3091,kilometers,left,103.231,sols,28.0431,kilometers,left,311.581,sols,20.0611,kilometers,left,163.601,sols
+t,-30.8581,kelvin
+t,-23.0271,celsius
+d,1.93514,nanometers,right,141.671,minutes,16.5151,nanometers,right,84.8314,minutes,27.1081,nanometers,right,43.3514,minutes,23.1951,nanometers,right,269.691,minutes
+t,6.30814,kelvin
+t,-29.1701,celsius
+w,18.9111, nanometers, 9.45557
+d,0.882142,centimeters,forward,213.601,seconds,0.213142,centimeters,forward,66.5914,seconds,30.7001,centimeters,forward,223.791,seconds,8.76314,centimeters,forward,292.631,seconds
+t,14.3301,celsius
+t,4.64714,celsius
+d,7.91214,nanometers,right,323.601,minutes,19.7591,nanometers,right,170.181,minutes,29.7741,nanometers,right,257.611,minutes,16.2621,nanometers,right,166.101,minutes
+t,7.09214,celsius
+t,16.5121,celsius
+d,15.4431,nanometers,right,322.661,minutes,2.58214,nanometers,right,73.1714,minutes,20.7391,nanometers,right,105.961,minutes,14.6811,nanometers,right,63.6914,minutes
+t,15.5101,kelvin
+w,15.9851, kilometers, 5.32838
+t,6.70714,kelvin
+d,13.5731,micrometers,left,7.51142,sols,3.57314,micrometers,left,82.6314,sols,10.2091,micrometers,left,98.9114,sols,3.18214,micrometers,left,67.1214,sols
+t,0.748142,kelvin
+t,0.363142,kelvin
+d,16.9661,micrometers,left,58.2614,sols,3.03914,micrometers,left,77.8714,sols,0.709142,micrometers,left,101.121,sols,29.1651,micrometers,left,134.631,sols
+t,8.81814,celsius
+t,15.5001,kelvin
+w,0.237142, centimeters, 0.237142
+d,2.85114,kilometers,left,241.451,sols,22.8671,kilometers,left,21.5114,sols,0.611142,kilometers,left,174.981,sols,29.7701,kilometers,left,30.9814,sols
+t,-20.8401,celsius
+t,17.9231,celsius
+d,10.7041,centimeters,forward,140.401,seconds,0.192142,centimeters,forward,60.8814,seconds,30.7121,centimeters,forward,213.361,seconds,28.2821,centimeters,forward,157.301,seconds
+t,6.65314,kelvin
+t,-28.6521,celsius
+d,11.5451,nanometers,right,202.591,minutes,0.850142,nanometers,right,131.151,minutes,4.55014,nanometers,right,140.881,minutes,26.2001,nanometers,right,195.791,minutes
+t,4.64714,celsius
+w,13.7151, micrometers, 3.42879
+t,16.1301,celsius
+d,0.854142,centimeters,forward,236.261,seconds,21.7301,centimeters,forward,285.661,seconds,15.2631,centimeters,forward,130.921,seconds,22.0381,centimeters,forward,20.8014,seconds
+t,-21.3981,kelvin
+t,3.88114,kelvin
+d,7.19814,centimeters,forward,138.421,seconds,22.7511,centimeters,forward,224.221,seconds,14.5161,centimeters,forward,17.7714,seconds,22.8821,centimeters,forward,198.221,seconds
+t,-24.0921,kelvin
+t,17.2561,celsius
+w,15.4971, nanometers, 7.74857
+d,17.7901,centimeters,forward,44.2114,seconds,3.38814,centimeters,forward,21.4014,seconds,14.8901,centimeters,forward,58.7014,seconds,29.3501,centimeters,forward,92.5514,seconds
+t,0.917142,kelvin
+t,10.1301,celsius
+d,0.463142,centimeters,forward,224.831,seconds,13.0351,centimeters,forward,45.9914,seconds,32.7231,centimeters,forward,24.7514,seconds,30.5531,centimeters,forward,296.321,seconds
+t,-21.3151,kelvin
+t,-20.8611,celsius
+d,7.54714,centimeters,forward,126.401,seconds,14.9351,centimeters,forward,73.6814,seconds,9.87114,centimeters,forward,198.751,seconds,11.9541,centimeters,forward,242.811,seconds
+t,-20.6131,celsius
+w,6.97214, centimeters, 6.97214
+t,-25.5181,celsius
+d,22.2921,nanometers,right,101.521,minutes,24.1341,nanometers,right,190.441,minutes,2.15514,nanometers,right,43.1814,minutes,19.5131,nanometers,right,39.5014,minutes
+t,10.1211,celsius
+t,-24.2061,kelvin
+d,14.6821,centimeters,forward,111.031,seconds,30.7711,centimeters,forward,69.7714,seconds,10.0711,centimeters,forward,38.8714,seconds,27.0871,centimeters,forward,4.26142,seconds
+t,-29.1001,celsius
+t,-27.2011,kelvin
+w,20.6321, micrometers, 5.15804
+d,22.2671,nanometers,right,231.521,minutes,7.22714,nanometers,right,19.0614,minutes,28.4141,nanometers,right,224.651,minutes,23.2241,nanometers,right,298.931,minutes
+t,1.32214,celsius
+t,-20.3791,celsius
+d,28.7631,nanometers,right,155.021,minutes,32.6651,nanometers,right,233.391,minutes,28.4991,nanometers,right,100.521,minutes,13.5361,nanometers,right,240.191,minutes
+t,9.07314,kelvin
+t,3.02814,kelvin
+d,10.2091,micrometers,left,89.9514,sols,0.918142,micrometers,left,250.391,sols,15.6851,micrometers,left,248.781,sols,25.2911,micrometers,left,110.111,sols
+t,1.99114,celsius
+w,7.68114, centimeters, 7.68114
+t,13.6581,celsius
+d,9.44114,kilometers,left,296.631,sols,17.5941,kilometers,left,315.221,sols,2.12314,kilometers,left,13.4614,sols,16.7351,kilometers,left,218.951,sols
+t,8.68014,celsius
+t,8.09614,celsius
+d,25.4471,nanometers,right,132.811,minutes,11.8521,nanometers,right,241.421,minutes,19.3131,nanometers,right,301.341,minutes,29.5521,nanometers,right,287.481,minutes
+t,-24.4061,kelvin
+t,13.0511,celsius
+w,27.6061, centimeters, 27.6061
+d,30.1481,kilometers,left,283.161,sols,10.2191,kilometers,left,233.811,sols,27.0101,kilometers,left,156.661,sols,26.4091,kilometers,left,72.3214,sols
+t,-22.4431,celsius
+t,-29.4741,celsius
+d,0.565142,centimeters,forward,168.771,seconds,31.8041,centimeters,forward,61.7114,seconds,29.1701,centimeters,forward,322.031,seconds,22.9841,centimeters,forward,149.741,seconds
+t,-24.0621,kelvin
+t,8.74814,celsius
+d,13.5431,micrometers,left,33.0014,sols,23.7531,micrometers,left,27.3514,sols,15.6191,micrometers,left,171.461,sols,13.4771,micrometers,left,51.4214,sols
+t,-26.9071,celsius
+w,4.93014, nanometers, 2.46507
+t,4.56614,celsius
+d,8.82214,nanometers,right,187.541,minutes,24.0211,nanometers,right,150.791,minutes,31.3121,nanometers,right,317.931,minutes,27.9421,nanometers,right,280.651,minutes
+t,-27.7291,kelvin
+t,5.96814,celsius
+d,26.5301,kilometers,left,192.351,sols,19.2011,kilometers,left,31.5114,sols,7.20114,kilometers,left,283.411,sols,13.7221,kilometers,left,189.931,sols
+t,-28.0791,celsius
+t,12.4681,kelvin
+w,26.8501, kilometers, 8.95005
+d,28.6991,nanometers,right,120.061,minutes,23.9101,nanometers,right,92.7114,minutes,16.6311,nanometers,right,212.401,minutes,5.65314,nanometers,right,195.261,minutes
+t,-26.0091,celsius
+t,13.6651,celsius
+d,30.5081,kilometers,left,148.001,sols,4.51014,kilometers,left,277.231,sols,31.1341,kilometers,left,5.06142,sols,26.0101,kilometers,left,116.351,sols
+t,-20.3271,celsius
+t,5.10114,celsius
+d,13.4581,micrometers,left,285.931,sols,25.6461,micrometers,left,154.121,sols,12.1181,micrometers,left,173.761,sols,14.9791,micrometers,left,221.771,sols
+t,-27.9671,kelvin
+w,22.8471, kilometers, 7.61571
+t,-28.7721,celsius
+d,27.6441,centimeters,forward,249.181,seconds,9.18014,centimeters,forward,116.971,seconds,2.94714,centimeters,forward,198.461,seconds,19.8621,centimeters,forward,116.691,seconds
+t,9.28414,kelvin
+t,17.4041,celsius
+d,7.47714,centimeters,forward,236.561,seconds,29.4291,centimeters,forward,176.191,seconds,7.72014,centimeters,forward,247.271,seconds,27.8021,centimeters,forward,254.291,seconds
+t,-23.9241,celsius
+t,14.8701,celsius
+w,27.7151, centimeters, 27.7151
+d,18.0541,centimeters,forward,251.991,seconds,18.3801,centimeters,forward,235.771,seconds,15.8471,centimeters,forward,120.751,seconds,27.8721,centimeters,forward,54.0014,seconds
+t,3.69414,kelvin
+t,0.907142,kelvin
+d,2.60214,kilometers,left,173.191,sols,32.1951,kilometers,left,258.441,sols,18.3461,kilometers,left,83.0914,sols,14.1451,kilometers,left,4.91142,sols
+t,6.11414,kelvin
+t,10.6851,celsius
+d,20.3291,micrometers,left,187.831,sols,2.51914,micrometers,left,193.921,sols,15.5161,micrometers,left,162.601,sols,12.8711,micrometers,left,190.641,sols
+t,-24.1961,kelvin
+w,15.2861, nanometers, 7.64307
+t,19.7031,celsius
+d,15.9851,kilometers,left,35.2414,sols,20.1641,kilometers,left,54.4014,sols,27.9571,kilometers,left,310.821,sols,23.9781,kilometers,left,1.24142,sols
+t,-21.0061,kelvin
+t,2.53714,celsius
+d,15.9381,kilometers,left,28.8714,sols,18.1991,kilometers,left,76.6114,sols,14.3201,kilometers,left,264.801,sols,0.157142,kilometers,left,270.021,sols
+t,0.750142,kelvin
+t,13.3731,celsius
+w,17.1431, micrometers, 4.28579
+d,18.4971,nanometers,right,173.971,minutes,12.6821,nanometers,right,64.2414,minutes,6.34914,nanometers,right,192.451,minutes,29.7031,nanometers,right,33.8214,minutes
+t,13.6871,celsius
+t,7.52914,celsius
+d,14.7501,centimeters,forward,14.9514,seconds,14.6111,centimeters,forward,307.811,seconds,8.39814,centimeters,forward,164.611,seconds,25.8811,centimeters,forward,287.151,seconds
+t,-24.4941,kelvin
+t,10.9691,celsius
+d,14.5791,centimeters,forward,197.771,seconds,21.4741,centimeters,forward,20.7014,seconds,30.0681,centimeters,forward,138.491,seconds,8.94414,centimeters,forward,318.911,seconds
+t,-23.0931,celsius
+w,1.21114, nanometers, 0.605571
+t,2.28014,celsius
+d,12.6321,kilometers,left,196.301,sols,20.7841,kilometers,left,220.481,sols,0.425142,kilometers,left,302.941,sols,30.7871,kilometers,left,8.12142,sols
+t,-26.7601,celsius
+t,-27.7391,kelvin
+d,29.2421,nanometers,right,162.091,minutes,32.3581,nanometers,right,125.311,minutes,6.82614,nanometers,right,185.941,minutes,1.10714,nanometers,right,198.971,minutes
+t,8.12014,celsius
+t,-21.5681,kelvin
+w,31.5011, centimeters, 31.5011
+d,4.94114,nanometers,right,161.431,minutes,19.1861,nanometers,right,109.251,minutes,17.0241,nanometers,right,283.161,minutes,0.479142,nanometers,right,50.9114,minutes
+t,-31.7691,celsius
+t,2.00314,celsius
+d,12.0441,nanometers,right,212.411,minutes,12.0111,nanometers,right,154.211,minutes,28.5311,nanometers,right,22.7414,minutes,17.1651,nanometers,right,224.291,minutes
+t,11.5641,celsius
+t,8.96314,celsius
+d,2.02614,kilometers,left,51.4414,sols,10.0111,kilometers,left,321.781,sols,18.9651,kilometers,left,66.0814,sols,24.1061,kilometers,left,282.831,sols
+t,6.43414,kelvin
+w,21.5921, centimeters, 21.5921
+t,-29.4271,celsius
+d,4.60414,nanometers,right,178.031,minutes,19.3991,nanometers,right,217.961,minutes,15.2711,nanometers,right,297.531,minutes,14.4441,nanometers,right,34.1414,minutes
+t,-25.0141,celsius
+t,-23.1471,celsius
+d,4.87114,nanometers,right,161.891,minutes,30.7001,nanometers,right,95.3214,minutes,15.5411,nanometers,right,255.361,minutes,32.6881,nanometers,right,23.7314,minutes
+t,-21.1031,kelvin
+t,15.3771,kelvin
+w,3.93114, centimeters, 3.93114
+d,7.69014,centimeters,forward,323.481,seconds,32.6121,centimeters,forward,218.941,seconds,13.5431,centimeters,forward,317.871,seconds,2.60214,centimeters,forward,12.1214,seconds
+t,3.57914,kelvin
+t,-31.1231,celsius
+d,3.40014,micrometers,left,81.7314,sols,28.7461,micrometers,left,186.521,sols,3.17014,micrometers,left,139.491,sols,25.0971,micrometers,left,274.791,sols
+t,-30.3701,kelvin
+t,-26.9371,celsius
+d,17.7101,centimeters,forward,50.3314,seconds,0.0771416,centimeters,forward,167.341,seconds,26.8951,centimeters,forward,160.811,seconds,19.1391,centimeters,forward,21.2614,seconds
+t,-29.8631,celsius
+w,27.7261, centimeters, 27.7261
+t,-22.7761,celsius
+d,17.4401,centimeters,forward,266.861,seconds,0.274142,centimeters,forward,123.821,seconds,27.5121,centimeters,forward,89.8414,seconds,23.4461,centimeters,forward,211.991,seconds
+t,8.96014,celsius
+t,-27.5931,kelvin
+d,19.5781,kilometers,left,273.651,sols,13.9641,kilometers,left,198.281,sols,4.91614,kilometers,left,236.581,sols,27.3761,kilometers,left,47.1714,sols
+t,19.6081,celsius
+t,4.17814,celsius
+w,10.5741, centimeters, 10.5741
+d,14.1481,centimeters,forward,30.4214,seconds,26.3811,centimeters,forward,305.491,seconds,15.6811,centimeters,forward,194.851,seconds,14.5611,centimeters,forward,215.501,seconds
+t,15.6721,kelvin
+t,-20.7891,celsius
+d,30.6221,micrometers,left,172.541,sols,28.7081,micrometers,left,208.681,sols,23.6981,micrometers,left,227.381,sols,2.24114,micrometers,left,174.941,sols
+t,-21.8521,kelvin
+t,10.5241,celsius
+d,28.9821,nanometers,right,302.251,minutes,5.97214,nanometers,right,146.891,minutes,31.1661,nanometers,right,246.851,minutes,31.1201,nanometers,right,215.981,minutes
+t,7.50414,celsius
+w,0.480142, centimeters, 0.480142
+t,-22.7421,celsius
+d,18.3681,nanometers,right,227.801,minutes,21.9661,nanometers,right,54.6714,minutes,27.4921,nanometers,right,184.661,minutes,2.09014,nanometers,right,131.311,minutes
+t,7.32914,celsius
+t,16.4061,celsius
+d,9.50514,kilometers,left,143.721,sols,3.59214,kilometers,left,283.411,sols,25.7281,kilometers,left,229.751,sols,12.2421,kilometers,left,178.181,sols
+t,-27.5791,kelvin
+t,16.2161,celsius
+w,24.4271, centimeters, 24.4271
+d,25.1221,nanometers,right,118.981,minutes,18.9621,nanometers,right,153.101,minutes,30.2171,nanometers,right,14.6314,minutes,20.9011,nanometers,right,103.881,minutes
+t,3.70314,kelvin
+t,14.7991,celsius
+d,16.6351,kilometers,left,136.481,sols,9.14414,kilometers,left,223.521,sols,7.06914,kilometers,left,123.781,sols,23.7171,kilometers,left,73.2514,sols
+t,-30.0891,kelvin
+t,15.5371,kelvin
+d,16.5211,kilometers,left,150.531,sols,13.2311,kilometers,left,259.741,sols,29.5631,kilometers,left,235.311,sols,0.254142,kilometers,left,243.231,sols
+t,16.9211,celsius
+w,3.72814, centimeters, 3.72814
+t,19.0401,celsius
+d,10.5881,centimeters,forward,261.821,seconds,25.9351,centimeters,forward,100.211,seconds,24.4821,centimeters,forward,274.041,seconds,21.1691,centimeters,forward,193.511,seconds
+t,17.0211,celsius
+t,15.4721,kelvin
+d,14.6961,centimeters,forward,116.061,seconds,30.8461,centimeters,forward,75.6114,seconds,8.91214,centimeters,forward,313.881,seconds,29.3491,centimeters,forward,263.361,seconds
+t,0.397142,kelvin
+t,-24.1701,kelvin
+w,25.8341, nanometers, 12.9171
+d,20.0401,kilometers,left,212.291,sols,25.2461,kilometers,left,137.481,sols,27.9631,kilometers,left,22.6914,sols,20.9261,kilometers,left,23.7214,sols
+t,12.4581,kelvin
+t,18.1181,kelvin
+d,4.31114,centimeters,forward,236.181,seconds,15.8241,centimeters,forward,210.051,seconds,13.6181,centimeters,forward,294.581,seconds,23.1551,centimeters,forward,41.4114,seconds
+t,-28.1551,celsius
+t,6.61414,kelvin
+d,29.3331,nanometers,right,222.931,minutes,15.1321,nanometers,right,141.951,minutes,24.9081,nanometers,right,23.4214,minutes,10.3381,nanometers,right,7.74142,minutes
+t,-27.3611,kelvin
+w,12.6011, kilometers, 4.20038
+t,17.1981,celsius
+d,8.67014,nanometers,right,110.011,minutes,5.98914,nanometers,right,146.841,minutes,31.0691,nanometers,right,220.671,minutes,23.9001,nanometers,right,66.7114,minutes
+t,14.7171,celsius
+t,19.8221,celsius
+d,26.0321,nanometers,right,238.041,minutes,1.31414,nanometers,right,295.691,minutes,11.8541,nanometers,right,129.821,minutes,14.9941,nanometers,right,254.351,minutes
+t,14.2291,celsius
+t,-28.9311,celsius
+w,18.0871, centimeters, 18.0871
+d,6.45814,micrometers,left,74.7914,sols,9.76614,micrometers,left,47.5814,sols,27.7831,micrometers,left,252.751,sols,22.9111,micrometers,left,73.7614,sols
+t,8.63414,celsius
+t,-27.1681,kelvin
+d,7.27614,centimeters,forward,227.471,seconds,23.2431,centimeters,forward,180.011,seconds,11.3821,centimeters,forward,325.561,seconds,2.25014,centimeters,forward,52.2714,seconds
+t,1.21414,celsius
+t,-26.2851,celsius
+d,6.86814,micrometers,left,166.361,sols,25.9901,micrometers,left,67.2914,sols,25.2511,micrometers,left,273.431,sols,15.0511,micrometers,left,294.101,sols
+t,-30.3241,kelvin
+w,11.2431, centimeters, 11.2431
+t,3.55314,kelvin
+d,29.9761,kilometers,left,259.271,sols,25.8351,kilometers,left,190.511,sols,21.0481,kilometers,left,140.411,sols,27.0511,kilometers,left,145.661,sols
+t,4.90114,celsius
+t,-20.6271,celsius
+d,14.7961,nanometers,right,43.1714,minutes,1.27714,nanometers,right,268.851,minutes,6.00914,nanometers,right,233.831,minutes,16.4661,nanometers,right,200.761,minutes
+t,15.7911,kelvin
+t,-20.1271,celsius
+w,0.814142, centimeters, 0.814142
+d,13.5001,micrometers,left,97.4414,sols,2.79514,micrometers,left,117.011,sols,13.2361,micrometers,left,276.881,sols,6.81314,micrometers,left,64.8014,sols
+t,-24.9351,kelvin
+t,11.9941,celsius
+d,1.40314,nanometers,right,68.3814,minutes,1.01714,nanometers,right,246.931,minutes,28.4671,nanometers,right,229.721,minutes,11.1801,nanometers,right,216.131,minutes
+t,-31.0051,celsius
+t,-25.0361,celsius
+d,11.0381,centimeters,forward,246.911,seconds,13.9101,centimeters,forward,150.371,seconds,23.6621,centimeters,forward,153.731,seconds,6.62314,centimeters,forward,247.371,seconds
+t,-29.8021,celsius
+w,6.00314, kilometers, 2.00105
+t,10.5201,celsius
+d,8.56314,nanometers,right,92.3714,minutes,0.476142,nanometers,right,198.671,minutes,30.0761,nanometers,right,39.5714,minutes,6.54914,nanometers,right,8.93142,minutes
+t,-25.0851,celsius
+t,1.80514,celsius
+d,18.4321,nanometers,right,39.9414,minutes,30.7261,nanometers,right,24.4414,minutes,28.2901,nanometers,right,28.9114,minutes,9.26314,nanometers,right,280.551,minutes
+t,1.89814,celsius
+t,-24.1551,kelvin
+w,30.6411, micrometers, 7.66029
+d,28.3491,centimeters,forward,232.021,seconds,11.6391,centimeters,forward,281.981,seconds,25.1481,centimeters,forward,322.931,seconds,9.13514,centimeters,forward,280.011,seconds
+t,-32.0511,celsius
+t,0.0981416,kelvin
+d,13.4881,micrometers,left,205.791,sols,9.08214,micrometers,left,184.761,sols,17.2271,micrometers,left,146.771,sols,24.2691,micrometers,left,144.031,sols
+t,10.6391,celsius
+t,7.91014,celsius
+d,13.9841,centimeters,forward,151.291,seconds,4.57214,centimeters,forward,299.641,seconds,17.0251,centimeters,forward,58.4714,seconds,3.08514,centimeters,forward,128.331,seconds
+t,-25.7691,celsius
+w,13.4261, micrometers, 3.35654
+t,12.0611,kelvin
+d,8.51614,nanometers,right,263.871,minutes,26.5361,nanometers,right,119.261,minutes,30.1581,nanometers,right,53.5314,minutes,23.8881,nanometers,right,84.0914,minutes
+t,1.03214,celsius
+t,9.27314,kelvin
+d,9.06814,kilometers,left,262.491,sols,13.5001,kilometers,left,136.501,sols,18.9451,kilometers,left,297.531,sols,32.7671,kilometers,left,119.171,sols
+t,-29.4431,celsius
+t,13.4261,celsius
+w,12.5931, kilometers, 4.19771
+d,23.0691,kilometers,left,245.961,sols,6.83314,kilometers,left,36.2914,sols,31.7331,kilometers,left,42.6314,sols,3.56614,kilometers,left,138.951,sols
+t,-25.6021,celsius
+t,-29.2201,celsius
+d,19.5631,kilometers,left,254.721,sols,1.73614,kilometers,left,261.351,sols,28.6081,kilometers,left,144.011,sols,3.36114,kilometers,left,325.711,sols
+t,17.3171,celsius
+t,5.71514,celsius
+d,28.6191,nanometers,right,172.871,minutes,11.8811,nanometers,right,256.991,minutes,22.5641,nanometers,right,323.141,minutes,30.2291,nanometers,right,94.8314,minutes
+t,12.8681,kelvin
+w,0.630142, centimeters, 0.630142
+t,5.65714,celsius
+d,17.8841,centimeters,forward,231.751,seconds,10.2781,centimeters,forward,129.571,seconds,29.2211,centimeters,forward,102.761,seconds,5.29314,centimeters,forward,51.0714,seconds
+t,-25.9411,celsius
+t,-23.8651,celsius
+d,7.57214,centimeters,forward,46.9814,seconds,17.9801,centimeters,forward,251.751,seconds,26.4211,centimeters,forward,165.061,seconds,10.1101,centimeters,forward,198.761,seconds
+t,-32.1401,celsius
+t,-29.7851,celsius
+w,8.46814, nanometers, 4.23407
+d,27.7141,centimeters,forward,128.901,seconds,1.46214,centimeters,forward,54.8014,seconds,5.43314,centimeters,forward,24.4514,seconds,0.246142,centimeters,forward,162.121,seconds
+t,15.8341,kelvin
+t,-24.0111,kelvin
+d,18.7961,nanometers,right,71.3814,minutes,5.27314,nanometers,right,134.421,minutes,1.88014,nanometers,right,40.2014,minutes,28.4281,nanometers,right,288.541,minutes
+t,3.55914,kelvin
+t,7.58714,celsius
+d,0.0531416,centimeters,forward,293.051,seconds,27.4861,centimeters,forward,257.911,seconds,28.4941,centimeters,forward,290.351,seconds,26.2961,centimeters,forward,55.6314,seconds
+t,-29.9761,celsius
+w,10.3511, centimeters, 10.3511
+t,14.6721,celsius
+d,1.62514,nanometers,right,98.9114,minutes,31.0471,nanometers,right,103.541,minutes,6.74614,nanometers,right,62.6214,minutes,11.9461,nanometers,right,193.271,minutes
+t,-25.4631,celsius
+t,0.937142,kelvin
+d,30.8221,micrometers,left,296.491,sols,30.8171,micrometers,left,325.441,sols,1.97114,micrometers,left,274.481,sols,24.8721,micrometers,left,286.281,sols
+t,-21.1351,kelvin
+t,-25.3521,celsius
+w,28.1621, centimeters, 28.1621
+d,14.9371,nanometers,right,259.581,minutes,1.43514,nanometers,right,259.171,minutes,30.1821,nanometers,right,280.111,minutes,24.8531,nanometers,right,308.511,minutes
+t,-27.6291,kelvin
+t,15.5191,kelvin
+d,16.8281,micrometers,left,103.631,sols,5.04514,micrometers,left,241.101,sols,0.419142,micrometers,left,238.481,sols,15.6491,micrometers,left,115.151,sols
+t,14.1551,celsius
+t,0.280142,kelvin
+d,14.4111,centimeters,forward,102.371,seconds,29.9991,centimeters,forward,219.531,seconds,14.5431,centimeters,forward,164.641,seconds,17.4241,centimeters,forward,138.081,seconds
+t,5.45514,celsius
+w,28.2791, centimeters, 28.2791
+t,16.0501,celsius
+d,26.5541,kilometers,left,27.8414,sols,31.6181,kilometers,left,263.201,sols,2.94214,kilometers,left,265.261,sols,32.6721,kilometers,left,259.491,sols
+t,4.96614,celsius
+t,-23.6051,celsius
+d,16.8681,micrometers,left,252.391,sols,28.5221,micrometers,left,277.921,sols,27.6941,micrometers,left,320.741,sols,25.4871,micrometers,left,127.791,sols
+t,16.9261,celsius
+t,-32.6961,celsius
+w,3.52514, centimeters, 3.52514
+d,2.49614,kilometers,left,270.541,sols,19.9091,kilometers,left,99.0114,sols,5.94914,kilometers,left,311.291,sols,32.6201,kilometers,left,322.211,sols
+t,18.1271,kelvin
+t,18.4821,kelvin
+d,7.88014,centimeters,forward,67.4214,seconds,31.4741,centimeters,forward,209.471,seconds,18.4101,centimeters,forward,237.521,seconds,19.5271,centimeters,forward,18.4114,seconds
+t,-23.9791,celsius
+t,4.54414,celsius
+d,25.9211,nanometers,right,134.551,minutes,15.4081,nanometers,right,11.3814,minutes,21.6251,nanometers,right,61.2214,minutes,13.5361,nanometers,right,214.961,minutes
+t,17.8431,celsius
+w,16.3191, kilometers, 5.43971
+t,-24.7731,kelvin
+d,22.9771,kilometers,left,247.481,sols,18.5731,kilometers,left,66.2814,sols,11.7451,kilometers,left,59.8414,sols,3.64914,kilometers,left,99.3114,sols
+t,9.74714,kelvin
+t,15.0021,kelvin
+d,22.6221,nanometers,right,58.7114,minutes,26.6961,nanometers,right,104.611,minutes,29.1111,nanometers,right,113.181,minutes,24.2501,nanometers,right,244.731,minutes
+t,10.0341,celsius
+t,-30.2331,kelvin
+w,29.3121, nanometers, 14.6561
+d,4.57614,nanometers,right,267.851,minutes,23.6691,nanometers,right,88.2414,minutes,30.5551,nanometers,right,242.311,minutes,30.6951,nanometers,right,243.671,minutes
+t,7.29614,celsius
+t,8.24014,celsius
+d,24.2011,centimeters,forward,178.901,seconds,28.5411,centimeters,forward,324.471,seconds,13.9121,centimeters,forward,101.311,seconds,0.205142,centimeters,forward,316.001,seconds
+t,7.26314,celsius
+t,0.390142,kelvin
+d,3.73914,centimeters,forward,178.761,seconds,21.6751,centimeters,forward,174.201,seconds,12.0401,centimeters,forward,53.1614,seconds,15.5721,centimeters,forward,206.611,seconds
+t,-23.9281,celsius
+w,5.16314, nanometers, 2.58157
+t,7.09014,celsius
+d,29.6201,kilometers,left,218.831,sols,19.9311,kilometers,left,7.97142,sols,2.67114,kilometers,left,187.161,sols,10.5491,kilometers,left,146.101,sols
+t,13.4961,celsius
+t,10.0721,celsius
+d,6.63014,micrometers,left,153.231,sols,18.5491,micrometers,left,277.471,sols,22.1911,micrometers,left,156.761,sols,16.1431,micrometers,left,224.021,sols
+t,14.5411,celsius
+t,-31.6911,celsius
+w,19.8191, kilometers, 6.60638
+d,2.69214,kilometers,left,111.391,sols,1.47814,kilometers,left,0.531416,sols,1.51114,kilometers,left,194.881,sols,16.3481,kilometers,left,181.981,sols
+t,17.8541,celsius
+t,-24.3381,kelvin
+d,2.08914,kilometers,left,287.751,sols,1.30114,kilometers,left,58.2214,sols,32.3391,kilometers,left,208.891,sols,8.36414,kilometers,left,142.031,sols
+t,-24.0371,kelvin
+t,18.0321,kelvin
+d,8.52914,nanometers,right,144.101,minutes,2.43514,nanometers,right,228.561,minutes,3.16114,nanometers,right,28.9514,minutes,8.59514,nanometers,right,314.091,minutes
+t,-22.4981,celsius
+w,27.6131, centimeters, 27.6131
+t,-25.8591,celsius
+d,22.0031,nanometers,right,253.291,minutes,17.9241,nanometers,right,172.431,minutes,17.1041,nanometers,right,232.361,minutes,8.99314,nanometers,right,151.781,minutes
+t,3.24014,kelvin
+t,8.23014,celsius
+d,28.5091,centimeters,forward,301.881,seconds,26.6341,centimeters,forward,209.681,seconds,30.2651,centimeters,forward,300.341,seconds,5.85014,centimeters,forward,180.361,seconds
+t,-21.3011,kelvin
+t,-23.4621,celsius
+w,11.0141, centimeters, 11.0141
+d,8.31114,nanometers,right,304.141,minutes,15.9051,nanometers,right,17.3714,minutes,6.18814,nanometers,right,128.641,minutes,28.8861,nanometers,right,231.421,minutes
+t,-22.9671,celsius
+t,7.43214,celsius
+d,17.2891,centimeters,forward,69.9614,seconds,13.5281,centimeters,forward,253.961,seconds,1.50714,centimeters,forward,113.981,seconds,14.8581,centimeters,forward,150.131,seconds
+t,-20.2981,celsius
+t,-26.6011,celsius
+d,21.8441,nanometers,right,284.521,minutes,28.5411,nanometers,right,250.161,minutes,3.88914,nanometers,right,45.7214,minutes,16.1401,nanometers,right,97.5114,minutes
+t,6.13714,kelvin
+w,25.5331, nanometers, 12.7666
+t,8.26614,celsius
+d,2.30314,kilometers,left,298.801,sols,15.8561,kilometers,left,159.301,sols,26.4721,kilometers,left,248.671,sols,2.14214,kilometers,left,236.501,sols
+t,-21.2921,kelvin
+t,4.83214,celsius
+d,11.0861,centimeters,forward,142.931,seconds,28.2661,centimeters,forward,242.071,seconds,19.7011,centimeters,forward,305.951,seconds,9.57914,centimeters,forward,26.8414,seconds
+t,11.0761,celsius
+t,17.4231,celsius
+w,26.7181, kilometers, 8.90605
+d,23.2671,kilometers,left,179.141,sols,17.9101,kilometers,left,123.961,sols,4.01414,kilometers,left,317.611,sols,17.8721,kilometers,left,73.0014,sols
+t,0.265142,kelvin
+t,-20.5571,celsius
+d,6.04314,kilometers,left,53.2314,sols,0.490142,kilometers,left,263.741,sols,0.157142,kilometers,left,256.871,sols,16.8211,kilometers,left,145.861,sols
+t,8.61114,celsius
+t,-31.9381,celsius
+d,4.86514,nanometers,right,156.731,minutes,19.9391,nanometers,right,164.451,minutes,21.6661,nanometers,right,75.6714,minutes,9.31914,nanometers,right,300.321,minutes
+t,-28.7091,celsius
+w,2.24014, kilometers, 0.746714
+t,8.13814,celsius
+d,28.7691,nanometers,right,302.941,minutes,26.2461,nanometers,right,199.781,minutes,16.4261,nanometers,right,57.1014,minutes,29.0871,nanometers,right,96.2014,minutes
+t,15.5431,kelvin
+t,13.1871,celsius
+d,1.65214,nanometers,right,31.9414,minutes,8.64014,nanometers,right,26.9314,minutes,18.2491,nanometers,right,281.601,minutes,13.9281,nanometers,right,264.741,minutes
+t,17.5691,celsius
+t,4.71814,celsius
+w,9.93514, micrometers, 2.48379
+d,3.79214,centimeters,forward,203.301,seconds,2.37414,centimeters,forward,97.4714,seconds,23.8151,centimeters,forward,317.511,seconds,15.8511,centimeters,forward,171.781,seconds
+t,7.35914,celsius
+t,13.2591,celsius
+d,27.2311,micrometers,left,93.6614,sols,6.12014,micrometers,left,73.6814,sols,16.7381,micrometers,left,61.1914,sols,28.2141,micrometers,left,80.7914,sols
+t,11.7371,celsius
+t,11.8591,celsius
+d,30.9141,micrometers,left,34.8814,sols,27.1581,micrometers,left,167.921,sols,32.7171,micrometers,left,90.8114,sols,22.3991,micrometers,left,193.451,sols
+t,18.7871,kelvin
+w,8.32014, nanometers, 4.16007
+t,-24.2911,kelvin
+d,16.2861,kilometers,left,245.531,sols,28.9791,kilometers,left,27.5214,sols,12.5171,kilometers,left,152.891,sols,12.3861,kilometers,left,51.0014,sols
+t,18.2861,kelvin
+t,-28.8031,celsius
+d,20.3741,micrometers,left,161.431,sols,6.94414,micrometers,left,312.881,sols,8.57314,micrometers,left,263.571,sols,0.442142,micrometers,left,289.281,sols
+t,7.26114,celsius
+t,-31.8721,celsius
+w,25.4571, nanometers, 12.7286
+d,25.2631,nanometers,right,76.2914,minutes,22.5831,nanometers,right,291.731,minutes,31.1161,nanometers,right,181.931,minutes,5.73914,nanometers,right,70.0514,minutes
+t,-21.4131,kelvin
+t,-20.6571,celsius
+d,9.74314,kilometers,left,98.3414,sols,1.54714,kilometers,left,41.8014,sols,22.7821,kilometers,left,257.911,sols,22.1931,kilometers,left,173.361,sols
+t,0.157142,kelvin
+t,15.5881,kelvin
+d,3.57014,centimeters,forward,185.481,seconds,24.1451,centimeters,forward,40.0714,seconds,2.96814,centimeters,forward,63.4114,seconds,9.17014,centimeters,forward,170.491,seconds
+t,2.94014,celsius
+w,20.5811, micrometers, 5.14529
+t,-29.8901,celsius
+d,16.6591,kilometers,left,306.481,sols,19.8341,kilometers,left,7.28142,sols,8.03914,kilometers,left,149.211,sols,26.0761,kilometers,left,185.641,sols
+t,8.14914,celsius
+t,15.7291,kelvin
+d,6.69214,micrometers,left,113.971,sols,23.8151,micrometers,left,62.8714,sols,29.5691,micrometers,left,73.8414,sols,15.4301,micrometers,left,235.261,sols
+t,-29.7751,celsius
+t,-20.7661,celsius
+w,8.46814, nanometers, 4.23407
+d,19.1621,nanometers,right,194.991,minutes,17.0981,nanometers,right,242.131,minutes,1.28514,nanometers,right,137.601,minutes,32.3761,nanometers,right,257.821,minutes
+t,4.14314,celsius
+t,-25.9701,celsius
+d,4.53314,nanometers,right,56.6014,minutes,17.0091,nanometers,right,196.221,minutes,11.3621,nanometers,right,33.9614,minutes,12.7011,nanometers,right,236.631,minutes
+t,16.4411,celsius
+t,13.1211,celsius
+d,24.2491,centimeters,forward,224.911,seconds,20.6511,centimeters,forward,60.8814,seconds,4.75214,centimeters,forward,206.301,seconds,4.67914,centimeters,forward,98.5514,seconds
+t,1.88514,celsius
+w,4.45314, nanometers, 2.22657
+t,12.4631,kelvin
+d,6.76214,micrometers,left,38.4814,sols,16.2421,micrometers,left,92.1614,sols,6.57814,micrometers,left,100.711,sols,4.79714,micrometers,left,86.2514,sols
+t,16.1721,celsius
+t,-25.2901,celsius
+d,18.1081,centimeters,forward,159.641,seconds,16.2811,centimeters,forward,259.831,seconds,19.9761,centimeters,forward,89.0014,seconds,6.99914,centimeters,forward,299.791,seconds
+t,14.3601,celsius
+t,17.5801,celsius
+w,6.00014, kilometers, 2.00005
+d,0.107142,centimeters,forward,316.131,seconds,2.15914,centimeters,forward,305.691,seconds,6.52614,centimeters,forward,104.711,seconds,14.8421,centimeters,forward,165.231,seconds
+t,-31.4241,celsius
+t,7.22814,celsius
+d,10.3131,micrometers,left,287.361,sols,3.02814,micrometers,left,27.5014,sols,30.2231,micrometers,left,231.051,sols,26.1481,micrometers,left,218.011,sols
+t,13.2091,celsius
+t,9.00214,kelvin
+d,23.9351,micrometers,left,90.1914,sols,19.9891,micrometers,left,124.141,sols,10.7581,micrometers,left,10.3714,sols,16.9561,micrometers,left,241.081,sols
+t,3.71914,kelvin
+w,25.8991, nanometers, 12.9496
+t,5.61314,celsius
+d,0.0151416,centimeters,forward,131.831,seconds,25.3081,centimeters,forward,251.061,seconds,23.5751,centimeters,forward,298.191,seconds,17.9261,centimeters,forward,113.041,seconds
+t,7.60714,celsius
+t,10.8651,celsius
+d,6.78114,micrometers,left,178.001,sols,30.1471,micrometers,left,166.241,sols,1.12814,micrometers,left,205.271,sols,6.23214,micrometers,left,1.10142,sols
+t,17.3451,celsius
+t,2.63514,celsius
+w,2.03814, kilometers, 0.679381
+d,28.3761,centimeters,forward,236.821,seconds,25.8611,centimeters,forward,271.561,seconds,19.9661,centimeters,forward,283.941,seconds,3.46614,centimeters,forward,318.741,seconds
+t,-30.7411,kelvin
+t,17.6481,celsius
+d,14.3441,centimeters,forward,167.101,seconds,15.5621,centimeters,forward,112.161,seconds,20.7221,centimeters,forward,31.6014,seconds,11.1781,centimeters,forward,171.451,seconds
+t,-25.0251,celsius
+t,-23.0371,celsius
+d,10.5351,centimeters,forward,169.711,seconds,28.1391,centimeters,forward,318.181,seconds,7.22114,centimeters,forward,144.761,seconds,2.24114,centimeters,forward,135.711,seconds
+t,1.57814,celsius
+w,31.2751, centimeters, 31.2751
+t,13.3121,celsius
+d,26.8321,kilometers,left,212.931,sols,13.3681,kilometers,left,75.7414,sols,13.0391,kilometers,left,83.5414,sols,12.9941,kilometers,left,148.251,sols
+t,12.2971,kelvin
+t,19.2291,celsius
+d,11.7261,nanometers,right,217.791,minutes,2.09214,nanometers,right,288.821,minutes,20.0611,nanometers,right,317.251,minutes,14.4171,nanometers,right,249.171,minutes
+t,5.19714,celsius
+t,2.44114,celsius
+w,8.29514, nanometers, 4.14757
+d,8.51014,nanometers,right,56.7714,minutes,16.2751,nanometers,right,27.8014,minutes,31.1481,nanometers,right,124.401,minutes,29.7691,nanometers,right,318.551,minutes
+t,6.44014,kelvin
+t,0.544142,kelvin
+d,1.17614,nanometers,right,161.341,minutes,25.1431,nanometers,right,166.511,minutes,10.1721,nanometers,right,40.6614,minutes,24.0151,nanometers,right,145.061,minutes
+t,14.9911,celsius
+t,-27.8541,kelvin
+d,27.6951,centimeters,forward,326.031,seconds,25.9371,centimeters,forward,131.471,seconds,28.1401,centimeters,forward,108.001,seconds,10.7101,centimeters,forward,86.4614,seconds
+t,4.71614,celsius
+w,1.76214, nanometers, 0.881071
+t,-20.7041,celsius
+d,15.4881,nanometers,right,225.121,minutes,6.39914,nanometers,right,40.7114,minutes,31.0501,nanometers,right,296.201,minutes,4.19314,nanometers,right,157.341,minutes
+t,1.29014,celsius
+t,4.53914,celsius
+d,14.6001,centimeters,forward,16.9714,seconds,30.3721,centimeters,forward,188.971,seconds,18.0731,centimeters,forward,198.141,seconds,27.2111,centimeters,forward,261.301,seconds
+t,19.8911,celsius
+t,0.289142,kelvin
+w,9.50214, kilometers, 3.16738
+d,1.84414,nanometers,right,227.511,minutes,2.99414,nanometers,right,278.301,minutes,17.3091,nanometers,right,41.5714,minutes,31.0081,nanometers,right,211.941,minutes
+t,10.6801,celsius
+t,-32.4071,celsius
+d,14.6571,centimeters,forward,175.141,seconds,6.03814,centimeters,forward,94.0914,seconds,25.2091,centimeters,forward,75.0014,seconds,10.2061,centimeters,forward,215.581,seconds
+t,-28.0191,celsius
+t,13.5071,celsius
+d,8.04114,nanometers,right,286.851,minutes,1.64814,nanometers,right,49.7814,minutes,24.3381,nanometers,right,194.831,minutes,24.6421,nanometers,right,226.991,minutes
+t,-24.0441,kelvin
+w,20.8251, centimeters, 20.8251
+t,13.6601,celsius
+d,7.26114,centimeters,forward,306.581,seconds,2.54514,centimeters,forward,188.741,seconds,5.58614,centimeters,forward,212.091,seconds,12.0381,centimeters,forward,313.841,seconds
+t,-27.4711,kelvin
+t,9.88514,kelvin
+d,7.46314,centimeters,forward,286.701,seconds,11.8771,centimeters,forward,279.081,seconds,24.2731,centimeters,forward,213.561,seconds,10.6281,centimeters,forward,10.3014,seconds
+t,13.8571,celsius
+t,2.56714,celsius
+w,26.7931, kilometers, 8.93105
+d,10.6651,centimeters,forward,0.761416,seconds,15.7461,centimeters,forward,176.991,seconds,6.24714,centimeters,forward,49.4614,seconds,18.3581,centimeters,forward,67.5914,seconds
+t,5.22714,celsius
+t,16.5171,celsius
+d,23.8751,micrometers,left,277.911,sols,32.3371,micrometers,left,257.801,sols,7.41814,micrometers,left,291.551,sols,27.0221,micrometers,left,60.8814,sols
+t,-28.8121,celsius
+t,18.5491,kelvin
+d,17.3851,centimeters,forward,259.401,seconds,32.3411,centimeters,forward,95.3714,seconds,10.7471,centimeters,forward,179.241,seconds,27.4331,centimeters,forward,87.7814,seconds
+t,-29.5631,celsius
+w,18.0821, centimeters, 18.0821
+t,-22.7101,celsius
+d,12.6901,kilometers,left,46.7514,sols,26.1301,kilometers,left,188.331,sols,16.5601,kilometers,left,169.271,sols,2.31214,kilometers,left,252.841,sols
+t,14.0831,celsius
+t,7.40514,celsius
+d,26.7251,kilometers,left,121.311,sols,7.01714,kilometers,left,106.411,sols,8.09914,kilometers,left,233.011,sols,25.6221,kilometers,left,319.081,sols
+t,-32.1111,celsius
+t,-25.3041,celsius
+w,19.4941, kilometers, 6.49805
+d,19.2181,kilometers,left,127.281,sols,12.4541,kilometers,left,96.4814,sols,27.9551,kilometers,left,304.511,sols,22.0451,kilometers,left,209.261,sols
+t,5.91214,celsius
+t,-31.0321,celsius
+d,25.3521,nanometers,right,190.931,minutes,18.9941,nanometers,right,252.981,minutes,17.2231,nanometers,right,186.211,minutes,26.4981,nanometers,right,251.301,minutes
+t,12.8651,kelvin
+t,7.33114,celsius
+d,21.0861,centimeters,forward,100.941,seconds,11.5111,centimeters,forward,163.871,seconds,23.6601,centimeters,forward,15.7614,seconds,11.6631,centimeters,forward,17.4314,seconds
+t,2.98614,celsius
+w,26.3481, kilometers, 8.78271
+t,-22.3481,celsius
+d,22.0111,nanometers,right,83.0814,minutes,0.719142,nanometers,right,26.5014,minutes,0.303142,nanometers,right,248.441,minutes,17.5321,nanometers,right,148.151,minutes
+t,18.0231,kelvin
+t,-28.0851,celsius
+d,29.3021,nanometers,right,12.9614,minutes,15.5271,nanometers,right,287.001,minutes,25.2231,nanometers,right,238.611,minutes,9.34714,nanometers,right,280.061,minutes
+t,4.15314,celsius
+t,-25.1881,celsius
+w,5.00314, nanometers, 2.50157
+d,8.95214,kilometers,left,230.301,sols,1.42714,kilometers,left,247.921,sols,30.9351,kilometers,left,84.5714,sols,5.89414,kilometers,left,163.981,sols
+t,12.2211,kelvin
+t,13.3281,celsius
+d,0.967142,centimeters,forward,176.521,seconds,0.957142,centimeters,forward,45.2114,seconds,22.0741,centimeters,forward,84.7814,seconds,11.4931,centimeters,forward,57.0214,seconds
+t,-29.0141,celsius
+t,11.8931,celsius
+d,23.2741,kilometers,left,205.401,sols,23.9891,kilometers,left,102.701,sols,28.0981,kilometers,left,308.641,sols,17.0061,kilometers,left,195.871,sols
+t,1.42714,celsius
+w,19.8051, kilometers, 6.60171
+t,16.5761,celsius
+d,23.8381,micrometers,left,108.731,sols,13.6681,micrometers,left,223.551,sols,8.06314,micrometers,left,190.391,sols,31.6041,micrometers,left,63.8914,sols
+t,-27.0661,kelvin
+t,17.5401,celsius
+d,29.1081,nanometers,right,90.7014,minutes,16.1031,nanometers,right,57.5114,minutes,5.55114,nanometers,right,311.111,minutes,5.18514,nanometers,right,270.501,minutes
+t,0.229142,kelvin
+t,6.37814,kelvin
+w,12.9821, kilometers, 4.32738
+d,7.07514,centimeters,forward,159.441,seconds,27.9681,centimeters,forward,96.3114,seconds,28.2361,centimeters,forward,275.911,seconds,9.47014,centimeters,forward,158.961,seconds
+t,12.8531,kelvin
+t,-29.9651,celsius
+d,5.08014,nanometers,right,243.371,minutes,31.2131,nanometers,right,315.811,minutes,0.237142,nanometers,right,80.6514,minutes,10.2671,nanometers,right,100.361,minutes
+t,13.0711,celsius
+t,-23.3371,celsius
+d,20.2841,micrometers,left,36.2114,sols,9.03914,micrometers,left,171.751,sols,24.7161,micrometers,left,103.111,sols,28.9381,micrometers,left,6.99142,sols
+t,-29.2021,celsius
+w,28.6241, nanometers, 14.3121
+t,3.32014,kelvin
+d,12.0241,nanometers,right,61.2114,minutes,17.2641,nanometers,right,248.091,minutes,11.9611,nanometers,right,276.661,minutes,12.1281,nanometers,right,161.481,minutes
+t,3.08214,kelvin
+t,19.0551,celsius
+d,2.69114,kilometers,left,255.611,sols,10.1351,kilometers,left,74.0514,sols,30.0721,kilometers,left,9.95142,sols,3.90014,kilometers,left,72.7014,sols
+t,-28.0801,celsius
+t,12.8661,kelvin
+w,19.4441, kilometers, 6.48138
+d,24.9521,centimeters,forward,279.281,seconds,20.9731,centimeters,forward,279.291,seconds,30.8331,centimeters,forward,324.831,seconds,31.2271,centimeters,forward,21.1814,seconds
+t,2.20514,celsius
+t,7.97514,celsius
+d,2.24214,kilometers,left,106.071,sols,6.05914,kilometers,left,178.811,sols,16.5451,kilometers,left,246.281,sols,13.1441,kilometers,left,158.371,sols
+t,13.5241,celsius
+t,17.6241,celsius
+d,24.9511,centimeters,forward,70.0914,seconds,22.8121,centimeters,forward,48.8014,seconds,31.3971,centimeters,forward,278.911,seconds,22.4331,centimeters,forward,178.311,seconds
+t,4.67614,celsius
+w,2.35514, kilometers, 0.785047
+t,7.16514,celsius
+d,15.3701,nanometers,right,127.791,minutes,21.6071,nanometers,right,120.711,minutes,17.6881,nanometers,right,233.871,minutes,29.6251,nanometers,right,34.4314,minutes
+t,5.43014,celsius
+t,5.38714,celsius
+d,17.3331,centimeters,forward,53.1214,seconds,30.9201,centimeters,forward,274.311,seconds,27.8761,centimeters,forward,243.081,seconds,7.14414,centimeters,forward,164.041,seconds
+t,-26.9991,celsius
+t,18.4381,kelvin
+w,22.1261, nanometers, 11.0631
+d,24.1271,centimeters,forward,120.561,seconds,29.8591,centimeters,forward,119.591,seconds,28.1621,centimeters,forward,147.821,seconds,15.1791,centimeters,forward,300.801,seconds
+t,11.2841,celsius
+t,19.5441,celsius
+d,14.5451,centimeters,forward,63.1014,seconds,7.67514,centimeters,forward,52.8314,seconds,23.3731,centimeters,forward,220.571,seconds,4.76914,centimeters,forward,305.211,seconds
+t,-30.3321,kelvin
+t,18.8781,kelvin
+d,29.9891,kilometers,left,126.411,sols,31.7621,kilometers,left,280.951,sols,7.56614,kilometers,left,161.201,sols,8.10814,kilometers,left,14.2514,sols
+t,-24.0631,kelvin
+w,10.7671, centimeters, 10.7671
+t,15.2211,kelvin
+d,0.459142,centimeters,forward,8.20142,seconds,4.92414,centimeters,forward,207.241,seconds,25.6051,centimeters,forward,23.6114,seconds,3.54114,centimeters,forward,149.921,seconds
+t,10.8041,celsius
+t,14.7281,celsius
+d,28.3361,centimeters,forward,201.541,seconds,24.8881,centimeters,forward,167.471,seconds,28.2101,centimeters,forward,248.771,seconds,8.53814,centimeters,forward,118.411,seconds
+t,-32.2011,celsius
+t,12.6661,kelvin
+w,14.9981, nanometers, 7.49907
+d,5.99814,kilometers,left,59.7314,sols,8.60214,kilometers,left,256.201,sols,7.46714,kilometers,left,192.841,sols,6.30614,kilometers,left,322.461,sols
+t,-22.8391,celsius
+t,3.31414,kelvin
+d,7.34214,centimeters,forward,53.8414,seconds,21.1681,centimeters,forward,287.841,seconds,28.1481,centimeters,forward,159.771,seconds,11.1341,centimeters,forward,158.091,seconds
+t,1.06714,celsius
+t,4.89614,celsius
+d,1.10614,nanometers,right,96.4914,minutes,24.7981,nanometers,right,77.8514,minutes,14.7381,nanometers,right,199.711,minutes,19.7951,nanometers,right,214.031,minutes
+t,1.20114,celsius
+w,21.8961, nanometers, 10.9481
+t,-30.0291,kelvin
+d,20.5901,micrometers,left,63.0614,sols,8.05314,micrometers,left,154.111,sols,26.4721,micrometers,left,160.841,sols,29.5881,micrometers,left,268.481,sols
+t,-24.3921,kelvin
+t,-28.9491,celsius
+d,24.4941,centimeters,forward,227.281,seconds,28.4361,centimeters,forward,50.7714,seconds,32.3941,centimeters,forward,23.5214,seconds,5.24714,centimeters,forward,32.4514,seconds
+t,3.98814,kelvin
+t,12.2271,kelvin
+w,5.25514, nanometers, 2.62757
+d,1.32914,nanometers,right,266.871,minutes,15.0131,nanometers,right,88.6214,minutes,22.8041,nanometers,right,267.921,minutes,26.0631,nanometers,right,221.911,minutes
+t,-21.3781,kelvin
+t,14.7911,celsius
+d,15.9531,kilometers,left,83.5314,sols,13.3511,kilometers,left,118.861,sols,10.8651,kilometers,left,144.061,sols,1.90314,kilometers,left,282.881,sols
+t,-27.2331,kelvin
+t,2.76414,celsius
+d,16.7611,kilometers,left,75.5814,sols,28.9491,kilometers,left,185.421,sols,26.8771,kilometers,left,291.051,sols,27.8301,kilometers,left,307.001,sols
+t,-21.1781,kelvin
+w,3.53214, centimeters, 3.53214
+t,5.59314,celsius
+d,13.9741,centimeters,forward,117.841,seconds,9.87114,centimeters,forward,270.021,seconds,0.851142,centimeters,forward,76.1114,seconds,10.3171,centimeters,forward,41.7114,seconds
+t,-20.7001,celsius
+t,-27.2031,kelvin
+d,14.9131,nanometers,right,206.961,minutes,18.9021,nanometers,right,245.041,minutes,21.3431,nanometers,right,325.411,minutes,32.6171,nanometers,right,258.091,minutes
+t,-29.7971,celsius
+t,18.3511,kelvin
+w,10.2331, micrometers, 2.55829
+d,2.24214,kilometers,left,96.4314,sols,13.6581,kilometers,left,269.481,sols,20.5901,kilometers,left,41.0414,sols,8.55714,kilometers,left,313.791,sols
+t,9.35114,kelvin
+t,5.15414,celsius
+d,13.6461,micrometers,left,263.531,sols,25.9471,micrometers,left,73.9014,sols,7.50914,micrometers,left,92.9014,sols,16.5971,micrometers,left,168.721,sols
+t,11.4331,celsius
+t,2.50414,celsius
+d,22.5101,nanometers,right,201.861,minutes,16.4631,nanometers,right,244.331,minutes,9.58614,nanometers,right,291.091,minutes,12.8671,nanometers,right,207.291,minutes
+t,-26.4281,celsius
+w,29.1421, nanometers, 14.5711
+t,5.22114,celsius
+d,21.8781,nanometers,right,157.211,minutes,29.2701,nanometers,right,325.121,minutes,20.7511,nanometers,right,140.121,minutes,26.4051,nanometers,right,160.111,minutes
+t,6.68114,kelvin
+t,1.00414,celsius
+d,2.06414,kilometers,left,154.241,sols,8.04914,kilometers,left,307.791,sols,11.7601,kilometers,left,315.101,sols,10.5791,kilometers,left,274.731,sols
+t,3.34014,kelvin
+t,-24.3411,kelvin
+w,22.3281, nanometers, 11.1641
+d,23.3761,kilometers,left,182.811,sols,31.6221,kilometers,left,87.2514,sols,21.1741,kilometers,left,244.201,sols,14.2161,kilometers,left,141.651,sols
+t,6.03814,kelvin
+t,18.5901,kelvin
+d,18.2411,nanometers,right,229.331,minutes,31.3071,nanometers,right,287.901,minutes,14.1081,nanometers,right,305.721,minutes,31.4801,nanometers,right,169.871,minutes
+t,7.95714,celsius
+t,16.5481,celsius
+d,9.96214,micrometers,left,24.8714,sols,8.86514,micrometers,left,215.261,sols,28.7031,micrometers,left,252.481,sols,18.4711,micrometers,left,85.1714,sols
+t,8.70414,celsius
+w,16.1101, kilometers, 5.37005
+t,2.06714,celsius
+d,22.3791,nanometers,right,255.191,minutes,22.1721,nanometers,right,22.9614,minutes,8.20514,nanometers,right,212.361,minutes,17.3241,nanometers,right,187.291,minutes
+t,-30.0531,kelvin
+t,-28.9251,celsius
+d,15.1971,nanometers,right,12.3414,minutes,8.86814,nanometers,right,302.081,minutes,2.31614,nanometers,right,220.151,minutes,13.2441,nanometers,right,60.5014,minutes
+t,-29.4911,celsius
+t,-31.3941,celsius
+w,3.64414, centimeters, 3.64414
+d,21.3751,centimeters,forward,14.9314,seconds,3.89614,centimeters,forward,131.761,seconds,15.0551,centimeters,forward,96.0514,seconds,11.7811,centimeters,forward,113.611,seconds
+t,12.3551,kelvin
+t,-32.1131,celsius
+d,11.2411,centimeters,forward,58.1014,seconds,17.2921,centimeters,forward,321.561,seconds,2.22514,centimeters,forward,97.4714,seconds,10.3241,centimeters,forward,261.211,seconds
+t,5.21914,celsius
+t,8.59014,celsius
+d,24.6731,centimeters,forward,128.481,seconds,10.4541,centimeters,forward,61.2614,seconds,24.1601,centimeters,forward,241.271,seconds,10.6671,centimeters,forward,288.821,seconds
+t,5.85514,celsius
+w,23.3631, kilometers, 7.78771
+t,17.2811,celsius
+d,17.6751,centimeters,forward,196.191,seconds,8.31714,centimeters,forward,313.371,seconds,7.49114,centimeters,forward,300.221,seconds,23.9311,centimeters,forward,216.691,seconds
+t,10.6251,celsius
+t,-22.7911,celsius
+d,5.33614,nanometers,right,270.641,minutes,9.25814,nanometers,right,57.0814,minutes,7.95014,nanometers,right,307.871,minutes,10.4511,nanometers,right,63.7214,minutes
+t,-25.1181,celsius
+t,-29.0571,celsius
+w,31.9611, centimeters, 31.9611
+d,26.1941,kilometers,left,65.5214,sols,6.24114,kilometers,left,169.881,sols,26.6631,kilometers,left,291.591,sols,14.6841,kilometers,left,30.0314,sols
+t,-29.1771,celsius
+t,-21.1391,kelvin
+d,16.1761,kilometers,left,107.241,sols,24.7041,kilometers,left,88.3614,sols,23.0731,kilometers,left,66.4714,sols,22.3351,kilometers,left,60.2714,sols
+t,-24.1821,kelvin
+t,-26.1441,celsius
+d,17.2331,centimeters,forward,233.151,seconds,13.1511,centimeters,forward,187.031,seconds,30.4811,centimeters,forward,87.4914,seconds,17.9011,centimeters,forward,289.501,seconds
+t,5.06414,celsius
+w,13.2121, kilometers, 4.40405
+t,17.5331,celsius
+d,28.7511,nanometers,right,22.3214,minutes,27.4041,nanometers,right,123.581,minutes,23.3071,nanometers,right,59.7314,minutes,24.8751,nanometers,right,161.461,minutes
+t,-28.3711,celsius
+t,8.32414,celsius
+d,5.07214,nanometers,right,164.341,minutes,26.1481,nanometers,right,64.1014,minutes,14.7591,nanometers,right,151.311,minutes,10.5101,nanometers,right,255.441,minutes
+t,12.2011,kelvin
+t,18.2481,kelvin
+w,7.83514, centimeters, 7.83514
+d,0.252142,centimeters,forward,290.391,seconds,18.6541,centimeters,forward,262.641,seconds,13.4371,centimeters,forward,277.891,seconds,10.9721,centimeters,forward,185.501,seconds
+t,-28.7901,celsius
+t,4.58814,celsius
+d,18.4881,nanometers,right,138.281,minutes,27.2681,nanometers,right,232.141,minutes,10.9961,nanometers,right,163.391,minutes,13.2491,nanometers,right,21.5014,minutes
+t,5.27614,celsius
+t,5.74714,celsius
+d,27.1661,micrometers,left,172.341,sols,23.4881,micrometers,left,75.2414,sols,22.9411,micrometers,left,33.2714,sols,24.1541,micrometers,left,220.671,sols
+t,-20.5711,celsius
+w,23.7941, micrometers, 5.94854
+t,2.52314,celsius
+d,4.91314,nanometers,right,4.78142,minutes,30.9971,nanometers,right,85.3314,minutes,17.7781,nanometers,right,255.321,minutes,18.6451,nanometers,right,146.411,minutes
+t,-25.3731,celsius
+t,19.5171,celsius
+d,4.53414,nanometers,right,140.651,minutes,14.5771,nanometers,right,168.061,minutes,4.84314,nanometers,right,214.261,minutes,4.50014,nanometers,right,138.221,minutes
+t,6.48114,kelvin
+t,18.7041,kelvin
+w,23.7531, micrometers, 5.93829
+d,29.6651,kilometers,left,175.811,sols,31.8441,kilometers,left,318.271,sols,23.3001,kilometers,left,79.3214,sols,28.3041,kilometers,left,92.5614,sols
+t,15.5891,kelvin
+t,12.1511,kelvin
+d,6.94614,centimeters,forward,117.721,seconds,10.2611,centimeters,forward,128.881,seconds,30.3271,centimeters,forward,34.7214,seconds,5.63714,centimeters,forward,6.09142,seconds
+t,-25.2571,celsius
+t,11.5271,celsius
+d,2.11514,kilometers,left,9.60142,sols,29.9721,kilometers,left,306.511,sols,30.3541,kilometers,left,312.971,sols,25.0511,kilometers,left,178.561,sols
+t,8.64114,celsius
+w,17.2601, centimeters, 17.2601
+t,18.4771,kelvin
+d,32.5111,nanometers,right,269.961,minutes,22.8891,nanometers,right,307.571,minutes,2.71614,nanometers,right,245.981,minutes,4.09414,nanometers,right,224.681,minutes
+t,7.86914,celsius
+t,7.71914,celsius
+d,23.9581,micrometers,left,224.361,sols,10.8271,micrometers,left,137.061,sols,16.0691,micrometers,left,133.461,sols,2.79514,micrometers,left,118.901,sols
+t,2.48714,celsius
+t,14.7481,celsius
+w,32.4311, nanometers, 16.2156
+d,21.4631,centimeters,forward,304.281,seconds,21.6721,centimeters,forward,248.711,seconds,32.3761,centimeters,forward,3.25142,seconds,5.50914,centimeters,forward,113.951,seconds
+t,18.6681,kelvin
+t,5.36314,celsius
+d,27.6801,centimeters,forward,257.261,seconds,5.56414,centimeters,forward,102.151,seconds,29.4421,centimeters,forward,243.971,seconds,32.7121,centimeters,forward,0.741416,seconds
+t,15.8521,kelvin
+t,0.639142,kelvin
+d,10.0801,micrometers,left,124.281,sols,1.75014,micrometers,left,235.801,sols,25.1511,micrometers,left,38.6514,sols,5.25414,micrometers,left,172.571,sols
+t,-31.5081,celsius
+w,27.4171, micrometers, 6.85429
+t,3.80714,kelvin
+d,17.1991,micrometers,left,82.2714,sols,6.84814,micrometers,left,146.291,sols,25.7701,micrometers,left,194.751,sols,19.1061,micrometers,left,224.601,sols
+t,15.6471,kelvin
+t,18.1071,kelvin
+d,2.54414,kilometers,left,278.881,sols,0.868142,kilometers,left,153.041,sols,3.51614,kilometers,left,94.8514,sols,24.3331,kilometers,left,118.791,sols
+t,-32.2641,celsius
+t,-30.9801,kelvin
+w,3.60114, centimeters, 3.60114
+d,9.57814,kilometers,left,267.891,sols,32.4471,kilometers,left,146.881,sols,5.72714,kilometers,left,4.57142,sols,25.0811,kilometers,left,92.2014,sols
+t,14.5741,celsius
+t,-31.3861,celsius
+d,23.8451,micrometers,left,221.131,sols,25.4091,micrometers,left,274.671,sols,8.71214,micrometers,left,85.5814,sols,1.98414,micrometers,left,52.8414,sols
+t,12.4441,kelvin
+t,1.58914,celsius
+d,10.8501,centimeters,forward,4.25142,seconds,6.67314,centimeters,forward,120.111,seconds,11.4231,centimeters,forward,54.4814,seconds,21.5981,centimeters,forward,218.051,seconds
+t,2.71714,celsius
+w,4.95514, nanometers, 2.47757
+t,-27.1511,kelvin
+d,30.3241,kilometers,left,289.591,sols,7.74114,kilometers,left,321.491,sols,29.2531,kilometers,left,81.1014,sols,13.4931,kilometers,left,251.931,sols
+t,-23.3031,celsius
+t,1.16514,celsius
+d,5.91214,kilometers,left,286.491,sols,28.7681,kilometers,left,31.2714,sols,3.49714,kilometers,left,254.491,sols,12.2361,kilometers,left,200.261,sols
+t,1.84514,celsius
+t,-22.3241,celsius
+w,16.7601, kilometers, 5.58671
+d,1.70114,nanometers,right,10.0014,minutes,32.1221,nanometers,right,167.751,minutes,14.4711,nanometers,right,194.791,minutes,9.66814,nanometers,right,297.781,minutes
+t,18.5131,kelvin
+t,11.7731,celsius
+d,21.5361,centimeters,forward,63.8614,seconds,30.3261,centimeters,forward,181.591,seconds,5.99014,centimeters,forward,244.771,seconds,4.29514,centimeters,forward,318.251,seconds
+t,-27.1641,kelvin
+t,-23.6211,celsius
+d,18.0201,centimeters,forward,120.271,seconds,10.1571,centimeters,forward,148.231,seconds,24.2351,centimeters,forward,306.911,seconds,28.2551,centimeters,forward,258.601,seconds
+t,-21.9431,kelvin
+w,7.38414, centimeters, 7.38414
+t,6.68414,kelvin
+d,14.9601,nanometers,right,135.881,minutes,6.93814,nanometers,right,258.351,minutes,21.6891,nanometers,right,146.561,minutes,20.3021,nanometers,right,9.77142,minutes
+t,-24.5481,kelvin
+t,-31.9261,celsius
+d,9.73314,kilometers,left,242.701,sols,25.4251,kilometers,left,64.0814,sols,10.9611,kilometers,left,309.101,sols,6.69514,kilometers,left,310.471,sols
+t,14.8031,celsius
+t,-21.8361,kelvin
+w,21.4451, centimeters, 21.4451
+d,3.76814,centimeters,forward,319.081,seconds,30.0441,centimeters,forward,87.2414,seconds,8.84614,centimeters,forward,151.251,seconds,12.2721,centimeters,forward,58.2214,seconds
+t,18.0511,kelvin
+t,4.58814,celsius
+d,11.9441,nanometers,right,136.791,minutes,18.8391,nanometers,right,173.321,minutes,4.42914,nanometers,right,277.411,minutes,31.5671,nanometers,right,74.7714,minutes
+t,-23.1191,celsius
+t,14.1991,celsius
+d,27.5081,micrometers,left,2.62142,sols,8.04014,micrometers,left,194.561,sols,29.6351,micrometers,left,176.561,sols,27.6301,micrometers,left,69.6514,sols
+t,16.6561,celsius
+w,4.73114, nanometers, 2.36557
+t,18.6121,kelvin
+d,6.69614,micrometers,left,158.371,sols,5.11314,micrometers,left,227.591,sols,3.65514,micrometers,left,94.7614,sols,27.2351,micrometers,left,276.231,sols
+t,3.14814,kelvin
+t,10.5671,celsius
+d,23.3481,kilometers,left,39.7814,sols,1.70414,kilometers,left,155.211,sols,27.5251,kilometers,left,2.16142,sols,28.9331,kilometers,left,284.831,sols
+t,-26.6571,celsius
+t,12.4381,kelvin
+w,24.6041, centimeters, 24.6041
+d,28.5231,centimeters,forward,220.601,seconds,14.6741,centimeters,forward,99.8414,seconds,18.4071,centimeters,forward,52.0714,seconds,13.6681,centimeters,forward,181.901,seconds
+t,16.6641,celsius
+t,17.9481,celsius
+d,8.32914,nanometers,right,257.491,minutes,16.9161,nanometers,right,145.981,minutes,32.4551,nanometers,right,231.991,minutes,29.2911,nanometers,right,31.7814,minutes
+t,16.3391,celsius
+t,7.46614,celsius
+d,29.7901,kilometers,left,52.3514,sols,2.49714,kilometers,left,237.111,sols,3.78514,kilometers,left,125.461,sols,14.1801,kilometers,left,319.011,sols
+t,-26.7851,celsius
+w,22.7241, kilometers, 7.57471
+t,-25.5931,celsius
+d,29.9961,kilometers,left,314.121,sols,17.9191,kilometers,left,198.081,sols,2.32414,kilometers,left,87.7714,sols,32.1881,kilometers,left,113.061,sols
+t,-28.2321,celsius
+t,8.16014,celsius
+d,32.5281,nanometers,right,254.241,minutes,20.1531,nanometers,right,97.9514,minutes,16.9441,nanometers,right,201.681,minutes,29.0451,nanometers,right,97.5314,minutes
+t,-27.7821,kelvin
+t,-23.2241,celsius
+w,21.2941, centimeters, 21.2941
+d,15.1721,nanometers,right,111.871,minutes,27.7311,nanometers,right,47.4914,minutes,11.2031,nanometers,right,220.911,minutes,16.6481,nanometers,right,180.311,minutes
+t,5.93914,celsius
+t,13.0281,celsius
+d,9.61214,kilometers,left,2.21142,sols,5.43814,kilometers,left,256.111,sols,6.55514,kilometers,left,252.161,sols,14.9591,kilometers,left,321.161,sols
+t,11.4801,celsius
+t,9.01514,kelvin
+d,4.91814,nanometers,right,262.721,minutes,25.5671,nanometers,right,227.371,minutes,29.9961,nanometers,right,278.561,minutes,8.00614,nanometers,right,291.211,minutes
+t,-31.3821,celsius
+w,31.5991, centimeters, 31.5991
+t,10.9841,celsius
+d,13.5901,micrometers,left,177.711,sols,27.5431,micrometers,left,295.901,sols,14.0501,micrometers,left,223.711,sols,24.9601,micrometers,left,76.7414,sols
+t,13.5961,celsius
+t,-22.8201,celsius
+d,10.4941,centimeters,forward,259.331,seconds,24.5151,centimeters,forward,293.761,seconds,28.0301,centimeters,forward,50.2514,seconds,5.21514,centimeters,forward,15.3614,seconds
+t,18.3141,kelvin
+t,11.5931,celsius
+w,13.9331, centimeters, 13.9331
+d,15.3081,nanometers,right,300.051,minutes,8.86114,nanometers,right,293.101,minutes,8.90014,nanometers,right,308.871,minutes,31.4351,nanometers,right,246.461,minutes
+t,-25.6291,celsius
+t,7.49214,celsius
+d,7.02514,centimeters,forward,50.8914,seconds,11.0521,centimeters,forward,175.411,seconds,28.9581,centimeters,forward,297.111,seconds,11.7721,centimeters,forward,70.7014,seconds
+t,3.05914,kelvin
+t,4.96414,celsius
+d,0.297142,centimeters,forward,253.761,seconds,13.1201,centimeters,forward,62.5814,seconds,14.0651,centimeters,forward,72.4814,seconds,19.0611,centimeters,forward,285.041,seconds
+t,-25.0871,celsius
+w,2.11714, kilometers, 0.705714
+t,11.0521,celsius
+d,0.198142,centimeters,forward,276.511,seconds,30.8651,centimeters,forward,65.4714,seconds,19.3201,centimeters,forward,133.391,seconds,16.0171,centimeters,forward,109.191,seconds
+t,6.32914,kelvin
+t,15.0041,kelvin
+d,19.4431,kilometers,left,13.3914,sols,32.1501,kilometers,left,172.341,sols,17.4061,kilometers,left,318.311,sols,23.8751,kilometers,left,272.351,sols
+t,4.87614,celsius
+t,-25.5801,celsius
+w,30.6331, micrometers, 7.65829
+d,11.8501,nanometers,right,300.251,minutes,13.8521,nanometers,right,226.811,minutes,28.5121,nanometers,right,282.211,minutes,10.6221,nanometers,right,143.951,minutes
+t,-23.2161,celsius
+t,-22.8161,celsius
+d,2.03814,kilometers,left,28.1714,sols,23.7731,kilometers,left,194.081,sols,24.1231,kilometers,left,78.9314,sols,3.82014,kilometers,left,144.331,sols
+t,3.61514,kelvin
+t,9.69214,kelvin
+d,10.9891,centimeters,forward,178.731,seconds,8.10214,centimeters,forward,233.751,seconds,2.42914,centimeters,forward,215.991,seconds,19.5401,centimeters,forward,140.021,seconds
+t,-25.0801,celsius
+w,3.73514, centimeters, 3.73514
+t,9.99014,kelvin
+d,28.8041,nanometers,right,324.021,minutes,11.0071,nanometers,right,206.931,minutes,8.02814,nanometers,right,8.15142,minutes,24.7181,nanometers,right,320.031,minutes
+t,-21.9951,kelvin
+t,8.00814,celsius
+d,16.2001,kilometers,left,305.681,sols,0.979142,kilometers,left,28.9314,sols,2.16114,kilometers,left,247.521,sols,11.1401,kilometers,left,258.131,sols
+t,-32.0741,celsius
+t,-26.2821,celsius
+w,18.2201, nanometers, 9.11007
+d,14.8471,nanometers,right,67.5514,minutes,11.3381,nanometers,right,28.4514,minutes,13.4171,nanometers,right,289.551,minutes,27.2151,nanometers,right,63.1914,minutes
+t,16.6491,celsius
+t,6.98714,kelvin
+d,28.5161,centimeters,forward,207.941,seconds,6.48714,centimeters,forward,210.331,seconds,1.45014,centimeters,forward,6.24142,seconds,11.1281,centimeters,forward,239.491,seconds
+t,5.31314,celsius
+t,9.15614,kelvin
+d,6.07714,kilometers,left,109.901,sols,21.6701,kilometers,left,25.2614,sols,27.5601,kilometers,left,101.161,sols,26.2851,kilometers,left,317.841,sols
+t,16.3091,celsius
+w,26.0211, nanometers, 13.0106
+t,17.1311,celsius
+d,24.5641,centimeters,forward,246.581,seconds,23.5441,centimeters,forward,113.611,seconds,15.9541,centimeters,forward,199.981,seconds,24.3741,centimeters,forward,258.551,seconds
+t,-20.2371,celsius
+t,10.2251,celsius
+d,19.5031,kilometers,left,323.571,sols,26.9721,kilometers,left,261.771,sols,28.0661,kilometers,left,174.331,sols,4.94414,kilometers,left,92.5514,sols
+t,-20.7291,celsius
+t,-24.3421,kelvin
+w,10.3171, micrometers, 2.57929
+d,12.7001,kilometers,left,218.991,sols,18.5631,kilometers,left,80.9514,sols,9.22514,kilometers,left,55.4514,sols,24.9471,kilometers,left,293.071,sols
+t,11.1571,celsius
+t,17.1051,celsius
+d,8.93914,kilometers,left,142.931,sols,7.76714,kilometers,left,143.771,sols,31.8031,kilometers,left,93.4114,sols,17.5601,kilometers,left,80.6714,sols
+t,3.69314,kelvin
+t,11.5021,celsius
+d,20.4171,micrometers,left,16.1314,sols,12.4881,micrometers,left,150.821,sols,23.6541,micrometers,left,259.301,sols,22.5101,micrometers,left,90.8714,sols
+t,12.6851,kelvin
+w,30.9871, centimeters, 30.9871
+t,9.48314,kelvin
+d,20.0961,kilometers,left,172.431,sols,21.8021,kilometers,left,74.0014,sols,29.8881,kilometers,left,110.961,sols,19.0701,kilometers,left,63.0114,sols
+t,-25.0291,celsius
+t,-27.3861,kelvin
+d,20.4511,micrometers,left,121.511,sols,32.6111,micrometers,left,171.041,sols,13.4321,micrometers,left,168.701,sols,3.35814,micrometers,left,185.281,sols
+t,13.4311,celsius
+t,9.60414,kelvin
+w,19.4721, kilometers, 6.49071
+d,25.2231,nanometers,right,108.981,minutes,25.7591,nanometers,right,272.381,minutes,20.0231,nanometers,right,161.571,minutes,21.0621,nanometers,right,293.561,minutes
+t,-20.6011,celsius
+t,8.36714,celsius
+d,17.1191,micrometers,left,116.021,sols,13.2621,micrometers,left,15.5114,sols,0.415142,micrometers,left,147.661,sols,20.8341,micrometers,left,296.291,sols
+t,19.1431,celsius
+t,-32.5651,celsius
+d,16.2261,kilometers,left,257.701,sols,3.85314,kilometers,left,80.5814,sols,29.1961,kilometers,left,137.121,sols,1.77214,kilometers,left,76.3814,sols
+t,-27.3911,kelvin
+w,14.5641, centimeters, 14.5641
+t,3.55114,kelvin
+d,15.5201,nanometers,right,167.201,minutes,0.999142,nanometers,right,232.081,minutes,18.6551,nanometers,right,14.1714,minutes,5.27614,nanometers,right,128.571,minutes
+t,9.49214,kelvin
+t,-23.6151,celsius
+d,5.26914,nanometers,right,208.741,minutes,25.6651,nanometers,right,151.661,minutes,15.5281,nanometers,right,146.671,minutes,20.0591,nanometers,right,13.0414,minutes
+t,-28.8981,celsius
+t,-30.8161,kelvin
+w,13.1351, kilometers, 4.37838
+d,1.84614,nanometers,right,310.591,minutes,6.74814,nanometers,right,118.381,minutes,12.4061,nanometers,right,183.011,minutes,18.9081,nanometers,right,288.281,minutes
+t,16.3601,celsius
+t,16.0841,celsius
+d,1.94614,nanometers,right,127.331,minutes,28.2201,nanometers,right,123.661,minutes,18.6951,nanometers,right,70.9714,minutes,23.5481,nanometers,right,167.771,minutes
+t,-29.0961,celsius
+t,-27.6451,kelvin
+d,12.2341,nanometers,right,157.801,minutes,28.7701,nanometers,right,244.981,minutes,9.97314,nanometers,right,64.1114,minutes,8.77714,nanometers,right,150.081,minutes
+t,14.6571,celsius
+w,7.24114, centimeters, 7.24114
+t,3.94814,kelvin
+d,3.11514,micrometers,left,245.811,sols,8.20114,micrometers,left,59.4014,sols,8.29414,micrometers,left,50.1014,sols,20.1771,micrometers,left,7.57142,sols
+t,14.2741,celsius
+t,10.3041,celsius
+d,3.74814,centimeters,forward,305.101,seconds,29.6981,centimeters,forward,172.771,seconds,26.6671,centimeters,forward,230.451,seconds,19.3901,centimeters,forward,283.081,seconds
+t,-27.2881,kelvin
+t,-22.1101,celsius
+w,21.8921, nanometers, 10.9461
+d,5.79314,kilometers,left,95.9514,sols,23.2471,kilometers,left,297.831,sols,22.8701,kilometers,left,284.311,sols,1.50414,kilometers,left,283.031,sols
+t,-27.6131,kelvin
+t,-23.3231,celsius
+d,27.7741,centimeters,forward,126.221,seconds,4.78714,centimeters,forward,226.541,seconds,7.07414,centimeters,forward,152.341,seconds,30.5511,centimeters,forward,201.141,seconds
+t,-31.6091,celsius
+t,4.09614,celsius
+d,6.56514,micrometers,left,109.801,sols,9.53814,micrometers,left,60.1114,sols,26.8961,micrometers,left,4.57142,sols,4.15114,micrometers,left,237.431,sols
+t,10.7131,celsius
+w,5.96614, kilometers, 1.98871
+t,6.62114,kelvin
+d,2.96114,kilometers,left,122.631,sols,13.5391,kilometers,left,36.4314,sols,20.7551,kilometers,left,172.701,sols,25.0211,kilometers,left,145.531,sols
+t,15.8521,kelvin
+t,-29.3641,celsius
+d,8.60714,nanometers,right,58.6014,minutes,19.5171,nanometers,right,54.5814,minutes,17.2541,nanometers,right,167.861,minutes,11.6161,nanometers,right,231.821,minutes
+t,12.1401,kelvin
+t,-27.9391,kelvin
+w,4.90214, nanometers, 2.45107
+d,20.8861,centimeters,forward,168.831,seconds,30.2031,centimeters,forward,229.621,seconds,17.6781,centimeters,forward,253.061,seconds,12.8531,centimeters,forward,268.211,seconds
+t,8.54114,celsius
+t,10.4001,celsius
+d,17.2711,centimeters,forward,250.931,seconds,32.7631,centimeters,forward,234.611,seconds,30.6471,centimeters,forward,201.471,seconds,25.0401,centimeters,forward,324.331,seconds
+t,13.4041,celsius
+t,-21.3111,kelvin
+d,1.51014,nanometers,right,1.31142,minutes,1.17414,nanometers,right,284.781,minutes,5.29014,nanometers,right,67.7714,minutes,1.06614,nanometers,right,283.331,minutes
+t,5.20714,celsius
+w,10.9251, centimeters, 10.9251
+t,18.0881,kelvin
+d,28.6001,nanometers,right,6.94142,minutes,23.5871,nanometers,right,110.291,minutes,29.2391,nanometers,right,305.301,minutes,10.1111,nanometers,right,89.1914,minutes
+t,-21.8201,kelvin
+t,7.98114,celsius
+d,24.6131,centimeters,forward,229.901,seconds,11.9541,centimeters,forward,96.6314,seconds,28.5821,centimeters,forward,228.901,seconds,20.0951,centimeters,forward,32.1114,seconds
+t,19.3511,celsius
+t,2.19514,celsius
+w,32.3081, nanometers, 16.1541
+d,18.3001,nanometers,right,119.931,minutes,31.5601,nanometers,right,243.571,minutes,15.6621,nanometers,right,204.021,minutes,10.9321,nanometers,right,109.091,minutes
+t,-22.3061,celsius
+t,-24.9991,kelvin
+d,13.2961,kilometers,left,242.291,sols,11.0551,kilometers,left,129.041,sols,22.5171,kilometers,left,126.971,sols,32.6141,kilometers,left,36.1214,sols
+t,-27.0341,kelvin
+t,8.91714,celsius
+d,4.36614,centimeters,forward,298.511,seconds,27.5441,centimeters,forward,135.541,seconds,12.1361,centimeters,forward,247.771,seconds,27.3281,centimeters,forward,52.1614,seconds
+t,2.59214,celsius
+w,31.1791, centimeters, 31.1791
+t,-20.5641,celsius
+d,1.48114,nanometers,right,112.101,minutes,22.0831,nanometers,right,24.5314,minutes,26.4261,nanometers,right,209.171,minutes,9.70314,nanometers,right,148.101,minutes
+t,-21.0151,kelvin
+t,13.1801,celsius
+d,21.4031,centimeters,forward,203.451,seconds,7.63214,centimeters,forward,91.6914,seconds,17.2481,centimeters,forward,188.321,seconds,11.9351,centimeters,forward,97.8314,seconds
+t,9.51014,kelvin
+t,-31.7131,celsius
+w,29.0371, nanometers, 14.5186
+d,18.1201,centimeters,forward,73.5014,seconds,29.7931,centimeters,forward,212.421,seconds,11.3161,centimeters,forward,304.261,seconds,21.2411,centimeters,forward,182.351,seconds
+t,-29.0241,celsius
+t,13.7961,celsius
+d,26.3801,kilometers,left,289.731,sols,31.4481,kilometers,left,14.5214,sols,14.6301,kilometers,left,271.381,sols,7.97914,kilometers,left,263.481,sols
+t,-20.6011,celsius
+t,11.2601,celsius
+d,10.3211,micrometers,left,122.211,sols,25.4061,micrometers,left,192.771,sols,10.0601,micrometers,left,243.321,sols,18.6501,micrometers,left,264.381,sols
+t,4.84614,celsius
+w,19.6211, kilometers, 6.54038
+t,11.1651,celsius
+d,17.9701,centimeters,forward,327.561,seconds,29.1841,centimeters,forward,193.141,seconds,13.9971,centimeters,forward,85.0314,seconds,2.19914,centimeters,forward,134.481,seconds
+t,13.5061,celsius
+t,11.7661,celsius
+d,11.3441,nanometers,right,241.531,minutes,26.6281,nanometers,right,142.241,minutes,25.4221,nanometers,right,183.011,minutes,28.5191,nanometers,right,141.041,minutes
+t,7.80114,celsius
+t,19.4911,celsius
+w,30.2781, kilometers, 10.0927
+d,31.2751,centimeters,forward,54.5114,seconds,30.4131,centimeters,forward,119.681,seconds,11.9231,centimeters,forward,8.41142,seconds,32.0281,centimeters,forward,48.2014,seconds
+t,16.3991,celsius
+t,7.39514,celsius
+d,21.4221,centimeters,forward,165.881,seconds,19.0091,centimeters,forward,209.101,seconds,29.0411,centimeters,forward,218.761,seconds,10.7801,centimeters,forward,262.601,seconds
+t,-28.5081,celsius
+t,3.97714,kelvin
+d,27.7911,centimeters,forward,137.201,seconds,2.68414,centimeters,forward,125.021,seconds,14.9141,centimeters,forward,7.88142,seconds,22.9791,centimeters,forward,288.191,seconds
+t,10.8691,celsius
+w,15.8641, kilometers, 5.28805
+t,-28.5491,celsius
+d,7.08514,centimeters,forward,45.5414,seconds,21.4941,centimeters,forward,164.611,seconds,18.2721,centimeters,forward,272.331,seconds,22.2001,centimeters,forward,318.391,seconds
+t,9.29414,kelvin
+t,1.72314,celsius
+d,14.4771,centimeters,forward,212.991,seconds,27.2701,centimeters,forward,83.3914,seconds,12.6511,centimeters,forward,0.501416,seconds,2.65714,centimeters,forward,316.341,seconds
+t,-25.3661,celsius
+t,9.45614,kelvin
+w,2.95614, kilometers, 0.985381
+d,0.580142,centimeters,forward,292.261,seconds,5.43114,centimeters,forward,127.311,seconds,25.9521,centimeters,forward,251.061,seconds,28.8821,centimeters,forward,9.01142,seconds
+t,-31.9531,celsius
+t,-31.2121,celsius
+d,28.5591,nanometers,right,212.211,minutes,20.3841,nanometers,right,295.941,minutes,10.9521,nanometers,right,176.441,minutes,5.75414,nanometers,right,178.541,minutes
+t,17.8861,celsius
+t,-32.4261,celsius
+d,32.2431,nanometers,right,12.9314,minutes,31.0721,nanometers,right,138.701,minutes,11.6461,nanometers,right,153.261,minutes,22.7471,nanometers,right,19.7014,minutes
+t,6.98114,kelvin
+w,17.0571, micrometers, 4.26429
+t,-21.6591,kelvin
+d,5.37814,nanometers,right,81.4614,minutes,6.47314,nanometers,right,258.731,minutes,31.9011,nanometers,right,225.581,minutes,9.64214,nanometers,right,34.1514,minutes
+t,3.53114,kelvin
+t,12.7421,kelvin
+d,6.30114,kilometers,left,37.1714,sols,4.60714,kilometers,left,78.2314,sols,16.9801,kilometers,left,12.5714,sols,17.2961,kilometers,left,46.3814,sols
+t,14.0321,celsius
+t,0.588142,kelvin
+w,27.2401, micrometers, 6.81004
+d,23.6431,kilometers,left,314.841,sols,2.11914,kilometers,left,20.7414,sols,23.4911,kilometers,left,37.0814,sols,8.00114,kilometers,left,93.2314,sols
+t,-22.3831,celsius
+t,16.0181,celsius
+d,12.1441,nanometers,right,298.431,minutes,12.8801,nanometers,right,310.151,minutes,0.823142,nanometers,right,25.7314,minutes,31.0741,nanometers,right,196.201,minutes
+t,3.65814,kelvin
+t,-26.0161,celsius
+d,31.6751,centimeters,forward,21.9814,seconds,26.5721,centimeters,forward,109.491,seconds,20.6661,centimeters,forward,75.4914,seconds,9.75114,centimeters,forward,98.7814,seconds
+t,1.25314,celsius
+w,26.1061, kilometers, 8.70205
+t,16.5011,celsius
+d,17.8951,centimeters,forward,12.6014,seconds,29.7031,centimeters,forward,307.961,seconds,21.6181,centimeters,forward,77.3214,seconds,10.7281,centimeters,forward,200.081,seconds
+t,-30.9951,kelvin
+t,2.10814,celsius
+d,18.3851,nanometers,right,116.981,minutes,30.5231,nanometers,right,273.601,minutes,1.94014,nanometers,right,114.661,minutes,29.0491,nanometers,right,220.441,minutes
+t,5.65314,celsius
+t,12.2781,kelvin
+w,23.8301, micrometers, 5.95754
+d,2.42414,kilometers,left,125.761,sols,10.1081,kilometers,left,248.021,sols,24.3011,kilometers,left,25.1814,sols,7.31214,kilometers,left,131.351,sols
+t,9.10114,kelvin
+t,17.0951,celsius
+d,26.4191,kilometers,left,86.6214,sols,0.798142,kilometers,left,286.121,sols,10.2961,kilometers,left,136.731,sols,0.306142,kilometers,left,327.431,sols
+t,10.9051,celsius
+t,9.94314,kelvin
+d,28.2791,centimeters,forward,254.971,seconds,11.1081,centimeters,forward,166.071,seconds,8.20914,centimeters,forward,149.611,seconds,2.39614,centimeters,forward,69.8214,seconds
+t,1.72614,celsius
+w,14.2831, centimeters, 14.2831
+t,16.6971,celsius
+d,17.1961,micrometers,left,266.021,sols,11.6911,micrometers,left,316.601,sols,3.76414,micrometers,left,214.271,sols,28.9051,micrometers,left,301.931,sols
+t,-26.9231,celsius
+t,12.8861,kelvin
+d,11.7981,nanometers,right,241.781,minutes,22.4691,nanometers,right,104.481,minutes,29.9421,nanometers,right,313.711,minutes,28.9381,nanometers,right,232.031,minutes
+t,7.91614,celsius
+t,-29.9111,celsius
+w,2.70214, kilometers, 0.900714
+d,24.0051,micrometers,left,10.2814,sols,11.6111,micrometers,left,246.151,sols,10.5131,micrometers,left,23.0214,sols,18.1661,micrometers,left,23.3314,sols
+t,-26.6121,celsius
+t,19.7661,celsius
+d,29.5311,nanometers,right,187.651,minutes,12.1661,nanometers,right,123.831,minutes,26.4061,nanometers,right,274.541,minutes,13.8311,nanometers,right,280.101,minutes
+t,4.32614,celsius
+t,-24.7141,kelvin
+d,20.4111,micrometers,left,182.141,sols,19.1761,micrometers,left,75.6214,sols,24.5871,micrometers,left,69.8214,sols,28.5441,micrometers,left,117.281,sols
+t,8.00914,celsius
+w,11.0211, centimeters, 11.0211
+t,15.7791,kelvin
+d,22.5401,nanometers,right,56.9114,minutes,25.5691,nanometers,right,101.761,minutes,28.9611,nanometers,right,96.2614,minutes,13.0011,nanometers,right,196.541,minutes
+t,-25.8651,celsius
+t,12.2631,kelvin
+d,29.5711,kilometers,left,322.241,sols,1.56714,kilometers,left,171.961,sols,2.23914,kilometers,left,296.641,sols,29.5801,kilometers,left,236.241,sols
+t,17.6281,celsius
+t,10.7771,celsius
+w,13.2971, kilometers, 4.43238
+d,22.3081,nanometers,right,147.031,minutes,30.4611,nanometers,right,207.481,minutes,25.2681,nanometers,right,115.831,minutes,17.3701,nanometers,right,325.271,minutes
+t,-22.4491,celsius
+t,13.3541,celsius
+d,20.5431,micrometers,left,202.631,sols,8.52514,micrometers,left,119.691,sols,21.3951,micrometers,left,132.911,sols,16.9661,micrometers,left,99.2314,sols
+t,18.1561,kelvin
+t,14.5381,celsius
+d,8.48014,nanometers,right,123.421,minutes,8.71214,nanometers,right,263.591,minutes,31.2551,nanometers,right,125.951,minutes,17.5181,nanometers,right,193.391,minutes
+t,16.0351,celsius
+w,14.7161, centimeters, 14.7161
+t,8.42614,celsius
+d,15.9641,kilometers,left,56.4714,sols,17.7921,kilometers,left,178.561,sols,25.7951,kilometers,left,119.591,sols,30.7281,kilometers,left,121.521,sols
+t,15.9421,kelvin
+t,9.27614,kelvin
+d,12.0631,nanometers,right,269.071,minutes,13.0451,nanometers,right,246.891,minutes,14.9841,nanometers,right,105.401,minutes,13.9511,nanometers,right,81.0014,minutes
+t,-28.3731,celsius
+t,18.4831,kelvin
+w,13.4321, micrometers, 3.35804
+d,0.610142,centimeters,forward,119.171,seconds,9.65914,centimeters,forward,191.081,seconds,29.2771,centimeters,forward,214.861,seconds,24.1331,centimeters,forward,36.2214,seconds
+t,3.79814,kelvin
+t,1.87114,celsius
+d,4.09114,centimeters,forward,244.991,seconds,14.0441,centimeters,forward,59.1914,seconds,32.0111,centimeters,forward,304.341,seconds,27.6751,centimeters,forward,138.831,seconds
+t,8.72114,celsius
+t,10.1571,celsius
+d,13.5691,micrometers,left,131.411,sols,3.97314,micrometers,left,70.0614,sols,23.6851,micrometers,left,158.821,sols,14.5341,micrometers,left,318.271,sols
+t,17.7741,celsius
+w,14.0471, centimeters, 14.0471
+t,7.80114,celsius
+d,14.5881,centimeters,forward,162.221,seconds,0.339142,centimeters,forward,173.601,seconds,23.1781,centimeters,forward,288.071,seconds,14.2231,centimeters,forward,275.351,seconds
+t,1.54014,celsius
+t,17.1391,celsius
+d,13.2161,kilometers,left,113.371,sols,4.21614,kilometers,left,70.4814,sols,23.0551,kilometers,left,78.8114,sols,4.36914,kilometers,left,172.001,sols
+t,-31.9621,celsius
+t,-20.7221,celsius
+w,4.66414, nanometers, 2.33207
+d,0.361142,centimeters,forward,108.761,seconds,29.3201,centimeters,forward,52.8714,seconds,2.39714,centimeters,forward,61.2514,seconds,1.70314,centimeters,forward,236.571,seconds
+t,14.4931,celsius
+t,17.4271,celsius
+d,12.0001,nanometers,right,270.661,minutes,19.7871,nanometers,right,292.611,minutes,26.7591,nanometers,right,212.161,minutes,0.343142,nanometers,right,259.691,minutes
+t,0.271142,kelvin
+t,7.40114,celsius
+d,7.77114,centimeters,forward,136.771,seconds,6.16014,centimeters,forward,318.131,seconds,24.5081,centimeters,forward,255.371,seconds,32.2431,centimeters,forward,174.381,seconds
+t,7.33914,celsius
+w,1.89814, nanometers, 0.949071
+t,0.0781416,kelvin
+d,24.4851,centimeters,forward,163.191,seconds,28.2041,centimeters,forward,233.361,seconds,4.28214,centimeters,forward,24.6914,seconds,0.745142,centimeters,forward,305.461,seconds
+t,3.33514,kelvin
+t,-22.0151,celsius
+d,8.43914,nanometers,right,137.091,minutes,15.0541,nanometers,right,138.091,minutes,18.2301,nanometers,right,35.6614,minutes,2.19614,nanometers,right,157.831,minutes
+t,1.01614,celsius
+t,7.23514,celsius
+w,1.52514, nanometers, 0.762571
+d,24.9291,centimeters,forward,145.171,seconds,19.7731,centimeters,forward,278.001,seconds,1.35514,centimeters,forward,312.301,seconds,27.3381,centimeters,forward,151.131,seconds
+t,-31.2941,celsius
+t,8.80314,celsius
+d,18.1641,centimeters,forward,272.691,seconds,25.5881,centimeters,forward,42.7314,seconds,20.1231,centimeters,forward,132.401,seconds,29.1861,centimeters,forward,287.121,seconds
+t,-32.3021,celsius
+t,7.71814,celsius
+d,25.0181,centimeters,forward,58.9814,seconds,31.5561,centimeters,forward,219.981,seconds,25.4111,centimeters,forward,203.151,seconds,0.647142,centimeters,forward,28.4914,seconds
+t,12.5331,kelvin
+w,6.04714, kilometers, 2.01571
+t,-31.6191,celsius
+d,9.48514,kilometers,left,10.0014,sols,9.04314,kilometers,left,297.091,sols,26.7741,kilometers,left,23.1314,sols,16.9771,kilometers,left,272.161,sols
+t,-31.4551,celsius
+t,0.480142,kelvin
+d,28.3931,centimeters,forward,31.1214,seconds,29.7391,centimeters,forward,125.001,seconds,5.64114,centimeters,forward,148.361,seconds,15.6391,centimeters,forward,181.881,seconds
+t,0.460142,kelvin
+t,7.75014,celsius
+w,0.480142, centimeters, 0.480142
+d,20.1271,kilometers,left,229.071,sols,16.0961,kilometers,left,189.001,sols,18.5441,kilometers,left,144.761,sols,1.38714,kilometers,left,128.831,sols
+t,3.51414,kelvin
+t,-32.0451,celsius
+d,17.8551,centimeters,forward,3.14142,seconds,8.72114,centimeters,forward,35.6614,seconds,11.8181,centimeters,forward,199.551,seconds,25.2611,centimeters,forward,111.901,seconds
+t,7.35114,celsius
+t,1.24014,celsius
+d,10.2601,micrometers,left,223.371,sols,7.35714,micrometers,left,205.331,sols,10.1971,micrometers,left,120.141,sols,10.5871,micrometers,left,103.271,sols
+t,-21.3081,kelvin
+w,12.4501, kilometers, 4.15005
+t,-29.0021,celsius
+d,5.12314,nanometers,right,190.331,minutes,12.8731,nanometers,right,190.531,minutes,27.5091,nanometers,right,210.281,minutes,22.5221,nanometers,right,76.1714,minutes
+t,10.3831,celsius
+t,-23.5351,celsius
+d,19.7081,kilometers,left,309.381,sols,4.37514,kilometers,left,218.251,sols,5.51014,kilometers,left,39.7514,sols,26.8991,kilometers,left,289.461,sols
+t,3.49214,kelvin
+t,-28.6631,celsius
+w,23.2741, kilometers, 7.75805
+d,1.24014,nanometers,right,143.911,minutes,9.38914,nanometers,right,221.721,minutes,18.4801,nanometers,right,75.0914,minutes,20.4181,nanometers,right,30.9614,minutes
+t,-20.8381,celsius
+t,10.6861,celsius
+d,15.4791,nanometers,right,299.421,minutes,27.0501,nanometers,right,191.681,minutes,17.4421,nanometers,right,312.441,minutes,20.0361,nanometers,right,131.211,minutes
+t,8.70914,celsius
+t,17.9991,celsius
+d,3.33314,micrometers,left,320.491,sols,2.56714,micrometers,left,138.561,sols,4.24914,micrometers,left,184.741,sols,2.25214,micrometers,left,97.7414,sols
+t,17.1441,celsius
+w,17.1081, micrometers, 4.27704
+t,-32.6101,celsius
+d,24.0381,micrometers,left,198.271,sols,26.2431,micrometers,left,242.361,sols,22.5621,micrometers,left,73.2514,sols,12.7471,micrometers,left,124.841,sols
+t,11.7921,celsius
+t,18.2111,kelvin
+d,25.9951,nanometers,right,151.691,minutes,22.7761,nanometers,right,247.561,minutes,15.7361,nanometers,right,76.8814,minutes,21.1941,nanometers,right,277.511,minutes
+t,-21.5141,kelvin
+t,-26.7401,celsius
+w,15.9001, kilometers, 5.30005
+d,19.6901,kilometers,left,295.541,sols,27.2471,kilometers,left,302.271,sols,28.4631,kilometers,left,243.451,sols,7.18514,kilometers,left,191.921,sols
+t,9.46714,kelvin
+t,10.9981,celsius
+d,22.8651,kilometers,left,268.371,sols,22.4991,kilometers,left,126.321,sols,7.05214,kilometers,left,135.901,sols,4.07214,kilometers,left,150.081,sols
+t,4.69914,celsius
+t,7.78214,celsius
+d,23.7531,micrometers,left,68.3014,sols,32.5151,micrometers,left,109.991,sols,7.22014,micrometers,left,11.5514,sols,9.22914,micrometers,left,160.411,sols
+t,-24.9421,kelvin
+w,12.6011, kilometers, 4.20038
+t,0.470142,kelvin
+d,3.23714,micrometers,left,123.071,sols,19.8421,micrometers,left,104.591,sols,1.33814,micrometers,left,254.031,sols,19.0341,micrometers,left,8.24142,sols
+t,9.90114,kelvin
+t,3.76614,kelvin
+d,15.7941,kilometers,left,22.5114,sols,4.29014,kilometers,left,311.271,sols,12.1921,kilometers,left,266.721,sols,23.4981,kilometers,left,49.2614,sols
+t,8.75514,celsius
+t,7.06914,celsius
+w,31.5061, centimeters, 31.5061
+d,7.74114,centimeters,forward,183.761,seconds,7.52314,centimeters,forward,191.621,seconds,16.8431,centimeters,forward,59.4114,seconds,16.0991,centimeters,forward,52.9714,seconds
+t,10.8761,celsius
+t,0.246142,kelvin
+d,16.7581,kilometers,left,211.891,sols,18.7931,kilometers,left,257.931,sols,24.0561,kilometers,left,169.161,sols,4.13314,kilometers,left,137.231,sols
+t,7.01714,celsius
+t,-32.0001,celsius
+d,25.3171,nanometers,right,267.771,minutes,17.6621,nanometers,right,19.4114,minutes,16.2061,nanometers,right,45.8714,minutes,30.5571,nanometers,right,194.971,minutes
+t,13.1701,celsius
+w,15.0861, nanometers, 7.54307
+t,-22.6551,celsius
+d,27.6931,centimeters,forward,221.241,seconds,16.7561,centimeters,forward,3.73142,seconds,0.735142,centimeters,forward,164.501,seconds,19.9451,centimeters,forward,170.961,seconds
+t,18.1731,kelvin
+t,2.71814,celsius
+d,0.384142,centimeters,forward,216.181,seconds,20.8721,centimeters,forward,287.451,seconds,10.7661,centimeters,forward,142.551,seconds,17.0751,centimeters,forward,322.681,seconds
+t,8.61014,celsius
+t,19.3731,celsius
+w,22.1461, nanometers, 11.0731
+d,16.5231,kilometers,left,38.4214,sols,13.7581,kilometers,left,142.371,sols,9.76314,kilometers,left,99.5314,sols,15.7881,kilometers,left,141.731,sols
+t,-22.8211,celsius
+t,-21.4101,kelvin
+d,3.56914,centimeters,forward,240.091,seconds,25.2251,centimeters,forward,73.1314,seconds,0.780142,centimeters,forward,305.281,seconds,1.39814,centimeters,forward,304.421,seconds
+t,0.561142,kelvin
+t,10.2811,celsius
+d,31.0721,centimeters,forward,176.491,seconds,21.8821,centimeters,forward,21.4214,seconds,1.21814,centimeters,forward,150.441,seconds,18.5981,centimeters,forward,301.561,seconds
+t,-22.2271,celsius
+w,1.21614, nanometers, 0.608071
+t,5.53014,celsius
+d,31.4691,centimeters,forward,178.341,seconds,12.8631,centimeters,forward,290.121,seconds,7.67814,centimeters,forward,292.561,seconds,30.1421,centimeters,forward,42.0014,seconds
+t,10.2571,celsius
+t,-28.8451,celsius
+d,31.6191,centimeters,forward,295.281,seconds,8.77814,centimeters,forward,215.091,seconds,29.7731,centimeters,forward,164.751,seconds,7.47214,centimeters,forward,220.891,seconds
+t,-20.7441,celsius
+t,-30.1981,kelvin
+w,31.6181, centimeters, 31.6181
+d,17.2991,centimeters,forward,282.261,seconds,31.6361,centimeters,forward,130.141,seconds,30.1371,centimeters,forward,116.131,seconds,27.6261,centimeters,forward,34.0014,seconds
+t,12.8751,kelvin
+t,-20.0211,celsius
+d,19.0951,nanometers,right,77.2214,minutes,25.9181,nanometers,right,146.441,minutes,9.91214,nanometers,right,71.9514,minutes,28.4091,nanometers,right,148.671,minutes
+t,-24.4731,kelvin
+t,4.24614,celsius
+d,2.29514,kilometers,left,114.221,sols,30.8521,kilometers,left,317.261,sols,9.35914,kilometers,left,177.801,sols,10.4531,kilometers,left,86.9914,sols
+t,-23.1311,celsius
+w,11.1661, centimeters, 11.1661
+t,-24.4471,kelvin
+d,22.2401,nanometers,right,142.521,minutes,25.7721,nanometers,right,193.211,minutes,10.4881,nanometers,right,172.311,minutes,9.22014,nanometers,right,167.151,minutes
+t,-22.0281,celsius
+t,-32.2141,celsius
+d,12.4671,kilometers,left,186.961,sols,31.7841,kilometers,left,142.351,sols,26.3191,kilometers,left,87.5114,sols,31.6821,kilometers,left,316.811,sols
+t,-30.2471,kelvin
+t,-20.4541,celsius
+w,12.2661, nanometers, 6.13307
+d,31.9921,nanometers,right,127.731,minutes,9.38214,nanometers,right,288.161,minutes,17.7831,nanometers,right,205.581,minutes,25.8361,nanometers,right,22.4614,minutes
+t,17.3591,celsius
+t,9.15014,kelvin
+d,13.4871,micrometers,left,219.211,sols,31.8031,micrometers,left,86.6014,sols,22.6341,micrometers,left,207.261,sols,22.7241,micrometers,left,95.0614,sols
+t,1.78614,celsius
+t,19.4271,celsius
+d,19.8961,kilometers,left,57.7114,sols,22.2891,kilometers,left,134.481,sols,20.8111,kilometers,left,296.231,sols,7.90914,kilometers,left,101.401,sols
+t,-27.3851,kelvin
+w,24.9561, centimeters, 24.9561
+t,-30.2631,kelvin
+d,7.21914,centimeters,forward,299.111,seconds,17.6701,centimeters,forward,178.931,seconds,10.6031,centimeters,forward,319.181,seconds,19.4781,centimeters,forward,320.281,seconds
+t,-27.9671,kelvin
+t,3.56814,kelvin
+d,3.39614,micrometers,left,283.771,sols,23.0091,micrometers,left,227.331,sols,7.10514,micrometers,left,281.991,sols,32.4611,micrometers,left,50.3914,sols
+t,-25.9171,celsius
+t,-30.7271,kelvin
+w,6.13214, kilometers, 2.04405
+d,10.5961,centimeters,forward,90.9114,seconds,25.4491,centimeters,forward,186.711,seconds,18.8541,centimeters,forward,3.00142,seconds,22.2621,centimeters,forward,43.9314,seconds
+t,-27.0321,kelvin
+t,-20.5341,celsius
+d,18.4101,nanometers,right,264.871,minutes,16.5581,nanometers,right,43.9314,minutes,21.0391,nanometers,right,139.191,minutes,17.4611,nanometers,right,89.1214,minutes
+t,19.3041,celsius
+t,-30.6441,kelvin
+d,10.2121,micrometers,left,193.341,sols,23.7241,micrometers,left,25.1114,sols,31.9031,micrometers,left,29.8514,sols,17.5251,micrometers,left,158.831,sols
+t,-30.3581,kelvin
+w,4.32714, centimeters, 4.32714
+t,9.85014,kelvin
+d,29.8271,kilometers,left,278.511,sols,10.8571,kilometers,left,275.271,sols,12.4051,kilometers,left,94.7614,sols,12.0091,kilometers,left,112.711,sols
+t,3.96514,kelvin
+t,13.5401,celsius
+d,11.4941,nanometers,right,299.051,minutes,10.0661,nanometers,right,260.721,minutes,4.65314,nanometers,right,268.131,minutes,21.5171,nanometers,right,280.911,minutes
+t,15.6871,kelvin
+t,-32.6531,celsius
+w,1.81714, nanometers, 0.908571
+d,31.9141,centimeters,forward,36.3814,seconds,19.5231,centimeters,forward,204.291,seconds,5.64014,centimeters,forward,36.8114,seconds,19.7941,centimeters,forward,9.82142,seconds
+t,-24.3611,kelvin
+t,12.1811,kelvin
+d,6.88714,centimeters,forward,307.801,seconds,20.8291,centimeters,forward,64.5414,seconds,26.0161,centimeters,forward,252.281,seconds,27.4441,centimeters,forward,295.801,seconds
+t,-27.7781,kelvin
+t,-25.2591,celsius
+d,14.3371,centimeters,forward,261.151,seconds,30.8531,centimeters,forward,118.431,seconds,30.2311,centimeters,forward,82.2714,seconds,23.6491,centimeters,forward,158.071,seconds
+t,11.4361,celsius
+w,4.17914, centimeters, 4.17914
+t,11.8781,celsius
+d,6.47714,micrometers,left,80.6914,sols,29.0841,micrometers,left,266.491,sols,8.86614,micrometers,left,108.321,sols,22.7661,micrometers,left,311.791,sols
+t,-27.7171,kelvin
+t,11.0561,celsius
+d,0.124142,centimeters,forward,58.8114,seconds,17.2281,centimeters,forward,19.0614,seconds,0.0241416,centimeters,forward,34.7614,seconds,3.41514,centimeters,forward,4.08142,seconds
+t,19.7371,celsius
+t,-29.6211,celsius
+w,1.98414, nanometers, 0.992071
+d,3.44214,centimeters,forward,59.0714,seconds,25.8081,centimeters,forward,147.561,seconds,26.4351,centimeters,forward,73.0614,seconds,16.7911,centimeters,forward,40.9114,seconds
+t,7.24514,celsius
+t,-25.6121,celsius
+d,20.8261,centimeters,forward,313.551,seconds,1.09614,centimeters,forward,168.031,seconds,15.6381,centimeters,forward,53.0714,seconds,13.3811,centimeters,forward,275.311,seconds
+t,12.5711,kelvin
+t,11.2121,celsius
+d,11.6691,nanometers,right,324.281,minutes,1.17814,nanometers,right,275.571,minutes,15.4381,nanometers,right,9.85142,minutes,20.1521,nanometers,right,202.961,minutes
+t,5.77114,celsius
+w,15.6001, nanometers, 7.80007
+t,-25.8351,celsius
+d,14.8471,nanometers,right,253.951,minutes,6.69114,nanometers,right,18.8514,minutes,32.3541,nanometers,right,2.26142,minutes,3.74314,nanometers,right,225.141,minutes
+t,10.4881,celsius
+t,4.13514,celsius
+d,21.8431,nanometers,right,166.301,minutes,15.8571,nanometers,right,210.561,minutes,11.7631,nanometers,right,6.58142,minutes,30.0381,nanometers,right,206.851,minutes
+t,-27.6781,kelvin
+t,-25.3421,celsius
+w,22.8181, kilometers, 7.60605
+d,19.3851,kilometers,left,316.041,sols,4.52414,kilometers,left,234.581,sols,20.7931,kilometers,left,30.7014,sols,26.9151,kilometers,left,126.641,sols
+t,7.03614,celsius
+t,11.8581,celsius
+d,12.4331,kilometers,left,24.5114,sols,16.6241,kilometers,left,107.631,sols,0.625142,kilometers,left,292.251,sols,15.8271,kilometers,left,301.491,sols
+t,3.55814,kelvin
+t,1.74014,celsius
+d,15.0531,nanometers,right,77.8914,minutes,0.660142,nanometers,right,294.821,minutes,20.2851,nanometers,right,251.781,minutes,10.7531,nanometers,right,71.7814,minutes
+t,19.7071,celsius
+w,5.50914, kilometers, 1.83638
+t,0.962142,kelvin
+d,32.2071,nanometers,right,81.3214,minutes,32.2381,nanometers,right,317.601,minutes,13.2481,nanometers,right,227.211,minutes,24.2141,nanometers,right,40.7014,minutes
+t,-23.3401,celsius
+t,-22.3481,celsius
+d,32.0991,nanometers,right,108.631,minutes,32.6491,nanometers,right,3.99142,minutes,28.0651,nanometers,right,259.751,minutes,25.7571,nanometers,right,253.281,minutes
+t,-23.1061,celsius
+t,12.5591,kelvin
+w,4.77714, nanometers, 2.38857
+d,17.9651,centimeters,forward,73.0314,seconds,6.67714,centimeters,forward,165.351,seconds,20.2191,centimeters,forward,165.181,seconds,8.86814,centimeters,forward,140.831,seconds
+t,-30.2961,kelvin
+t,16.0371,celsius
+d,23.5241,kilometers,left,239.731,sols,6.13814,kilometers,left,311.011,sols,16.7671,kilometers,left,240.681,sols,6.68814,kilometers,left,39.8214,sols
+t,6.16514,kelvin
+t,-27.4841,kelvin
+d,15.4011,nanometers,right,195.501,minutes,10.3861,nanometers,right,169.341,minutes,31.5361,nanometers,right,214.791,minutes,0.171142,nanometers,right,255.721,minutes
+t,1.68414,celsius
+w,20.6391, micrometers, 5.15979
+t,-29.7981,celsius
+d,11.0771,centimeters,forward,266.151,seconds,17.3631,centimeters,forward,203.821,seconds,19.8871,centimeters,forward,14.6714,seconds,21.4771,centimeters,forward,200.821,seconds
+t,11.7481,celsius
+t,-23.2311,celsius
+d,32.2771,nanometers,right,270.141,minutes,32.6091,nanometers,right,35.4714,minutes,0.228142,nanometers,right,239.941,minutes,4.43014,nanometers,right,39.3514,minutes
+t,-25.9331,celsius
+t,5.30114,celsius
+w,21.8961, nanometers, 10.9481
+d,6.44214,micrometers,left,284.841,sols,19.8131,micrometers,left,251.261,sols,29.5751,micrometers,left,114.991,sols,18.4621,micrometers,left,290.571,sols
+t,11.3811,celsius
+t,4.84214,celsius
+d,6.49014,micrometers,left,182.301,sols,26.0511,micrometers,left,35.9014,sols,8.89414,micrometers,left,75.6314,sols,22.9821,micrometers,left,302.481,sols
+t,-24.4681,kelvin
+t,5.99514,celsius
+d,0.483142,centimeters,forward,260.301,seconds,5.36114,centimeters,forward,65.4614,seconds,7.86314,centimeters,forward,216.871,seconds,25.1291,centimeters,forward,298.571,seconds
+t,18.9451,kelvin
+w,7.71214, centimeters, 7.71214
+t,9.06114,kelvin
+d,19.2181,kilometers,left,62.6814,sols,16.0501,kilometers,left,272.141,sols,29.9861,kilometers,left,172.081,sols,12.5451,kilometers,left,197.011,sols
+t,-25.3921,celsius
+t,13.2141,celsius
+d,10.9241,centimeters,forward,157.231,seconds,6.19714,centimeters,forward,11.2714,seconds,32.4781,centimeters,forward,197.561,seconds,21.7961,centimeters,forward,15.9214,seconds
+t,-20.1511,celsius
+t,1.64014,celsius
+w,26.9731, kilometers, 8.99105
+d,10.9801,centimeters,forward,250.011,seconds,11.5681,centimeters,forward,13.6314,seconds,3.94114,centimeters,forward,229.751,seconds,11.4721,centimeters,forward,220.621,seconds
+t,-23.1211,celsius
+t,7.69814,celsius
+d,27.5291,micrometers,left,283.971,sols,26.6601,micrometers,left,171.351,sols,5.13514,micrometers,left,253.961,sols,2.46014,micrometers,left,80.6114,sols
+t,4.66114,celsius
+t,-26.6171,celsius
+d,31.1421,centimeters,forward,203.591,seconds,7.89014,centimeters,forward,78.3714,seconds,2.69814,centimeters,forward,179.601,seconds,31.2261,centimeters,forward,214.721,seconds
+t,-26.9041,celsius
+w,31.4631, centimeters, 31.4631
+t,-21.0041,kelvin
+d,20.9171,centimeters,forward,21.4514,seconds,30.4531,centimeters,forward,93.5014,seconds,10.1971,centimeters,forward,193.371,seconds,9.08514,centimeters,forward,23.8714,seconds
+t,-24.1901,kelvin
+t,-20.9221,celsius
+d,22.8531,kilometers,left,148.021,sols,18.2321,kilometers,left,107.361,sols,28.1911,kilometers,left,32.4814,sols,24.9871,kilometers,left,151.381,sols
+t,-27.5931,kelvin
+t,-25.1521,celsius
+w,15.9081, kilometers, 5.30271
+d,0.771142,centimeters,forward,312.251,seconds,1.93514,centimeters,forward,295.441,seconds,13.7921,centimeters,forward,201.181,seconds,25.3261,centimeters,forward,294.581,seconds
+t,4.64114,celsius
+t,9.91114,kelvin
+d,31.8631,centimeters,forward,321.551,seconds,23.6611,centimeters,forward,128.341,seconds,20.3801,centimeters,forward,326.551,seconds,0.392142,centimeters,forward,166.241,seconds
+t,-26.8991,celsius
+t,4.58814,celsius
+d,27.0941,micrometers,left,282.861,sols,18.9341,micrometers,left,235.921,sols,31.0281,micrometers,left,306.941,sols,15.2831,micrometers,left,271.041,sols
+t,-32.0961,celsius
+w,26.1601, kilometers, 8.72005
+t,-21.8131,kelvin
+d,27.3831,micrometers,left,27.8514,sols,4.55614,micrometers,left,297.811,sols,18.5361,micrometers,left,315.571,sols,29.2941,micrometers,left,31.7314,sols
+t,-28.8471,celsius
+t,1.81314,celsius
+d,25.8591,nanometers,right,53.3014,minutes,11.4401,nanometers,right,64.6514,minutes,18.5041,nanometers,right,18.0614,minutes,16.2751,nanometers,right,100.141,minutes
+t,-27.2601,kelvin
+t,16.1731,celsius
+w,1.46614, nanometers, 0.733071
+d,18.6191,nanometers,right,210.761,minutes,22.4921,nanometers,right,153.091,minutes,21.8801,nanometers,right,160.041,minutes,15.3561,nanometers,right,12.2914,minutes
+t,-24.0301,kelvin
+t,-30.3401,kelvin
+d,30.2131,kilometers,left,170.101,sols,10.6051,kilometers,left,319.511,sols,7.66514,kilometers,left,174.811,sols,31.8751,kilometers,left,27.7614,sols
+t,19.1941,celsius

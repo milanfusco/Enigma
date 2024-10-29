@@ -1,3 +1,8 @@
+/**
+ * @file RecordFactory.cpp
+ * @brief Implementation of the RecordFactory class.
+ */
+
 #include "Records/RecordFactory.h"
 #include "Records/RecordParser.h"
 #include <stdexcept>
@@ -22,10 +27,15 @@ RecordPtr RecordFactory::createRecord(RecordType type,
 std::unique_ptr<NavigationRecordStrategy>
 RecordFactory::createNavigationRecordStrategy(
     const std::vector<std::string>& data) {
-  if (data.size() < 4) {
+  if (data.size() < 21) {
     throw std::invalid_argument("Invalid navigation record data");
   }
   auto measurements = RecordParser::parseDistanceMeasurements(data);
+  for (const auto& measurement : measurements) {
+    if (measurement.first.getUnitName() != "meters") {
+      measurement.first.toBaseUnit();
+    }
+  }
   return std::make_unique<NavigationRecordStrategy>(measurements);
 }
 

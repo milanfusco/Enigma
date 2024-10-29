@@ -1,6 +1,10 @@
+/**
+ * @file Statistics.cpp
+ * @brief Implementation of the Statistics class.
+ */
+
 #include <algorithm>
 #include <numeric>
-#include "Data/DataStorage.h"
 #include "Subsystems/Temperature.h"
 
 double Statistics::calculateMean(const std::vector<double>& data) {
@@ -16,8 +20,7 @@ double Statistics::calculateMedian(const std::vector<double>& data) {
   std::vector<double> sortedData = data;
   std::sort(sortedData.begin(), sortedData.end());
 
-  size_t size = sortedData.size();
-  if (size % 2 == 0) {
+  if (const size_t size = sortedData.size(); size % 2 == 0) {
     return (sortedData[size / 2 - 1] + sortedData[size / 2]) / 2.0;
   } else {
     return sortedData[size / 2];
@@ -37,9 +40,9 @@ double Statistics::calculateLowestSummerTemperature(
     }
   }
 
-  double lowestSummer1 =
+  const double lowestSummer1 =
       *std::min_element(summer1Temperatures.begin(), summer1Temperatures.end());
-  double lowestSummer2 =
+  const double lowestSummer2 =
       *std::min_element(summer2Temperatures.begin(), summer2Temperatures.end());
 
   return std::min(lowestSummer1, lowestSummer2);
@@ -58,9 +61,9 @@ double Statistics::calculateLowestWinterTemperature(
     }
   }
 
-  double lowestWinter1 =
+  const double lowestWinter1 =
       *std::min_element(winter1Temperatures.begin(), winter1Temperatures.end());
-  double lowestWinter2 =
+  const double lowestWinter2 =
       *std::min_element(winter2Temperatures.begin(), winter2Temperatures.end());
 
   return std::min(lowestWinter1, lowestWinter2);

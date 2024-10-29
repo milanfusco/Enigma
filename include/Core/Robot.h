@@ -59,7 +59,6 @@ private:
   SOLData getCurrentSOLData(int solNumber) const override;
   void reset() override;
 
-  // Additional facade methods could be added here to simplify complex operations
   void moveToLocation(double x, double y);
   void collectSample();
   void transmitData();

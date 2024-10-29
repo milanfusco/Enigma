@@ -34,7 +34,19 @@ private:
      */
     static RecordType determineRecordType(const std::vector<std::string>& parts);
 
-    
+    static inline std::string ltrim(const std::string& s) {
+        size_t start = s.find_first_not_of(" \t\n\r\f\v");
+        return (start == std::string::npos) ? "" : s.substr(start);
+    }
+
+    static inline std::string rtrim(const std::string& s) {
+        size_t end = s.find_last_not_of(" \t\n\r\f\v");
+        return (end == std::string::npos) ? "" : s.substr(0, end + 1);
+    }
+
+    static inline std::string trim(const std::string& s) {
+        return rtrim(ltrim(s));
+    }
 
     /**
      * @brief Converts a string to a DistanceUnit enum.
@@ -43,15 +55,6 @@ private:
      * @throw std::invalid_argument if the unit string is invalid.
      */
     static int stringToDistanceUnit(const std::string& unit);
-
-
-    /**
-     * @brief Converts a string to a TimeUnit enum.
-     * @param unit The string to convert.
-     * @return The TimeUnit enum.
-     * @throw std::invalid_argument if the unit string is invalid.
-     */
-    static int stringToTimeUnit(const std::string& unit);
 
     /**
      * @brief Converts a string to a TemperatureUnit enum.

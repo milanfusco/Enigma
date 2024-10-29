@@ -1,9 +1,11 @@
 #include <algorithm>
+#include <fstream>
+#include <iomanip>
 #include <iostream>
 #include <memory>
 #include <numeric>
+#include <string>
 #include <vector>
-#include <iomanip>
 #include "Core/MissionControl.h"
 #include "Core/Robot.h"
 #include "Data/DataStorage.h"
@@ -11,28 +13,39 @@
 #include "Records/RecordParser.h"
 #include "Subsystems/SampleClassification.h"
 
-int main() {
+int main(int argc, char*argv[]) {
+
+  if (argc < 2) {
+    std::__throw_runtime_error("Usage: ./main <input_file>");
+  }
+
+  std::ifstream inputFile(argv[1]);
+  if (!inputFile.is_open()) {
+    std::__throw_runtime_error("Unable to open input file");
+  }
+
+
   auto robot = Robot::createRobot();
   auto solManager = std::make_unique<SOLManager>();
   auto dataStorage = std::make_unique<DataStorage>();
   auto recordParser = std::make_unique<RecordParser>();
 
-  MissionControl missionControl(std::move(robot), std::move(solManager),
-                                std::move(dataStorage),
-                                std::move(recordParser));
+  auto missionControl = std::make_shared<MissionControl>(
+      std::move(robot), std::move(solManager), std::move(dataStorage),
+      std::move(recordParser));
+
+  missionControl->initialize();
 
   std::string record;
-  while (std::getline(std::cin, record)) {
-    missionControl.handleRecord(record);
-
-    // Increment Sol if temperature is parsed
+  while (std::getline(inputFile, record)) {
+    missionControl->handleRecord(record);
     if (record[0] == 't') {
-      missionControl.finalizeCurrentSOL();
+      missionControl->finalizeCurrentSOL();
     }
   }
 
   // Generate final report
-  auto allSOLData = missionControl.getObservations();
+  auto allSOLData = missionControl->getObservations();
 
   // Process temperature data
   std::vector<double> temperatures;
@@ -80,8 +93,9 @@ int main() {
     const auto& navData = solData.getNavigationData();
     std::cout << "SOL " << solData.getSolNumber() << ": "
               << std::setprecision(2) << std::fixed
-              << static_cast<double>(navData.finalDistance.getValue()) << " meters, "
-              << "Direction: " << static_cast<int>(navData.finalDirection)
+              << static_cast<double>(navData.finalDistance.getValue())
+              << " meters, "
+              << "Direction: " << UnitConverter::directionToString(navData.finalDirection)
               << "\n";
   }
   return 0;

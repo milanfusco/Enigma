@@ -1,3 +1,8 @@
+/**
+ * @file SampleAnalysis.cpp
+ * @brief Implementation of the SampleAnalysis class.
+ */
+
 #include "Subsystems/SampleAnalysis.h"
 #include "Subsystems/SampleClassification.h"
 

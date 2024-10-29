@@ -1,3 +1,8 @@
+/**
+ * @file DirectionManager.cpp
+ * @brief Implementation of the DirectionManager class.
+ */
+
 #include "Subsystems/Navigation.h"
 #include <cmath>
 #include <stdexcept>

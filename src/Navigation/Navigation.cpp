@@ -1,13 +1,18 @@
+/**
+ * @file Navigation.cpp
+ * @brief Implementation of the Navigation class.
+ */
+
 #include "Subsystems/Navigation.h"
 #include <cmath>
 
 void Navigation::addRecord(
     const std::vector<std::pair<Measurement, Direction>>& measurements) {
   for (const auto& [distance, direction] : measurements) {
-    double distanceInBaseUnits = distance.toBaseUnit();
+    const double distanceInBaseUnits = distance.toBaseUnit();
     position.update(direction, distanceInBaseUnits);
     if (direction == Direction::Left || direction == Direction::Right) {
-      double angle = (direction == Direction::Left) ? 90.0 : -90.0;
+      const double angle = (direction == Direction::Left) ? 90.0 : -90.0;
       directionManager.rotate(direction, angle);
     }
   }
@@ -18,7 +23,7 @@ double Navigation::calculateFinalPosition() const {
 }
 
 Direction Navigation::getFinalDirection() const {
-  double angle = directionManager.getCurrentAngle();
+  const double angle = directionManager.getCurrentAngle();
   if (angle < 45 || angle >= 315)
     return Direction::Forward;
   if (angle < 135)

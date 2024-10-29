@@ -1,3 +1,8 @@
+/**
+ * @file SolManager.cpp
+ * @brief Implementation of the SOLManager class.
+ */
+
 #include "Data/SOLManager.h"
 #include <algorithm>
 
@@ -21,12 +26,20 @@ void SOLManager::addObserver(SOLObserverPtr observer) {
 }
 
 void SOLManager::removeObserver(const SOLObserverPtr& observer) {
-  observers.erase(std::remove(observers.begin(), observers.end(), observer),
+  observers.erase(std::remove_if(observers.begin(), observers.end(),
+                  [&observer](const std::weak_ptr<SOLObserver>& observer_weak) {
+                      if (const auto obs_shared = observer_weak.lock()) {
+                          return obs_shared == observer;  // Compare the shared_ptr
+                      }
+                      return false;  // Skip if the weak_ptr is expired
+                  }),
                   observers.end());
 }
 
-void SOLManager::notifyObservers(const SOLData& solData) {
-  for (const auto& observer : observers) {
-    observer->onSOLFinalized(solData);
+void SOLManager::notifyObservers(const SOLData& solData) const {
+  for ( auto& observer_weak : observers) {
+    if (auto observer = observer_weak.lock()) {
+      observer->onSOLFinalized(solData);
+    }
   }
 }

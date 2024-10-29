@@ -23,7 +23,7 @@
  * This class coordinates the robot's activities, manages SOL data, and handles
  * record processing and storage.
  */
-class MissionControl : public SOLObserver {
+class MissionControl : public SOLObserver, public std::enable_shared_from_this<MissionControl> {
 private:
     RobotInterfacePtr robot;
     std::unique_ptr<SOLManager> solManager;
@@ -44,15 +44,20 @@ public:
                    std::unique_ptr<RecordParser> recordParser);
 
     /**
+     * @brief Initializes the MissionControl instance.
+     */
+    void initialize();
+
+    /**
      * @brief Processes a received record.
      * @param record The record string to be processed.
      */
-    void handleRecord(const std::string& record);
+    void handleRecord(const std::string& record) const;
 
     /**
      * @brief Finalizes the current SOL's data collection.
      */
-    void finalizeCurrentSOL();
+    void finalizeCurrentSOL() const;
 
     /**
      * @brief Retrieves all stored observations.

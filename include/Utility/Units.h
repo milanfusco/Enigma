@@ -1,3 +1,11 @@
+/**
+ * @file Units.h
+ * @brief Declaration of the enum classes for different units.
+ *
+ * This file defines the enum classes for different types of units and their
+ * respective unit types. It also includes the UnitConverter class, which
+ * provides functionality to convert between different units of measurement.
+ */
 #ifndef UNITS_H
 #define UNITS_H
 
@@ -24,7 +32,7 @@ enum class UnitType {
  * @brief Enumeration of different distance units.
  * i.e. Meter, Centimeter, Kilometer
  */
-enum class DistanceUnit { Meter, Centimeter, Kilometer };
+enum class DistanceUnit { Meter, Nanometer, Micrometer, Centimeter, Kilometer };
 
 /**
  * @enum Direction
@@ -33,19 +41,13 @@ enum class DistanceUnit { Meter, Centimeter, Kilometer };
  */
 enum class Direction { Forward, Backward, Left, Right };
 
+
 /**
  * @enum TemperatureUnit
  * @brief Enumeration of different temperature units.
  * i.e. Kelvin, Celsius
  */
 enum class TemperatureUnit { Kelvin, Celsius };
-
-/**
- * @enum TimeUnit
- * @brief Enumeration of different time units.
- * i.e. Second, Minute, Hour
- */
-enum class TimeUnit { Second, Minute, Hour };
 
 /**
  * @struct UnitInfo
@@ -70,8 +72,7 @@ private:
 
     std::unordered_map<int, UnitInfo> distanceUnits;
     std::unordered_map<int, UnitInfo> temperatureUnits;
-    std::unordered_map<int, UnitInfo> timeUnits;
-
+    
     /**
      * @brief Initializes the unit conversion factors and names.
      */
@@ -92,6 +93,14 @@ public:
      * @return The converted value in the base unit.
      */
     double convertToBaseUnit(double value, UnitType type, int unitEnum) const;
+
+    /**
+     * @brief Convert a Direction enum to a string.
+     * @param direction The Direction enum to convert.
+     * @return The string representation of the direction.
+     */
+    static std::string directionToString(Direction direction);
+
 
     /**
      * @brief Gets the name of a specific unit.

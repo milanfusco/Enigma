@@ -38,7 +38,6 @@ include_directories(
 
 # Gather all source files
 file(GLOB_RECURSE TARGET_SRC 
-    "src/*.cpp"
     "src/Core/*.cpp"
     "src/Data/*.cpp"
     "src/Navigation/*.cpp"
@@ -48,8 +47,27 @@ file(GLOB_RECURSE TARGET_SRC
     "src/Utility/*.cpp"
 )
 
-# Create the executable
-add_executable(main ${TARGET_SRC})
+file(GLOB_RECURSE TEST_SRC 
+    "src/Tests/*.cpp"
+)
+
+# Create a static library for the main code
+add_library(EnigmaLibrary STATIC ${TARGET_SRC})
+
+# Create the main executable
+add_executable(main src/main.cpp)
+
+# Link the main executable to the EnigmaLibrary
+target_link_libraries(main PRIVATE EnigmaLibrary)
+
+# Create the test executable
+add_executable(tests ${TEST_SRC})
+
+# Link the test executable to the EnigmaLibrary
+target_link_libraries(tests PRIVATE EnigmaLibrary)
+
+# Add a test to the build system
+add_test(NAME TestEnigma COMMAND tests)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})

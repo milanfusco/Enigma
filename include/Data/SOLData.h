@@ -1,3 +1,10 @@
+/**
+ * @file SOLData.h
+ * @brief Encapsulates all data collected during a single Sol.
+ * 
+ * The SOLData class stores all data collected during a single Sol, including
+ * temperature, navigation, and sample analysis data.
+ */
 #ifndef SOLDATA_H
 #define SOLDATA_H
 
@@ -17,7 +24,7 @@
 class SOLData {
  private:
   int solNumber;         /**< The Sol number. */
-  double SOLTemperature; /**< The temperature of the Sol. */
+  double SOLTemperature{}; /**< The temperature of the Sol. */
   NavigationRecord navigationData;   /**< The navigation data. */
   SampleClassification sampleData; /**< The sample data. */
 

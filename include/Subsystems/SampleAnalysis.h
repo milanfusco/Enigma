@@ -1,3 +1,11 @@
+/**
+ * @file SampleAnalysis.h
+ * @brief Declaration of the SampleAnalysis class.
+ *
+ * The SampleAnalysis class manages the analysis of samples collected during
+ * the mission. It provides methods to add records, classify samples, and retrieve
+ * classification results.
+ */
 #ifndef SAMPLEANALYSIS_H
 #define SAMPLEANALYSIS_H
 

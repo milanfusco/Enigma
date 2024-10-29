@@ -1,3 +1,8 @@
+/**
+ * @file SampleClassification.cpp
+ * @brief Implementation of the SampleClassification class.
+ */
+
 #include "Subsystems/SampleClassification.h"
 #include <string>
 #include <vector>
@@ -36,7 +41,7 @@ SampleClassification::SampleClassification()
     : elementLibrary(initializeElementLibrary()),
       intensityRanges(initializeIntensityRanges()) {}
 
-void SampleClassification::classify(double wavelength, double intensity) {
+void SampleClassification::classify(const double wavelength, const double intensity) {
   std::string intensityLevel;
   for (const auto& range : intensityRanges) {
     if (intensity >= range.highIntensityRange) {

@@ -1,3 +1,8 @@
+/**
+ * @file Position.cpp
+ * @brief Implementation of the Position class.
+ */
+
 #include "Subsystems/Navigation.h"
 #include <cmath>
 

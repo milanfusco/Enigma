@@ -1,3 +1,8 @@
+/**
+ * @file DataStorage.cpp
+ * @brief Implementation of the DataStorage class.
+ */
+
 #include "Data/DataStorage.h"
 #include <stdexcept>
 
@@ -9,7 +14,7 @@ std::vector<SOLData> DataStorage::getAllSOLData() const {
   return masterSOLData;
 }
 
-SOLData DataStorage::getSOLData(int solNumber) const {
+SOLData DataStorage::getSOLData(const int solNumber) const {
   for (const auto& solData : masterSOLData) {
     if (solData.getSolNumber() == solNumber) {
       return solData;
@@ -20,8 +25,8 @@ SOLData DataStorage::getSOLData(int solNumber) const {
 
 std::vector<double> createMasterTemperatureData(const std::vector<SOLData>& solData) {
   std::vector<double> MasterTemperatureData;
-  for (const auto& solData : solData) {
-    MasterTemperatureData.push_back(solData.getTemperatureData());
+  for (const auto& data : solData) {
+    MasterTemperatureData.push_back(data.getTemperatureData());
   }
   return MasterTemperatureData;
 }

@@ -1,5 +1,13 @@
-#ifndef RECORDS_h
-#define RECORDS_h
+/**
+ * @file Records.h
+ * @brief Declaration of the Records class and related types.
+ *
+ * The Records class is the base class for all types of records. It provides a
+ * common interface for processing records and delegates the actual processing
+ * to a strategy class.
+ */
+#ifndef RECORDS_H
+#define RECORDS_H
 
 #include "Utility/Measurement.h"
 #include <memory>

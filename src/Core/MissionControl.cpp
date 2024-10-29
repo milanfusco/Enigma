@@ -1,3 +1,8 @@
+/**
+ * @file MissionControl.cpp
+ * @brief Implementation of the MissionControl class.
+ */
+
 #include "MissionControl.h"
 
 MissionControl::MissionControl(RobotInterfacePtr robot,
@@ -8,17 +13,21 @@ MissionControl::MissionControl(RobotInterfacePtr robot,
       solManager(std::move(solManager)),
       dataStorage(std::move(dataStorage)),
       recordParser(std::move(recordParser)) {
-  this->solManager->addObserver(std::shared_ptr<SOLObserver>(this));
+  // Use shared_from_this() to safely add the current instance as an observer
 }
 
-void MissionControl::handleRecord(const std::string& record) {
-  RecordPtr parsedRecord = recordParser->parseRecord(record);
+void MissionControl::initialize() {
+  solManager->addObserver(shared_from_this());
+}
+
+void MissionControl::handleRecord(const std::string& record) const {
+  const RecordPtr parsedRecord = RecordParser::parseRecord(record);
   robot->processRecord(parsedRecord);
 }
 
-void MissionControl::finalizeCurrentSOL() {
-  int currentSolNumber = solManager->getCurrentSOL();
-  SOLData currentSOLData = robot->getCurrentSOLData(currentSolNumber);
+void MissionControl::finalizeCurrentSOL() const {
+  const int currentSolNumber = solManager->getCurrentSOL();
+  const SOLData currentSOLData = robot->getCurrentSOLData(currentSolNumber);
   dataStorage->storeSOLData(currentSOLData);
   solManager->advanceSOL();
   robot->reset();
@@ -29,6 +38,6 @@ std::vector<SOLData> MissionControl::getObservations() const {
 }
 
 void MissionControl::onSOLFinalized(const SOLData& solData) {
-    dataStorage->storeSOLData(solData);
-    // Additional actions when a SOL is finalized can be added here
+  dataStorage->storeSOLData(solData);
+  // Additional actions when a SOL is finalized can be added here
 }

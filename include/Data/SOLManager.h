@@ -1,9 +1,16 @@
+/**
+ * @file SOLManager.h
+ * @brief Declaration of the SOLManager class.
+ *
+ * This class manages the progression of SOLs and notifies observers of SOL
+ * finalization.
+ */
 #ifndef SOLMANAGER_H
 #define SOLMANAGER_H
 
-#include "Data/SOLData.h"
 #include <memory>
 #include <vector>
+#include "Data/SOLData.h"
 
 /**
  * @brief The initial SOL number.
@@ -37,15 +44,16 @@ using SOLObserverPtr = std::shared_ptr<SOLObserver>;
 class SOLManager {
  private:
   int currentSOL; /**< The current SOL number. */
-  int totalSOLs; /**< The total number of SOLs. */
-  std::vector<SOLObserverPtr> observers; /**< The observers of the SOL. */
+  int totalSOLs;  /**< The total number of SOLs. */
+  std::vector<std::weak_ptr<SOLObserver>>
+      observers; /**< The observers of the SOL. */
 
  public:
   /**
    * @brief Constructor for SOLManager.
    * @param totalSOLs The total number of SOLs.
    */
-  SOLManager(int totalSOLs=0);
+  SOLManager(int totalSOLs = 0);
 
   /**
    * @brief Advances to the next SOL.
@@ -80,7 +88,7 @@ class SOLManager {
    * @brief Notifies all observers of SOL finalization.
    * @param solData The finalized SOL data.
    */
-  void notifyObservers(const SOLData& solData);
+  void notifyObservers(const SOLData& solData) const;
 };
 
 #endif  // SOLMANAGER_H

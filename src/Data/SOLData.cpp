@@ -1,6 +1,12 @@
+/**
+ * @file SOLData.cpp
+ * @brief Implementation of the SOLData class.
+ */
+
 #include "Data/SOLData.h"
 
-SOLData::SOLData(int solNumber) : solNumber(solNumber) {}
+SOLData::SOLData(const int solNum) : solNumber(solNum), SOLTemperature(0), navigationData() {
+}
 
 void SOLData::storeTemperatureData(const double& data) {
   SOLTemperature = data;
