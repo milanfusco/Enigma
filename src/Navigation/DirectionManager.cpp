@@ -26,3 +26,5 @@ double DirectionManager::getCurrentAngle() const {
     }
     return currentAngle;
 }
+
+

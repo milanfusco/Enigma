@@ -5,6 +5,7 @@
 
 #include "Subsystems/Navigation.h"
 #include <cmath>
+#include <iostream> // DEBUG
 
 void Position::update(const Direction direction, const double distance) {
     switch (direction) {
@@ -20,6 +21,8 @@ void Position::update(const Direction direction, const double distance) {
         case Direction::Right:
             x += distance;
             break;
+
+    std::cout << "Updated Position: (" << x << ", " << y << ")" << std::endl; // DEBUG
     }
 }
 

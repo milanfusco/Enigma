@@ -45,6 +45,7 @@ class NavigationRecordStrategy : public RecordProcessingStrategy {
                Temperature& temperature,
                SampleAnalysis& sampleAnalysis) const override {
     navigation.addRecord(measurements);
+    NavigationRecord finalRecord = navigation.getNavigationData();
   }
 };
 

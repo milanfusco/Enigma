@@ -71,9 +71,13 @@ class DirectionManager {
 
   /**
    * @brief Gets the current angle of the robot.
+   * @param  record The current record.
    * @return The current angle in degrees.
    */
   double getCurrentAngle() const;
+
+  
+
 };
 
 /**
@@ -84,6 +88,8 @@ class Navigation {
  private:
   Position position;
   DirectionManager directionManager;
+  double finalDistance;
+  Direction finalDirection;
 
  public:
   /**
@@ -102,7 +108,7 @@ class Navigation {
    * @brief Gets the final direction of the robot.
    * @return The final direction.
    */
-  Direction getFinalDirection() const;
+  Direction processFinalDirection() const;
 
   /**
    * @brief Gets the complete navigation data.
@@ -114,6 +120,19 @@ class Navigation {
    * @brief Resets the navigation data to initial state.
    */
   void reset();
+
+
+  /**
+   * @brief Gets the final distance traveled.
+   * @return The final distance traveled.
+   */
+  inline double getFinalDistance() const { return finalDistance; }
+
+  /**
+   * @brief Gets the final direction.
+   * @return The final direction.
+   */
+  inline Direction getFinalDirection() const { return finalDirection; }
 };
 
 #endif  // NAVIGATION_H
