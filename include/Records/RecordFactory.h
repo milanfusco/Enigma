@@ -13,8 +13,13 @@
 
 #include <string>
 #include <vector>
+#include <memory>
+#include <utility> 
 #include "Records/RecordProcessingStrategies.h"
 #include "Records/Records.h"
+#include "Utility/MakeUnique.h"
+
+
 
 /**
  * @class RecordFactory

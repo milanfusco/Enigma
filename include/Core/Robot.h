@@ -10,8 +10,8 @@
 #ifndef ROBOT_H
 #define ROBOT_H
 
-#include <memory>
 #include "RobotInterface.h"
+#include "Utility/MakeUnique.h"
 
 class Navigation; // Forward declarations
 class Temperature;

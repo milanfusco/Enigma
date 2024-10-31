@@ -20,7 +20,8 @@ double Statistics::calculateMedian(const std::vector<double>& data) {
   std::vector<double> sortedData = data;
   std::sort(sortedData.begin(), sortedData.end());
 
-  if (const size_t size = sortedData.size(); size % 2 == 0) {
+  size_t size = sortedData.size();
+  if (size % 2 == 0) {
     return (sortedData[size / 2 - 1] + sortedData[size / 2]) / 2.0;
   } else {
     return sortedData[size / 2];

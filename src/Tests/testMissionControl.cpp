@@ -5,12 +5,13 @@
 #include "Data/SOLManager.h"
 #include "Data/DataStorage.h"
 #include "Records/RecordParser.h"
+#include "Utility/MakeUnique.h"
 
 void test_handle_record() {
     auto robot = Robot::createRobot();
-    auto solManager = std::make_unique<SOLManager>();
-    auto dataStorage = std::make_unique<DataStorage>();
-    auto recordParser = std::make_unique<RecordParser>();
+    auto solManager = make_unique_ptr<SOLManager>();
+    auto dataStorage = make_unique_ptr<DataStorage>();
+    auto recordParser = make_unique_ptr<RecordParser>();
 
     auto missionControl = std::make_shared<MissionControl>(std::move(robot), std::move(solManager),
                                                          std::move(dataStorage), std::move(recordParser));
@@ -30,9 +31,9 @@ void test_handle_record() {
 
 void test_distance_record() {
     auto robot = Robot::createRobot();
-    auto solManager = std::make_unique<SOLManager>();
-    auto dataStorage = std::make_unique<DataStorage>();
-    auto recordParser = std::make_unique<RecordParser>();
+    auto solManager = make_unique_ptr<SOLManager>();
+    auto dataStorage = make_unique_ptr<DataStorage>();
+    auto recordParser = make_unique_ptr<RecordParser>();
 
     auto missionControl = std::make_shared<MissionControl>(std::move(robot), std::move(solManager),
                                                          std::move(dataStorage), std::move(recordParser));
@@ -54,9 +55,9 @@ void test_distance_record() {
 
 void test_finalize_sol() {
     auto robot = Robot::createRobot();
-    auto solManager = std::make_unique<SOLManager>();
-    auto dataStorage = std::make_unique<DataStorage>();
-    auto recordParser = std::make_unique<RecordParser>();
+    auto solManager = make_unique_ptr<SOLManager>();
+    auto dataStorage = make_unique_ptr<DataStorage>();
+    auto recordParser = make_unique_ptr<RecordParser>();
 
     auto missionControl = std::make_shared<MissionControl>(std::move(robot), std::move(solManager),
                                                          std::move(dataStorage), std::move(recordParser));

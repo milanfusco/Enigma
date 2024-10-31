@@ -11,13 +11,13 @@ RecordPtr RecordFactory::createRecord(RecordType type,
                                       const std::vector<std::string>& data) {
   switch (type) {
     case RecordType::Navigation:
-      return std::make_unique<Records>(type,
+      return make_unique_ptr<Records>(type,
                                        createNavigationRecordStrategy(data));
     case RecordType::Temperature:
-      return std::make_unique<Records>(type,
+      return make_unique_ptr<Records>(type,
                                        createTemperatureRecordStrategy(data));
     case RecordType::SampleAnalysis:
-      return std::make_unique<Records>(
+      return make_unique_ptr<Records>(
           type, createSampleAnalysisRecordStrategy(data));
     default:
       throw std::invalid_argument("Unknown record type");
@@ -36,7 +36,7 @@ RecordFactory::createNavigationRecordStrategy(
       measurement.first.toBaseUnit();
     }
   }
-  return std::make_unique<NavigationRecordStrategy>(measurements);
+  return make_unique_ptr<NavigationRecordStrategy>(measurements);
 }
 
 std::unique_ptr<TemperatureRecordStrategy>
@@ -46,7 +46,7 @@ RecordFactory::createTemperatureRecordStrategy(
     throw std::invalid_argument("Invalid temperature record data");
   }
   Measurement temperature = RecordParser::parseMeasurement(data[1], data[2]);
-  return std::make_unique<TemperatureRecordStrategy>(temperature);
+  return make_unique_ptr<TemperatureRecordStrategy>(temperature);
 }
 
 std::unique_ptr<SampleAnalysisRecordStrategy>
@@ -57,5 +57,5 @@ RecordFactory::createSampleAnalysisRecordStrategy(
   }
   Measurement wavelength = RecordParser::parseMeasurement(data[1], data[2]);
   double intensity = std::stod(data[3]);
-  return std::make_unique<SampleAnalysisRecordStrategy>(wavelength, intensity);
+  return make_unique_ptr<SampleAnalysisRecordStrategy>(wavelength, intensity);
 }

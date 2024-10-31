@@ -14,6 +14,7 @@
 #include "Data/SOLManager.h"
 #include "Records/RecordParser.h"
 #include "Subsystems/SampleClassification.h"
+#include "Utility/MakeUnique.h"
 
 int main(int argc, char* argv[]) {
   if (argc < 2) {
@@ -33,9 +34,9 @@ int main(int argc, char* argv[]) {
   }
 
   auto robot = Robot::createRobot();
-  auto solManager = std::make_unique<SOLManager>();
-  auto dataStorage = std::make_unique<DataStorage>();
-  auto recordParser = std::make_unique<RecordParser>();
+  auto solManager = make_unique_ptr<SOLManager>();
+  auto dataStorage = make_unique_ptr<DataStorage>();
+  auto recordParser = make_unique_ptr<RecordParser>();
 
   auto missionControl = std::make_shared<MissionControl>(
       std::move(robot), std::move(solManager), std::move(dataStorage),

@@ -8,9 +8,9 @@
 
 // Factory function to create a Robot instance
 std::unique_ptr<Robot> Robot::createRobot() {
-  return std::make_unique<Robot>(std::make_unique<Navigation>(),
-                                 std::make_unique<Temperature>(),
-                                 std::make_unique<SampleAnalysis>());
+  return make_unique_ptr<Robot>(make_unique_ptr<Navigation>(),
+                                 make_unique_ptr<Temperature>(),
+                                 make_unique_ptr<SampleAnalysis>());
 }
 Robot::Robot(std::unique_ptr<Navigation> nav,
              std::unique_ptr<Temperature> temp,
